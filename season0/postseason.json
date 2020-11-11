@@ -26,7 +26,24 @@
                 "team1Score": 137,
                 "team2Score": 85,
                 "generations": 2613,
-                "id": "e6e4cceb-b74e-4ce8-890a-77b6389949ec"
+                "id": "e6e4cceb-b74e-4ce8-890a-77b6389949ec",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -53,7 +70,24 @@
                 "team1Score": 126,
                 "team2Score": 12,
                 "generations": 1601,
-                "id": "b69df250-76cf-45fd-9b99-7ff42e270ed5"
+                "id": "b69df250-76cf-45fd-9b99-7ff42e270ed5",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -80,7 +114,24 @@
                 "team1Score": 145,
                 "team2Score": 20,
                 "generations": 1050,
-                "id": "1ebb0820-e172-4a3d-83dc-99e9f28a4d6d"
+                "id": "1ebb0820-e172-4a3d-83dc-99e9f28a4d6d",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -107,7 +158,24 @@
                 "team1Score": 200,
                 "team2Score": 75,
                 "generations": 1606,
-                "id": "1eee6c2c-07d6-48d9-8c4e-2c4c666f36ca"
+                "id": "1eee6c2c-07d6-48d9-8c4e-2c4c666f36ca",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             }
         ],
         [
@@ -136,7 +204,24 @@
                 "team1Score": 168,
                 "team2Score": 104,
                 "generations": 1574,
-                "id": "b6fb8d99-766c-4312-b3a2-06240e8687a3"
+                "id": "b6fb8d99-766c-4312-b3a2-06240e8687a3",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -163,7 +248,24 @@
                 "team1Score": 234,
                 "team2Score": 123,
                 "generations": 3362,
-                "id": "bc09c995-f634-4a9c-a7a5-a9121ea9d8e6"
+                "id": "bc09c995-f634-4a9c-a7a5-a9121ea9d8e6",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -190,7 +292,24 @@
                 "team1Score": 56,
                 "team2Score": 4,
                 "generations": 1172,
-                "id": "c7ef294d-40b5-43c9-b1ef-693449a51ca8"
+                "id": "c7ef294d-40b5-43c9-b1ef-693449a51ca8",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -217,7 +336,24 @@
                 "team1Score": 65,
                 "team2Score": 62,
                 "generations": 1184,
-                "id": "2b13812a-6e4b-48d9-87be-6bb78238b1c7"
+                "id": "2b13812a-6e4b-48d9-87be-6bb78238b1c7",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
             }
         ],
         [
@@ -246,7 +382,24 @@
                 "team1Score": 259,
                 "team2Score": 65,
                 "generations": 3241,
-                "id": "f28af77b-2a3a-4ff6-8f47-6473ab4fc582"
+                "id": "f28af77b-2a3a-4ff6-8f47-6473ab4fc582",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -273,7 +426,24 @@
                 "team1Score": 158,
                 "team2Score": 113,
                 "generations": 1561,
-                "id": "1c7731b7-9d98-40b5-8586-21c113636064"
+                "id": "1c7731b7-9d98-40b5-8586-21c113636064",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -300,7 +470,24 @@
                 "team1Score": 310,
                 "team2Score": 19,
                 "generations": 1488,
-                "id": "52cf2a28-6b33-4944-98da-a5eb5c5b703e"
+                "id": "52cf2a28-6b33-4944-98da-a5eb5c5b703e",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -327,7 +514,24 @@
                 "team1Score": 249,
                 "team2Score": 15,
                 "generations": 1627,
-                "id": "47c5cb4c-ce9c-4565-a2b4-6295771bbe0e"
+                "id": "47c5cb4c-ce9c-4565-a2b4-6295771bbe0e",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
             }
         ],
         [
@@ -356,7 +560,24 @@
                 "team1Score": 151,
                 "team2Score": 99,
                 "generations": 1889,
-                "id": "35bc982d-1188-4ef6-bb34-ed25fd918bbc"
+                "id": "35bc982d-1188-4ef6-bb34-ed25fd918bbc",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    1
+                ]
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -383,7 +604,24 @@
                 "team1Score": 233,
                 "team2Score": 48,
                 "generations": 2591,
-                "id": "ab08709f-8ae5-4ade-b56a-02d894abad65"
+                "id": "ab08709f-8ae5-4ade-b56a-02d894abad65",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    1
+                ]
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -410,7 +648,24 @@
                 "team1Score": 257,
                 "team2Score": 3,
                 "generations": 3238,
-                "id": "e5b9e645-e7cd-443a-b28f-42e395acd255"
+                "id": "e5b9e645-e7cd-443a-b28f-42e395acd255",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    1
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -437,7 +692,24 @@
                 "team1Score": 81,
                 "team2Score": 77,
                 "generations": 1641,
-                "id": "b4d01968-9368-4be0-ac9a-f0c185c44180"
+                "id": "b4d01968-9368-4be0-ac9a-f0c185c44180",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    1
+                ]
             }
         ],
         [
@@ -466,7 +738,24 @@
                 "team1Score": 226,
                 "team2Score": 49,
                 "generations": 5234,
-                "id": "85262aa1-080e-4a4d-b4c2-b1a43257c1cc"
+                "id": "85262aa1-080e-4a4d-b4c2-b1a43257c1cc",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -493,7 +782,24 @@
                 "team1Score": 138,
                 "team2Score": 217,
                 "generations": 3778,
-                "id": "fdce0e7b-b69f-4004-b032-887c871f9bf4"
+                "id": "fdce0e7b-b69f-4004-b032-887c871f9bf4",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -520,7 +826,24 @@
                 "team1Score": 274,
                 "team2Score": 13,
                 "generations": 1118,
-                "id": "5baa6cd8-0912-43ec-8d73-d125be8c626d"
+                "id": "5baa6cd8-0912-43ec-8d73-d125be8c626d",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -547,7 +870,24 @@
                 "team1Score": 250,
                 "team2Score": 4,
                 "generations": 3590,
-                "id": "9b090cc9-0504-4261-9e86-24ae91939191"
+                "id": "9b090cc9-0504-4261-9e86-24ae91939191",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
             }
         ]
     ],
@@ -578,7 +918,24 @@
                 "team1Score": 103,
                 "team2Score": 115,
                 "generations": 2650,
-                "id": "f8ac7845-b681-4481-b005-d6ea4d12fb20"
+                "id": "f8ac7845-b681-4481-b005-d6ea4d12fb20",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -605,7 +962,24 @@
                 "team1Score": 122,
                 "team2Score": 137,
                 "generations": 1357,
-                "id": "b8dfb3f7-54f9-4990-86ab-5f832ae454c8"
+                "id": "b8dfb3f7-54f9-4990-86ab-5f832ae454c8",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             }
         ],
         [
@@ -634,7 +1008,24 @@
                 "team1Score": 16,
                 "team2Score": 280,
                 "generations": 1821,
-                "id": "85bb4be7-f250-47f2-9249-68915578ff04"
+                "id": "85bb4be7-f250-47f2-9249-68915578ff04",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    4,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    0
+                ]
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -661,7 +1052,24 @@
                 "team1Score": 133,
                 "team2Score": 90,
                 "generations": 1196,
-                "id": "51ca3031-178b-495f-b0b9-adb4ae8cdd75"
+                "id": "51ca3031-178b-495f-b0b9-adb4ae8cdd75",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    4,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    0
+                ]
             }
         ],
         [
@@ -690,7 +1098,24 @@
                 "team1Score": 169,
                 "team2Score": 41,
                 "generations": 2007,
-                "id": "74f921c2-ba9e-4104-924b-5a18a56c7e73"
+                "id": "74f921c2-ba9e-4104-924b-5a18a56c7e73",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    5,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    4
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    2
+                ]
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -717,7 +1142,24 @@
                 "team1Score": 300,
                 "team2Score": 9,
                 "generations": 2906,
-                "id": "dfd363e4-b1c0-43c2-b741-49ab76f5bbab"
+                "id": "dfd363e4-b1c0-43c2-b741-49ab76f5bbab",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    4,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    4,
+                    3
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    1
+                ]
             }
         ],
         [
@@ -746,7 +1188,24 @@
                 "team1Score": 255,
                 "team2Score": 28,
                 "generations": 2090,
-                "id": "254ba108-8a1b-4b9f-a161-e3b801b28491"
+                "id": "254ba108-8a1b-4b9f-a161-e3b801b28491",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    5,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    4,
+                    4
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    2
+                ]
             }
         ]
     ],
@@ -776,7 +1235,24 @@
                 "team1Score": 38,
                 "team2Score": 159,
                 "generations": 1497,
-                "id": "5d9aba89-cfec-4755-a1f6-daf4c5e762d6"
+                "id": "5d9aba89-cfec-4755-a1f6-daf4c5e762d6",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    6,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    6,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
             }
         ],
         [
@@ -804,7 +1280,24 @@
                 "team1Score": 352,
                 "team2Score": 34,
                 "generations": 1000,
-                "id": "722eb20d-08b9-4c54-bfef-34ddf58cf241"
+                "id": "722eb20d-08b9-4c54-bfef-34ddf58cf241",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    6,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    7,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    0
+                ]
             }
         ],
         [
@@ -832,7 +1325,24 @@
                 "team1Score": 172,
                 "team2Score": 75,
                 "generations": 1593,
-                "id": "2cb91b7a-1a67-45b7-94c0-b767e979cd74"
+                "id": "2cb91b7a-1a67-45b7-94c0-b767e979cd74",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    7,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    7,
+                    4
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    1
+                ]
             }
         ],
         [
@@ -860,7 +1370,24 @@
                 "team1Score": 374,
                 "team2Score": 6,
                 "generations": 3049,
-                "id": "b5268836-b0f8-4610-b6e3-60f7ca190fb3"
+                "id": "b5268836-b0f8-4610-b6e3-60f7ca190fb3",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    8,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    7,
+                    5
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    2
+                ]
             }
         ],
         [
@@ -888,7 +1415,24 @@
                 "team1Score": 188,
                 "team2Score": 49,
                 "generations": 2530,
-                "id": "7d7a9b8c-f7b3-44b1-bb07-c9313ef1ac1c"
+                "id": "7d7a9b8c-f7b3-44b1-bb07-c9313ef1ac1c",
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    9,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    7,
+                    6
+                ],
+                "team1SeriesWinLoss": [
+                    3,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    3
+                ]
             }
         ]
     ]
