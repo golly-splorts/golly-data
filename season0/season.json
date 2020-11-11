@@ -22,7 +22,8 @@
             },
             "team1Score": 93,
             "team2Score": 228,
-            "generations": 3244
+            "generations": 3244,
+            "id": "83384435-564a-4e04-be25-deb9a7b6f4c9"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -46,7 +47,8 @@
             },
             "team1Score": 46,
             "team2Score": 153,
-            "generations": 1491
+            "generations": 1491,
+            "id": "021e7d94-ea66-4c5b-8056-8440ff85e3eb"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -70,7 +72,8 @@
             },
             "team1Score": 211,
             "team2Score": 46,
-            "generations": 2114
+            "generations": 2114,
+            "id": "96f2c7db-56bd-47fa-bf93-c7815ab291ee"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -94,7 +97,8 @@
             },
             "team1Score": 168,
             "team2Score": 71,
-            "generations": 1743
+            "generations": 1743,
+            "id": "376bb285-c100-4008-94d1-15090876b29b"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -118,7 +122,8 @@
             },
             "team1Score": 211,
             "team2Score": 51,
-            "generations": 2331
+            "generations": 2331,
+            "id": "82dda7f4-d38f-4684-b34a-82c78ff9e7eb"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -142,7 +147,8 @@
             },
             "team1Score": 313,
             "team2Score": 35,
-            "generations": 1836
+            "generations": 1836,
+            "id": "896818c0-fe7d-47a3-86db-d07c7322797b"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -166,7 +172,8 @@
             },
             "team1Score": 97,
             "team2Score": 133,
-            "generations": 1269
+            "generations": 1269,
+            "id": "02282f22-d854-452b-9879-c022c74ddee5"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -190,7 +197,8 @@
             },
             "team1Score": 26,
             "team2Score": 92,
-            "generations": 1170
+            "generations": 1170,
+            "id": "36b6f17d-9aa6-4fb6-b771-1edee5402334"
         }
     ],
     [
@@ -216,7 +224,8 @@
             },
             "team1Score": 145,
             "team2Score": 179,
-            "generations": 1414
+            "generations": 1414,
+            "id": "a2d523e2-8ae9-46ec-a04e-9c5beae9ef33"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -240,7 +249,8 @@
             },
             "team1Score": 9,
             "team2Score": 122,
-            "generations": 1065
+            "generations": 1065,
+            "id": "66feb116-594e-4534-b9fc-493133e5340d"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -264,7 +274,8 @@
             },
             "team1Score": 265,
             "team2Score": 17,
-            "generations": 3533
+            "generations": 3533,
+            "id": "d0eb6356-86e6-4f7b-ac8a-062fc387e368"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -288,7 +299,8 @@
             },
             "team1Score": 92,
             "team2Score": 113,
-            "generations": 1667
+            "generations": 1667,
+            "id": "38a7f798-fb07-4b87-83cf-b3c138cb9c78"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -312,7 +324,8 @@
             },
             "team1Score": 180,
             "team2Score": 85,
-            "generations": 2212
+            "generations": 2212,
+            "id": "fa65a29e-0b7e-4b6f-ac23-ddfedb521f7d"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -336,7 +349,8 @@
             },
             "team1Score": 315,
             "team2Score": 8,
-            "generations": 2022
+            "generations": 2022,
+            "id": "b38b3b67-0dd1-49ca-8ca4-6ae6313f32ba"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -360,7 +374,8 @@
             },
             "team1Score": 28,
             "team2Score": 139,
-            "generations": 1058
+            "generations": 1058,
+            "id": "db6748a5-9caf-41ce-9ce6-4ea1eed849d9"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -384,7 +399,8 @@
             },
             "team1Score": 160,
             "team2Score": 90,
-            "generations": 1688
+            "generations": 1688,
+            "id": "97f0e4a0-efd3-4b06-be18-b0a7e8e10346"
         }
     ],
     [
@@ -410,7 +426,8 @@
             },
             "team1Score": 32,
             "team2Score": 52,
-            "generations": 1723
+            "generations": 1723,
+            "id": "274c48ff-6549-4f6a-9f57-936dd8b3659d"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -434,7 +451,8 @@
             },
             "team1Score": 179,
             "team2Score": 15,
-            "generations": 1637
+            "generations": 1637,
+            "id": "4bf6aa6c-81bc-48b7-9dfa-a6099abd3153"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -458,7 +476,8 @@
             },
             "team1Score": 94,
             "team2Score": 54,
-            "generations": 1151
+            "generations": 1151,
+            "id": "c6c693e2-43f6-41aa-a046-02c10020ffbf"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -482,7 +501,8 @@
             },
             "team1Score": 182,
             "team2Score": 16,
-            "generations": 1858
+            "generations": 1858,
+            "id": "80210987-0116-4584-ad46-f2453ccb643a"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -506,7 +526,8 @@
             },
             "team1Score": 42,
             "team2Score": 167,
-            "generations": 1595
+            "generations": 1595,
+            "id": "f3430c54-9289-4059-9b43-6d771a71fe72"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -530,7 +551,8 @@
             },
             "team1Score": 184,
             "team2Score": 47,
-            "generations": 2395
+            "generations": 2395,
+            "id": "7441659f-3431-49e3-9210-b62ba42a5c30"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -554,7 +576,8 @@
             },
             "team1Score": 227,
             "team2Score": 35,
-            "generations": 2111
+            "generations": 2111,
+            "id": "1d6cd1fc-d53d-4a6f-831e-e824557326af"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -578,7 +601,8 @@
             },
             "team1Score": 202,
             "team2Score": 16,
-            "generations": 1932
+            "generations": 1932,
+            "id": "3c111c0b-8ef8-4674-ac78-d99a8d1aa6eb"
         }
     ],
     [
@@ -604,7 +628,8 @@
             },
             "team1Score": 133,
             "team2Score": 132,
-            "generations": 1580
+            "generations": 1580,
+            "id": "1d9a925e-903f-4b23-af06-5208086dab2e"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -628,7 +653,8 @@
             },
             "team1Score": 310,
             "team2Score": 48,
-            "generations": 4163
+            "generations": 4163,
+            "id": "0b025df3-1881-46c9-8158-0d1056434dce"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -652,7 +678,8 @@
             },
             "team1Score": 216,
             "team2Score": 15,
-            "generations": 1254
+            "generations": 1254,
+            "id": "45a70066-8ede-4ae9-9fa4-4150087f8d90"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -676,7 +703,8 @@
             },
             "team1Score": 187,
             "team2Score": 35,
-            "generations": 1357
+            "generations": 1357,
+            "id": "bc43c54f-2e30-4a6c-956a-d49c4226798a"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -700,7 +728,8 @@
             },
             "team1Score": 118,
             "team2Score": 88,
-            "generations": 1542
+            "generations": 1542,
+            "id": "510902da-1f93-493a-905d-43fb8a67f768"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -724,7 +753,8 @@
             },
             "team1Score": 94,
             "team2Score": 56,
-            "generations": 1002
+            "generations": 1002,
+            "id": "9db11b29-8b03-4454-b1b9-5229a5098040"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -748,7 +778,8 @@
             },
             "team1Score": 165,
             "team2Score": 83,
-            "generations": 1141
+            "generations": 1141,
+            "id": "51d50607-1820-49ca-8a92-df3cea709635"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -772,7 +803,8 @@
             },
             "team1Score": 272,
             "team2Score": 36,
-            "generations": 1240
+            "generations": 1240,
+            "id": "8000c36d-1c25-437d-855b-473a3b69488b"
         }
     ],
     [
@@ -798,7 +830,8 @@
             },
             "team1Score": 156,
             "team2Score": 37,
-            "generations": 1282
+            "generations": 1282,
+            "id": "ac82be8c-0227-4d90-9552-352919c34f40"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -822,7 +855,8 @@
             },
             "team1Score": 221,
             "team2Score": 35,
-            "generations": 1775
+            "generations": 1775,
+            "id": "7b6d7363-c723-4ec6-90b5-269b8db3bedc"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -846,7 +880,8 @@
             },
             "team1Score": 189,
             "team2Score": 99,
-            "generations": 2091
+            "generations": 2091,
+            "id": "0f801780-d978-4a4e-96b3-4331a3341463"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -870,7 +905,8 @@
             },
             "team1Score": 229,
             "team2Score": 75,
-            "generations": 3199
+            "generations": 3199,
+            "id": "e4c7b19c-708f-4748-96d7-f447a7943f2b"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -894,7 +930,8 @@
             },
             "team1Score": 120,
             "team2Score": 101,
-            "generations": 1078
+            "generations": 1078,
+            "id": "1c0fb3a7-2675-4110-82f9-bf6f39a86a23"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -918,7 +955,8 @@
             },
             "team1Score": 134,
             "team2Score": 47,
-            "generations": 2496
+            "generations": 2496,
+            "id": "f7b09791-229e-4042-82e9-2a67c5c5ed58"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -942,7 +980,8 @@
             },
             "team1Score": 264,
             "team2Score": 23,
-            "generations": 2621
+            "generations": 2621,
+            "id": "82721c5a-5f50-4d93-b646-e16b31a8e3f7"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -966,7 +1005,8 @@
             },
             "team1Score": 291,
             "team2Score": 39,
-            "generations": 1105
+            "generations": 1105,
+            "id": "c4495884-92a8-4015-a5ce-9aefe658f914"
         }
     ],
     [
@@ -992,7 +1032,8 @@
             },
             "team1Score": 125,
             "team2Score": 16,
-            "generations": 1032
+            "generations": 1032,
+            "id": "6c0a79b2-7ea7-475c-92fa-7ee3622655a0"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1016,7 +1057,8 @@
             },
             "team1Score": 220,
             "team2Score": 56,
-            "generations": 1249
+            "generations": 1249,
+            "id": "d66937c2-3bee-487b-9856-00c655d99729"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -1040,7 +1082,8 @@
             },
             "team1Score": 304,
             "team2Score": 56,
-            "generations": 2365
+            "generations": 2365,
+            "id": "d880f4f4-dbfb-47a7-a277-783444d238da"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1064,7 +1107,8 @@
             },
             "team1Score": 42,
             "team2Score": 225,
-            "generations": 2137
+            "generations": 2137,
+            "id": "42769f30-5e5d-4dc0-b74e-790929916a77"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1088,7 +1132,8 @@
             },
             "team1Score": 157,
             "team2Score": 66,
-            "generations": 1359
+            "generations": 1359,
+            "id": "fafc54a8-cf8d-48c6-9876-e47171ae464d"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1112,7 +1157,8 @@
             },
             "team1Score": 111,
             "team2Score": 91,
-            "generations": 1488
+            "generations": 1488,
+            "id": "33e8d3c3-db8a-4cc0-b8eb-843a286edea3"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1136,7 +1182,8 @@
             },
             "team1Score": 82,
             "team2Score": 130,
-            "generations": 1103
+            "generations": 1103,
+            "id": "dc521a6c-3a29-4e93-89c6-a1b7f9d0c1c9"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1160,7 +1207,8 @@
             },
             "team1Score": 358,
             "team2Score": 6,
-            "generations": 1185
+            "generations": 1185,
+            "id": "335b7582-927e-4238-8aa8-9a9178554e78"
         }
     ],
     [
@@ -1186,7 +1234,8 @@
             },
             "team1Score": 59,
             "team2Score": 216,
-            "generations": 3314
+            "generations": 3314,
+            "id": "f3483082-2886-417a-9d6e-0628fcbc15f4"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1210,7 +1259,8 @@
             },
             "team1Score": 292,
             "team2Score": 29,
-            "generations": 1649
+            "generations": 1649,
+            "id": "2ce146f0-e052-4c86-b266-79fab970815d"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -1234,7 +1284,8 @@
             },
             "team1Score": 158,
             "team2Score": 110,
-            "generations": 1391
+            "generations": 1391,
+            "id": "060cb84a-6cf4-4e46-8856-b3d8ba81aa41"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1258,7 +1309,8 @@
             },
             "team1Score": 201,
             "team2Score": 17,
-            "generations": 1697
+            "generations": 1697,
+            "id": "e3f477f5-d49c-40b7-a5e1-50dbaf10c164"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1282,7 +1334,8 @@
             },
             "team1Score": 237,
             "team2Score": 0,
-            "generations": 1399
+            "generations": 1399,
+            "id": "0d8a5524-5cf0-48ec-8ff7-f509464221fc"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1306,7 +1359,8 @@
             },
             "team1Score": 319,
             "team2Score": 32,
-            "generations": 1998
+            "generations": 1998,
+            "id": "ab0ed327-0e6e-4e29-ac9d-956cf5921777"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1330,7 +1384,8 @@
             },
             "team1Score": 68,
             "team2Score": 118,
-            "generations": 1440
+            "generations": 1440,
+            "id": "912fca5f-2d13-4321-9be9-88a6059d7caa"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1354,7 +1409,8 @@
             },
             "team1Score": 185,
             "team2Score": 109,
-            "generations": 1561
+            "generations": 1561,
+            "id": "92973cae-ee4b-445c-9064-8d20aecd0bdd"
         }
     ],
     [
@@ -1380,7 +1436,8 @@
             },
             "team1Score": 113,
             "team2Score": 73,
-            "generations": 1357
+            "generations": 1357,
+            "id": "ec4d7c30-1063-40f8-9871-f4826510a961"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1404,7 +1461,8 @@
             },
             "team1Score": 302,
             "team2Score": 39,
-            "generations": 2178
+            "generations": 2178,
+            "id": "f6c12d51-aa88-445b-ab45-cb94818b75ab"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1428,7 +1486,8 @@
             },
             "team1Score": 203,
             "team2Score": 69,
-            "generations": 1447
+            "generations": 1447,
+            "id": "e229ac75-faa5-4a2f-a1ed-53851dd04545"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -1452,7 +1511,8 @@
             },
             "team1Score": 226,
             "team2Score": 61,
-            "generations": 3827
+            "generations": 3827,
+            "id": "c73ed0a2-26f8-4b17-b9ff-28471234b956"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1476,7 +1536,8 @@
             },
             "team1Score": 510,
             "team2Score": 2,
-            "generations": 2443
+            "generations": 2443,
+            "id": "438495d2-932a-48b0-bc2e-45a7f386d582"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1500,7 +1561,8 @@
             },
             "team1Score": 307,
             "team2Score": 0,
-            "generations": 1360
+            "generations": 1360,
+            "id": "3e730d7c-3c75-4832-aacc-77c73ae4928f"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1524,7 +1586,8 @@
             },
             "team1Score": 28,
             "team2Score": 285,
-            "generations": 4081
+            "generations": 4081,
+            "id": "aba41a36-f9b8-438f-b671-5f1b492ad55e"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1548,7 +1611,8 @@
             },
             "team1Score": 121,
             "team2Score": 63,
-            "generations": 2224
+            "generations": 2224,
+            "id": "5332726d-69c9-4334-8d8c-c7b0d74c2630"
         }
     ],
     [
@@ -1574,7 +1638,8 @@
             },
             "team1Score": 132,
             "team2Score": 113,
-            "generations": 1700
+            "generations": 1700,
+            "id": "11b69770-a5a2-4a58-a886-4420a8340f9a"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1598,7 +1663,8 @@
             },
             "team1Score": 133,
             "team2Score": 201,
-            "generations": 3192
+            "generations": 3192,
+            "id": "9ac3e33b-22a8-40ad-8dbb-50f2db400acf"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -1622,7 +1688,8 @@
             },
             "team1Score": 209,
             "team2Score": 47,
-            "generations": 2561
+            "generations": 2561,
+            "id": "f6a01bf9-717a-4058-ac05-66d111f7512d"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1646,7 +1713,8 @@
             },
             "team1Score": 364,
             "team2Score": 9,
-            "generations": 1829
+            "generations": 1829,
+            "id": "3997cac3-3657-40e8-857f-aec489317db8"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1670,7 +1738,8 @@
             },
             "team1Score": 121,
             "team2Score": 57,
-            "generations": 1082
+            "generations": 1082,
+            "id": "6e81c83c-c797-4a37-8f83-5ffdc680f15c"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1694,7 +1763,8 @@
             },
             "team1Score": 164,
             "team2Score": 156,
-            "generations": 1163
+            "generations": 1163,
+            "id": "c83d7477-714e-42fc-bc94-c98376e8d70b"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1718,7 +1788,8 @@
             },
             "team1Score": 285,
             "team2Score": 4,
-            "generations": 2242
+            "generations": 2242,
+            "id": "fd4379f3-d205-4638-9e87-3def90317d01"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1742,7 +1813,8 @@
             },
             "team1Score": 127,
             "team2Score": 78,
-            "generations": 1738
+            "generations": 1738,
+            "id": "3613df1b-7259-4c20-8dae-9ac1c829171c"
         }
     ],
     [
@@ -1768,7 +1840,8 @@
             },
             "team1Score": 200,
             "team2Score": 98,
-            "generations": 1562
+            "generations": 1562,
+            "id": "877e4677-adb6-47d2-b6e9-72e2336fd936"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -1792,7 +1865,8 @@
             },
             "team1Score": 257,
             "team2Score": 28,
-            "generations": 2066
+            "generations": 2066,
+            "id": "ca8c97d5-f513-44d8-8b49-a2f94cbaca3c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1816,7 +1890,8 @@
             },
             "team1Score": 247,
             "team2Score": 41,
-            "generations": 3183
+            "generations": 3183,
+            "id": "67cee8be-6c8d-4950-841a-8cecbd15b865"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1840,7 +1915,8 @@
             },
             "team1Score": 368,
             "team2Score": 4,
-            "generations": 4509
+            "generations": 4509,
+            "id": "ffa13860-e5a6-4ce6-b80b-1e7400b128b5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1864,7 +1940,8 @@
             },
             "team1Score": 36,
             "team2Score": 191,
-            "generations": 1735
+            "generations": 1735,
+            "id": "f0b9f6ad-6950-46b7-9ee7-978deab4fabb"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1888,7 +1965,8 @@
             },
             "team1Score": 231,
             "team2Score": 70,
-            "generations": 4762
+            "generations": 4762,
+            "id": "16945b73-9c5f-4df8-aa13-1c3c9ef4885f"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1912,7 +1990,8 @@
             },
             "team1Score": 178,
             "team2Score": 24,
-            "generations": 2158
+            "generations": 2158,
+            "id": "62c7896c-b67d-494a-81f0-731d3093e60e"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1936,7 +2015,8 @@
             },
             "team1Score": 40,
             "team2Score": 135,
-            "generations": 1505
+            "generations": 1505,
+            "id": "4fc67086-e230-4457-b324-f60c6dcccfd0"
         }
     ],
     [
@@ -1962,7 +2042,8 @@
             },
             "team1Score": 59,
             "team2Score": 170,
-            "generations": 1097
+            "generations": 1097,
+            "id": "44fd9ae4-8508-422a-8345-638b30bbf0a0"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1986,7 +2067,8 @@
             },
             "team1Score": 305,
             "team2Score": 26,
-            "generations": 3220
+            "generations": 3220,
+            "id": "3811bd5b-eb3b-4551-a700-f0b2944aab78"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -2010,7 +2092,8 @@
             },
             "team1Score": 377,
             "team2Score": 4,
-            "generations": 1626
+            "generations": 1626,
+            "id": "6f17cd56-6ccf-433a-9f24-be2764ec7efa"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2034,7 +2117,8 @@
             },
             "team1Score": 12,
             "team2Score": 102,
-            "generations": 1374
+            "generations": 1374,
+            "id": "a26a7cca-4b3a-4b0c-9183-db8cab00debd"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2058,7 +2142,8 @@
             },
             "team1Score": 71,
             "team2Score": 55,
-            "generations": 999
+            "generations": 999,
+            "id": "5b22bfed-2dcf-4492-920d-9726a567e6e8"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2082,7 +2167,8 @@
             },
             "team1Score": 59,
             "team2Score": 232,
-            "generations": 2834
+            "generations": 2834,
+            "id": "d0904421-3d11-40ac-822b-54f6f7a36501"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2106,7 +2192,8 @@
             },
             "team1Score": 443,
             "team2Score": 16,
-            "generations": 2047
+            "generations": 2047,
+            "id": "6c60be94-6138-4248-9d7e-2e9c5bfadb19"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2130,7 +2217,8 @@
             },
             "team1Score": 498,
             "team2Score": 0,
-            "generations": 3125
+            "generations": 3125,
+            "id": "6d29a286-fc21-4d21-898c-1a9bca17b31c"
         }
     ],
     [
@@ -2156,7 +2244,8 @@
             },
             "team1Score": 147,
             "team2Score": 146,
-            "generations": 1310
+            "generations": 1310,
+            "id": "43c1c10d-952a-4731-a56d-20a88125ed69"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2180,7 +2269,8 @@
             },
             "team1Score": 106,
             "team2Score": 157,
-            "generations": 1672
+            "generations": 1672,
+            "id": "0e6f4011-a862-4ee3-83b9-72f8b34468f5"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2204,7 +2294,8 @@
             },
             "team1Score": 270,
             "team2Score": 37,
-            "generations": 3989
+            "generations": 3989,
+            "id": "991afdd2-201c-4e28-9ed9-ca40f7471171"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -2228,7 +2319,8 @@
             },
             "team1Score": 19,
             "team2Score": 109,
-            "generations": 1066
+            "generations": 1066,
+            "id": "79980ac2-b526-4338-b920-672d7ee8a357"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2252,7 +2344,8 @@
             },
             "team1Score": 300,
             "team2Score": 28,
-            "generations": 2227
+            "generations": 2227,
+            "id": "134562b2-51cd-441d-bbe4-37160bc94632"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2276,7 +2369,8 @@
             },
             "team1Score": 57,
             "team2Score": 119,
-            "generations": 1596
+            "generations": 1596,
+            "id": "e66fb66e-54c8-4d20-b385-6f66baff69df"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2300,7 +2394,8 @@
             },
             "team1Score": 264,
             "team2Score": 55,
-            "generations": 3054
+            "generations": 3054,
+            "id": "826dcc15-adae-4a5b-af38-29152242371c"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2324,7 +2419,8 @@
             },
             "team1Score": 291,
             "team2Score": 54,
-            "generations": 6463
+            "generations": 6463,
+            "id": "5e671985-174a-4918-bd4b-0f03756c2b27"
         }
     ],
     [
@@ -2350,7 +2446,8 @@
             },
             "team1Score": 298,
             "team2Score": 46,
-            "generations": 2900
+            "generations": 2900,
+            "id": "84ea254b-06fb-456b-86db-9c4a302ca0e0"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2374,7 +2471,8 @@
             },
             "team1Score": 91,
             "team2Score": 171,
-            "generations": 2543
+            "generations": 2543,
+            "id": "fe31e75d-a401-4c76-b96a-2aebffeb2198"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -2398,7 +2496,8 @@
             },
             "team1Score": 169,
             "team2Score": 81,
-            "generations": 3491
+            "generations": 3491,
+            "id": "7accb136-14e2-4d31-9045-4421d0416f37"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2422,7 +2521,8 @@
             },
             "team1Score": 151,
             "team2Score": 35,
-            "generations": 1217
+            "generations": 1217,
+            "id": "946598df-defb-42c5-8545-ff3e18879cc9"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2446,7 +2546,8 @@
             },
             "team1Score": 107,
             "team2Score": 41,
-            "generations": 1242
+            "generations": 1242,
+            "id": "afd928e8-147f-4819-a0f6-fec2890fc446"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2470,7 +2571,8 @@
             },
             "team1Score": 99,
             "team2Score": 6,
-            "generations": 1108
+            "generations": 1108,
+            "id": "ea1fc4c0-a433-4e7e-a172-15a5f0604a40"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2494,7 +2596,8 @@
             },
             "team1Score": 326,
             "team2Score": 16,
-            "generations": 1301
+            "generations": 1301,
+            "id": "076af028-93d1-40d2-977a-6572716100b0"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2518,7 +2621,8 @@
             },
             "team1Score": 52,
             "team2Score": 91,
-            "generations": 1089
+            "generations": 1089,
+            "id": "be0dfe25-1d65-4831-89c7-6002eb4a5454"
         }
     ],
     [
@@ -2544,7 +2648,8 @@
             },
             "team1Score": 306,
             "team2Score": 75,
-            "generations": 2488
+            "generations": 2488,
+            "id": "28a018c4-2227-4b04-b9a0-dfda8c9b62aa"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -2568,7 +2673,8 @@
             },
             "team1Score": 121,
             "team2Score": 148,
-            "generations": 1447
+            "generations": 1447,
+            "id": "43c921f9-f2ae-4d3a-8efc-a99a9d804a1c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2592,7 +2698,8 @@
             },
             "team1Score": 109,
             "team2Score": 145,
-            "generations": 1764
+            "generations": 1764,
+            "id": "734eb838-dddc-4837-a6bc-25dc763cef6e"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2616,7 +2723,8 @@
             },
             "team1Score": 152,
             "team2Score": 52,
-            "generations": 1618
+            "generations": 1618,
+            "id": "0ed9bf35-62f6-456b-80f1-b7229fbeca3c"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2640,7 +2748,8 @@
             },
             "team1Score": 172,
             "team2Score": 36,
-            "generations": 1326
+            "generations": 1326,
+            "id": "8bba6d88-5a69-46ac-b705-e4bc672f1a42"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2664,7 +2773,8 @@
             },
             "team1Score": 80,
             "team2Score": 15,
-            "generations": 1034
+            "generations": 1034,
+            "id": "da1e532f-e6f6-470d-b78a-22cc4c93be49"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2688,7 +2798,8 @@
             },
             "team1Score": 323,
             "team2Score": 46,
-            "generations": 1790
+            "generations": 1790,
+            "id": "6ebb8274-a213-4207-9f3f-e0ebfa10971f"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2712,7 +2823,8 @@
             },
             "team1Score": 168,
             "team2Score": 6,
-            "generations": 1618
+            "generations": 1618,
+            "id": "827d497f-924c-4466-8ece-de16ead7cfcd"
         }
     ],
     [
@@ -2738,7 +2850,8 @@
             },
             "team1Score": 148,
             "team2Score": 45,
-            "generations": 1358
+            "generations": 1358,
+            "id": "f0586b50-47ab-4cce-a398-a29049f5956e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2762,7 +2875,8 @@
             },
             "team1Score": 320,
             "team2Score": 51,
-            "generations": 5057
+            "generations": 5057,
+            "id": "74368d75-f9c0-4513-8ce5-d328eaa10f26"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -2786,7 +2900,8 @@
             },
             "team1Score": 0,
             "team2Score": 317,
-            "generations": 1782
+            "generations": 1782,
+            "id": "8c66e327-d824-4ae7-bb50-cfaeb26141ea"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2810,7 +2925,8 @@
             },
             "team1Score": 141,
             "team2Score": 73,
-            "generations": 1059
+            "generations": 1059,
+            "id": "733f42df-a71c-4be7-a212-18540a802389"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2834,7 +2950,8 @@
             },
             "team1Score": 264,
             "team2Score": 0,
-            "generations": 1052
+            "generations": 1052,
+            "id": "f3e5519e-a9ae-4a64-8166-a2b60012e4fc"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2858,7 +2975,8 @@
             },
             "team1Score": 460,
             "team2Score": 0,
-            "generations": 2344
+            "generations": 2344,
+            "id": "4195d2dd-a74a-4473-918b-907a5872dc12"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2882,7 +3000,8 @@
             },
             "team1Score": 162,
             "team2Score": 171,
-            "generations": 2963
+            "generations": 2963,
+            "id": "f5b094ae-04bf-4cd9-872c-eb8f55b0a957"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2906,7 +3025,8 @@
             },
             "team1Score": 40,
             "team2Score": 174,
-            "generations": 2046
+            "generations": 2046,
+            "id": "165c88c6-5927-452c-ab19-2d406119f394"
         }
     ],
     [
@@ -2932,7 +3052,8 @@
             },
             "team1Score": 150,
             "team2Score": 26,
-            "generations": 1522
+            "generations": 1522,
+            "id": "3af8e72d-f0b8-4c3f-8d8d-61a9de2234bf"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2956,7 +3077,8 @@
             },
             "team1Score": 139,
             "team2Score": 67,
-            "generations": 1380
+            "generations": 1380,
+            "id": "aa6cf07b-f492-452b-a2cc-294b28213992"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -2980,7 +3102,8 @@
             },
             "team1Score": 187,
             "team2Score": 51,
-            "generations": 2145
+            "generations": 2145,
+            "id": "97395bd8-3272-4a4c-953d-24dbe26b16d4"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3004,7 +3127,8 @@
             },
             "team1Score": 194,
             "team2Score": 27,
-            "generations": 1470
+            "generations": 1470,
+            "id": "32b9d83e-45b9-4d95-95ee-7a58dd89fbd8"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3028,7 +3152,8 @@
             },
             "team1Score": 212,
             "team2Score": 3,
-            "generations": 1943
+            "generations": 1943,
+            "id": "a2966801-d166-417e-bdf0-86dc760bf20c"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3052,7 +3177,8 @@
             },
             "team1Score": 255,
             "team2Score": 19,
-            "generations": 1968
+            "generations": 1968,
+            "id": "9b1b129a-7d2c-4515-90a6-39a7c09beb6b"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3076,7 +3202,8 @@
             },
             "team1Score": 170,
             "team2Score": 31,
-            "generations": 1357
+            "generations": 1357,
+            "id": "f3751245-d7e6-4160-ba53-194cea6b82d4"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3100,7 +3227,8 @@
             },
             "team1Score": 59,
             "team2Score": 209,
-            "generations": 1636
+            "generations": 1636,
+            "id": "7f663d16-1099-484b-94c3-4a9feebc6fa1"
         }
     ],
     [
@@ -3126,7 +3254,8 @@
             },
             "team1Score": 104,
             "team2Score": 74,
-            "generations": 1191
+            "generations": 1191,
+            "id": "325d4239-dbc3-464c-a855-d6c784738ede"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3150,7 +3279,8 @@
             },
             "team1Score": 160,
             "team2Score": 97,
-            "generations": 1172
+            "generations": 1172,
+            "id": "9f7671ab-82f6-40fb-b739-f9d40a355ed8"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -3174,7 +3304,8 @@
             },
             "team1Score": 69,
             "team2Score": 163,
-            "generations": 1876
+            "generations": 1876,
+            "id": "e5659f9f-23ce-42d0-9ca5-854c7314de13"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3198,7 +3329,8 @@
             },
             "team1Score": 186,
             "team2Score": 93,
-            "generations": 1030
+            "generations": 1030,
+            "id": "88a09bc2-67e8-419d-9a8e-7afc3f311ab0"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3222,7 +3354,8 @@
             },
             "team1Score": 286,
             "team2Score": 53,
-            "generations": 1821
+            "generations": 1821,
+            "id": "48663488-cfe3-4d08-b7f1-85ba5191427d"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3246,7 +3379,8 @@
             },
             "team1Score": 116,
             "team2Score": 125,
-            "generations": 1622
+            "generations": 1622,
+            "id": "61f5ee9d-4963-41b4-84f6-60b128b999f1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3270,7 +3404,8 @@
             },
             "team1Score": 59,
             "team2Score": 54,
-            "generations": 1022
+            "generations": 1022,
+            "id": "606ed428-c83b-4ae2-a81e-40b316224198"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3294,7 +3429,8 @@
             },
             "team1Score": 377,
             "team2Score": 3,
-            "generations": 3300
+            "generations": 3300,
+            "id": "922e6798-3525-431e-a1a4-b66021ed07b2"
         }
     ],
     [
@@ -3320,7 +3456,8 @@
             },
             "team1Score": 43,
             "team2Score": 181,
-            "generations": 1480
+            "generations": 1480,
+            "id": "d01de51c-6cdf-4182-bcf4-95dd17fea107"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3344,7 +3481,8 @@
             },
             "team1Score": 72,
             "team2Score": 152,
-            "generations": 1918
+            "generations": 1918,
+            "id": "c6813a7a-f2d9-48a8-b59d-9adbf350f347"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3368,7 +3506,8 @@
             },
             "team1Score": 185,
             "team2Score": 45,
-            "generations": 1087
+            "generations": 1087,
+            "id": "ac62600d-7c71-4325-8dd6-9d0cd47bf0bd"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3392,7 +3531,8 @@
             },
             "team1Score": 124,
             "team2Score": 88,
-            "generations": 1183
+            "generations": 1183,
+            "id": "088ec6db-f3d9-46e1-9814-6e5a786380bf"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3416,7 +3556,8 @@
             },
             "team1Score": 113,
             "team2Score": 73,
-            "generations": 1357
+            "generations": 1357,
+            "id": "5700c84a-27a7-44b7-8e4d-64e1de96cf55"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3440,7 +3581,8 @@
             },
             "team1Score": 69,
             "team2Score": 59,
-            "generations": 1043
+            "generations": 1043,
+            "id": "b8fc0cab-5727-4c09-aea8-d560e1cf2d2d"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3464,7 +3606,8 @@
             },
             "team1Score": 63,
             "team2Score": 34,
-            "generations": 1036
+            "generations": 1036,
+            "id": "c7128942-2f8a-408a-b865-10bec2ade82c"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3488,7 +3631,8 @@
             },
             "team1Score": 365,
             "team2Score": 40,
-            "generations": 2488
+            "generations": 2488,
+            "id": "e7cf5065-ae5e-458e-9e35-cedf253e9b98"
         }
     ],
     [
@@ -3514,7 +3658,8 @@
             },
             "team1Score": 148,
             "team2Score": 107,
-            "generations": 1008
+            "generations": 1008,
+            "id": "225c58a5-9e2a-4685-8407-99b2ade7e83f"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3538,7 +3683,8 @@
             },
             "team1Score": 99,
             "team2Score": 51,
-            "generations": 1039
+            "generations": 1039,
+            "id": "2f542bb1-bcc5-4f34-a501-1d7b2d8daa7f"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -3562,7 +3708,8 @@
             },
             "team1Score": 144,
             "team2Score": 140,
-            "generations": 2798
+            "generations": 2798,
+            "id": "f441b669-f932-4b31-a9fa-b14f8e85fda3"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3586,7 +3733,8 @@
             },
             "team1Score": 130,
             "team2Score": 102,
-            "generations": 1468
+            "generations": 1468,
+            "id": "303976b8-f271-4952-92a2-f03ceac5085a"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3610,7 +3758,8 @@
             },
             "team1Score": 267,
             "team2Score": 43,
-            "generations": 3423
+            "generations": 3423,
+            "id": "38e47870-2561-48c6-bdf7-30b437291f28"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3634,7 +3783,8 @@
             },
             "team1Score": 41,
             "team2Score": 101,
-            "generations": 1667
+            "generations": 1667,
+            "id": "80fd84b7-fcf5-497f-b99e-104160a84fcf"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3658,7 +3808,8 @@
             },
             "team1Score": 70,
             "team2Score": 211,
-            "generations": 1252
+            "generations": 1252,
+            "id": "30301680-44b9-40f9-841b-f35c77e2b32c"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3682,7 +3833,8 @@
             },
             "team1Score": 73,
             "team2Score": 134,
-            "generations": 1380
+            "generations": 1380,
+            "id": "c55cf4b5-2750-4422-bba8-f25742d0133e"
         }
     ],
     [
@@ -3708,7 +3860,8 @@
             },
             "team1Score": 103,
             "team2Score": 348,
-            "generations": 3012
+            "generations": 3012,
+            "id": "d6ebc0e7-2258-41a1-a3b8-014f9d7a62d7"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3732,7 +3885,8 @@
             },
             "team1Score": 89,
             "team2Score": 107,
-            "generations": 1940
+            "generations": 1940,
+            "id": "14079aa1-0cbe-4817-9353-a6d19fbbf89e"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3756,7 +3910,8 @@
             },
             "team1Score": 152,
             "team2Score": 73,
-            "generations": 1440
+            "generations": 1440,
+            "id": "7e928a4a-069c-48ed-8bb0-299cada55435"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -3780,7 +3935,8 @@
             },
             "team1Score": 246,
             "team2Score": 15,
-            "generations": 2967
+            "generations": 2967,
+            "id": "add9f072-eab6-4099-8da4-37aca47959d2"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3804,7 +3960,8 @@
             },
             "team1Score": 318,
             "team2Score": 2,
-            "generations": 1537
+            "generations": 1537,
+            "id": "a02a7024-7f6b-43bb-aa7e-15a22e99b9fc"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3828,7 +3985,8 @@
             },
             "team1Score": 225,
             "team2Score": 39,
-            "generations": 1357
+            "generations": 1357,
+            "id": "078d396b-72be-4042-9e4a-7d72b083d872"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3852,7 +4010,8 @@
             },
             "team1Score": 73,
             "team2Score": 218,
-            "generations": 3906
+            "generations": 3906,
+            "id": "8038545b-daf5-42c3-b213-552cd6273113"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3876,7 +4035,8 @@
             },
             "team1Score": 114,
             "team2Score": 10,
-            "generations": 1168
+            "generations": 1168,
+            "id": "8c55b107-e569-4ee3-945e-d3d73f98e76c"
         }
     ],
     [
@@ -3902,7 +4062,8 @@
             },
             "team1Score": 298,
             "team2Score": 21,
-            "generations": 1696
+            "generations": 1696,
+            "id": "4e1f1f6c-9b0a-4373-8e1b-122bc7f85b18"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3926,7 +4087,8 @@
             },
             "team1Score": 355,
             "team2Score": 9,
-            "generations": 7215
+            "generations": 7215,
+            "id": "7afab48e-62e8-452a-81cb-644270aab435"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -3950,7 +4112,8 @@
             },
             "team1Score": 109,
             "team2Score": 96,
-            "generations": 1724
+            "generations": 1724,
+            "id": "effc6a65-ac6c-4be0-bbec-ebcadb7abb6a"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3974,7 +4137,8 @@
             },
             "team1Score": 63,
             "team2Score": 61,
-            "generations": 1596
+            "generations": 1596,
+            "id": "2b1a3cc7-cdb1-4853-ab09-850fb9275782"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3998,7 +4162,8 @@
             },
             "team1Score": 255,
             "team2Score": 82,
-            "generations": 1125
+            "generations": 1125,
+            "id": "89c983ef-b999-4566-8657-40cebf34b56d"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4022,7 +4187,8 @@
             },
             "team1Score": 40,
             "team2Score": 112,
-            "generations": 1034
+            "generations": 1034,
+            "id": "15da59ca-7fdc-4b2e-bc00-f844524282a7"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4046,7 +4212,8 @@
             },
             "team1Score": 114,
             "team2Score": 47,
-            "generations": 1220
+            "generations": 1220,
+            "id": "78b1be61-5cd9-44cf-8d05-46353969f868"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4070,7 +4237,8 @@
             },
             "team1Score": 66,
             "team2Score": 32,
-            "generations": 1284
+            "generations": 1284,
+            "id": "c84b6265-65c4-421a-b686-a0a7ce776892"
         }
     ],
     [
@@ -4096,7 +4264,8 @@
             },
             "team1Score": 290,
             "team2Score": 4,
-            "generations": 3600
+            "generations": 3600,
+            "id": "32fca5d9-c392-4f3c-95c5-a8d6bd39cbf4"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4120,7 +4289,8 @@
             },
             "team1Score": 208,
             "team2Score": 54,
-            "generations": 2649
+            "generations": 2649,
+            "id": "04b75d8c-8304-45f4-96bc-2f7002b2bf61"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4144,7 +4314,8 @@
             },
             "team1Score": 86,
             "team2Score": 157,
-            "generations": 1770
+            "generations": 1770,
+            "id": "9f8563c3-7f45-4342-ae8c-639ea8f38304"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4168,7 +4339,8 @@
             },
             "team1Score": 218,
             "team2Score": 177,
-            "generations": 2576
+            "generations": 2576,
+            "id": "aeeeda3f-9480-4c16-9202-57f1bc1661e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4192,7 +4364,8 @@
             },
             "team1Score": 195,
             "team2Score": 16,
-            "generations": 2075
+            "generations": 2075,
+            "id": "bea109da-5bae-4f3e-a399-411d6979f94c"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4216,7 +4389,8 @@
             },
             "team1Score": 226,
             "team2Score": 0,
-            "generations": 1180
+            "generations": 1180,
+            "id": "8d4008d6-a64d-4f8d-b869-795ecf774909"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4240,7 +4414,8 @@
             },
             "team1Score": 112,
             "team2Score": 149,
-            "generations": 2847
+            "generations": 2847,
+            "id": "a417dfb8-57bd-4768-bc69-55795124cb63"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4264,7 +4439,8 @@
             },
             "team1Score": 220,
             "team2Score": 5,
-            "generations": 2865
+            "generations": 2865,
+            "id": "849bbcf5-8d59-4fe7-b31e-61cf7c2cb431"
         }
     ],
     [
@@ -4290,7 +4466,8 @@
             },
             "team1Score": 181,
             "team2Score": 110,
-            "generations": 1662
+            "generations": 1662,
+            "id": "141cd31b-6245-4b5c-a27e-01e5a5bbf1a9"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4314,7 +4491,8 @@
             },
             "team1Score": 211,
             "team2Score": 35,
-            "generations": 2083
+            "generations": 2083,
+            "id": "d99ba22f-e51f-4d0a-8357-7276ce776c47"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -4338,7 +4516,8 @@
             },
             "team1Score": 345,
             "team2Score": 11,
-            "generations": 3372
+            "generations": 3372,
+            "id": "bc2b90ee-b939-41fb-b57f-afeea52b20e7"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4362,7 +4541,8 @@
             },
             "team1Score": 162,
             "team2Score": 197,
-            "generations": 2712
+            "generations": 2712,
+            "id": "022c9b1b-da5c-4204-9fd5-58c6f8a99561"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4386,7 +4566,8 @@
             },
             "team1Score": 166,
             "team2Score": 57,
-            "generations": 2174
+            "generations": 2174,
+            "id": "87bd4589-0fcf-4ec2-8995-cff051cce7aa"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4410,7 +4591,8 @@
             },
             "team1Score": 54,
             "team2Score": 42,
-            "generations": 1217
+            "generations": 1217,
+            "id": "7a884665-e4f1-4815-b4c5-c0a30c63a33c"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4434,7 +4616,8 @@
             },
             "team1Score": 153,
             "team2Score": 52,
-            "generations": 2166
+            "generations": 2166,
+            "id": "29f8e778-82d4-4ae8-bef2-65e7ee25ffc5"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4458,7 +4641,8 @@
             },
             "team1Score": 131,
             "team2Score": 50,
-            "generations": 1114
+            "generations": 1114,
+            "id": "2e9e18d5-db01-4ee6-9093-7828364574e7"
         }
     ],
     [
@@ -4484,7 +4668,8 @@
             },
             "team1Score": 100,
             "team2Score": 92,
-            "generations": 1464
+            "generations": 1464,
+            "id": "c5a8b0d1-fb0c-4247-ba5e-58aceb461801"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4508,7 +4693,8 @@
             },
             "team1Score": 61,
             "team2Score": 95,
-            "generations": 1657
+            "generations": 1657,
+            "id": "3339b868-1818-4658-897e-f77968e3f7b3"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -4532,7 +4718,8 @@
             },
             "team1Score": 323,
             "team2Score": 40,
-            "generations": 1266
+            "generations": 1266,
+            "id": "b66a00c5-3792-4cf5-b7bc-f776cf0ffdef"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4556,7 +4743,8 @@
             },
             "team1Score": 538,
             "team2Score": 0,
-            "generations": 2557
+            "generations": 2557,
+            "id": "137b20ff-482d-491a-ba04-d320b7d772cc"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4580,7 +4768,8 @@
             },
             "team1Score": 160,
             "team2Score": 109,
-            "generations": 1561
+            "generations": 1561,
+            "id": "aed182a8-16f5-4183-87dd-e1dba570afa9"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4604,7 +4793,8 @@
             },
             "team1Score": 85,
             "team2Score": 73,
-            "generations": 1154
+            "generations": 1154,
+            "id": "96e82d1f-95ca-4d04-9c04-68f22aeebe14"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4628,7 +4818,8 @@
             },
             "team1Score": 146,
             "team2Score": 48,
-            "generations": 1128
+            "generations": 1128,
+            "id": "981e820a-36c4-4bc5-b2f4-6a52ff590e61"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4652,7 +4843,8 @@
             },
             "team1Score": 24,
             "team2Score": 207,
-            "generations": 1251
+            "generations": 1251,
+            "id": "bff6588d-03d3-4e6e-ab39-3187b11226dd"
         }
     ],
     [
@@ -4678,7 +4870,8 @@
             },
             "team1Score": 154,
             "team2Score": 11,
-            "generations": 1256
+            "generations": 1256,
+            "id": "6ed46b80-0700-4c5c-b47d-6cfb12a3a4f5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4702,7 +4895,8 @@
             },
             "team1Score": 123,
             "team2Score": 6,
-            "generations": 1147
+            "generations": 1147,
+            "id": "48fa6cd5-09f6-4ca6-8208-6266e44f5857"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -4726,7 +4920,8 @@
             },
             "team1Score": 156,
             "team2Score": 97,
-            "generations": 1913
+            "generations": 1913,
+            "id": "de7e3dff-9ea2-4b62-8eed-0e4747aff041"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4750,7 +4945,8 @@
             },
             "team1Score": 170,
             "team2Score": 112,
-            "generations": 1896
+            "generations": 1896,
+            "id": "8b970dc9-08f9-401b-9c18-252de554a910"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4774,7 +4970,8 @@
             },
             "team1Score": 348,
             "team2Score": 33,
-            "generations": 2366
+            "generations": 2366,
+            "id": "3e7ac38a-6c2c-4969-be9f-622086d18318"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4798,7 +4995,8 @@
             },
             "team1Score": 203,
             "team2Score": 187,
-            "generations": 1450
+            "generations": 1450,
+            "id": "dfdf8081-36fd-45dd-a19c-331bfdff52ba"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4822,7 +5020,8 @@
             },
             "team1Score": 132,
             "team2Score": 18,
-            "generations": 1616
+            "generations": 1616,
+            "id": "f79f430c-5b0d-44c1-bbf4-7dc6899a4ea1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4846,7 +5045,8 @@
             },
             "team1Score": 61,
             "team2Score": 271,
-            "generations": 1696
+            "generations": 1696,
+            "id": "221cd24b-5363-4dbe-893e-3b2db6048975"
         }
     ],
     [
@@ -4872,7 +5072,8 @@
             },
             "team1Score": 98,
             "team2Score": 170,
-            "generations": 1876
+            "generations": 1876,
+            "id": "74e381f4-d758-4923-9d15-c3e9d9e49aca"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -4896,7 +5097,8 @@
             },
             "team1Score": 172,
             "team2Score": 4,
-            "generations": 1299
+            "generations": 1299,
+            "id": "4b370c84-f9d2-4e69-85fa-1c2b86beedee"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4920,7 +5122,8 @@
             },
             "team1Score": 117,
             "team2Score": 29,
-            "generations": 1730
+            "generations": 1730,
+            "id": "0147c612-4a8e-4b18-80ba-6088d3ad15d3"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4944,7 +5147,8 @@
             },
             "team1Score": 162,
             "team2Score": 55,
-            "generations": 1514
+            "generations": 1514,
+            "id": "8ea9447d-1751-4c05-bd30-7d382231f3d5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4968,7 +5172,8 @@
             },
             "team1Score": 336,
             "team2Score": 0,
-            "generations": 2888
+            "generations": 2888,
+            "id": "7a667287-c1b4-47ab-ab3d-e863b5ed3894"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4992,7 +5197,8 @@
             },
             "team1Score": 158,
             "team2Score": 97,
-            "generations": 1449
+            "generations": 1449,
+            "id": "1ddc2045-c7a3-4c97-959d-02f4d304e90c"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5016,7 +5222,8 @@
             },
             "team1Score": 174,
             "team2Score": 136,
-            "generations": 2149
+            "generations": 2149,
+            "id": "fc72250b-965d-4dcb-923c-cbd0b1b0bd39"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5040,7 +5247,8 @@
             },
             "team1Score": 193,
             "team2Score": 11,
-            "generations": 2007
+            "generations": 2007,
+            "id": "27e7de21-a6dd-416f-a070-45abcf5e7d11"
         }
     ],
     [
@@ -5066,7 +5274,8 @@
             },
             "team1Score": 53,
             "team2Score": 59,
-            "generations": 1009
+            "generations": 1009,
+            "id": "fdbb34c5-8308-4620-abe6-2cf04ac3e6bd"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5090,7 +5299,8 @@
             },
             "team1Score": 168,
             "team2Score": 93,
-            "generations": 3066
+            "generations": 3066,
+            "id": "fb7f06cd-f3d4-4ba2-b80f-05be1418d9bb"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -5114,7 +5324,8 @@
             },
             "team1Score": 104,
             "team2Score": 137,
-            "generations": 4025
+            "generations": 4025,
+            "id": "2903f407-be14-4331-8c9c-56dbb041b694"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5138,7 +5349,8 @@
             },
             "team1Score": 268,
             "team2Score": 23,
-            "generations": 2621
+            "generations": 2621,
+            "id": "b35865b7-3a85-4a05-abe8-de33a082ec21"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5162,7 +5374,8 @@
             },
             "team1Score": 325,
             "team2Score": 22,
-            "generations": 1477
+            "generations": 1477,
+            "id": "65c33606-e2d1-413b-b6af-1adcf1d72d41"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5186,7 +5399,8 @@
             },
             "team1Score": 127,
             "team2Score": 98,
-            "generations": 1477
+            "generations": 1477,
+            "id": "de11b063-1acf-429f-86c0-8cc51fcde2c4"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5210,7 +5424,8 @@
             },
             "team1Score": 68,
             "team2Score": 232,
-            "generations": 2309
+            "generations": 2309,
+            "id": "0982a88c-f6d0-4672-8761-03a8439f3f29"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5234,7 +5449,8 @@
             },
             "team1Score": 58,
             "team2Score": 168,
-            "generations": 1416
+            "generations": 1416,
+            "id": "d18c23cd-ff3a-4e93-a53f-6463183a02ee"
         }
     ],
     [
@@ -5260,7 +5476,8 @@
             },
             "team1Score": 128,
             "team2Score": 15,
-            "generations": 1196
+            "generations": 1196,
+            "id": "625628c6-e068-4a38-87d1-f6af20da14c8"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -5284,7 +5501,8 @@
             },
             "team1Score": 36,
             "team2Score": 123,
-            "generations": 1116
+            "generations": 1116,
+            "id": "cd4c5d37-c2b0-422b-9949-c3af2ed2e637"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5308,7 +5526,8 @@
             },
             "team1Score": 124,
             "team2Score": 81,
-            "generations": 1829
+            "generations": 1829,
+            "id": "09d1fd00-4fb3-444e-a39f-116e6e0ca91b"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5332,7 +5551,8 @@
             },
             "team1Score": 98,
             "team2Score": 78,
-            "generations": 1641
+            "generations": 1641,
+            "id": "41eef5be-b069-407f-8194-62e738b3e408"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5356,7 +5576,8 @@
             },
             "team1Score": 307,
             "team2Score": 52,
-            "generations": 1924
+            "generations": 1924,
+            "id": "e8ca4def-82aa-4bad-842d-f635713760df"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5380,7 +5601,8 @@
             },
             "team1Score": 217,
             "team2Score": 59,
-            "generations": 3080
+            "generations": 3080,
+            "id": "b4f3b478-fc0c-4666-834e-219ef2f81c8e"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5404,7 +5626,8 @@
             },
             "team1Score": 223,
             "team2Score": 50,
-            "generations": 1856
+            "generations": 1856,
+            "id": "f9d33910-3d0a-41c6-8e3d-3d2cc36d9724"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5428,7 +5651,8 @@
             },
             "team1Score": 146,
             "team2Score": 55,
-            "generations": 1204
+            "generations": 1204,
+            "id": "4fdce0d6-8c6e-4942-beb4-a6ad66085696"
         }
     ],
     [
@@ -5454,7 +5678,8 @@
             },
             "team1Score": 44,
             "team2Score": 179,
-            "generations": 1467
+            "generations": 1467,
+            "id": "946aeb97-51b6-4e6e-9a2e-6b86663c6202"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -5478,7 +5703,8 @@
             },
             "team1Score": 208,
             "team2Score": 30,
-            "generations": 1119
+            "generations": 1119,
+            "id": "28958438-958f-441a-a4e3-1b8a23c081b0"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -5502,7 +5728,8 @@
             },
             "team1Score": 128,
             "team2Score": 74,
-            "generations": 1108
+            "generations": 1108,
+            "id": "04cd7312-fca7-4acf-86ab-57f279e7841f"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5526,7 +5753,8 @@
             },
             "team1Score": 233,
             "team2Score": 34,
-            "generations": 1447
+            "generations": 1447,
+            "id": "45b3d91c-8bd7-4e64-8958-ffed8d0d77f2"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5550,7 +5778,8 @@
             },
             "team1Score": 548,
             "team2Score": 19,
-            "generations": 1169
+            "generations": 1169,
+            "id": "4cdeddae-43e1-4d70-a10b-e5a3e43f6b8c"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5574,7 +5803,8 @@
             },
             "team1Score": 73,
             "team2Score": 40,
-            "generations": 1088
+            "generations": 1088,
+            "id": "e5aa60f1-a089-4d0e-8aef-6a548882594b"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5598,7 +5828,8 @@
             },
             "team1Score": 65,
             "team2Score": 61,
-            "generations": 1184
+            "generations": 1184,
+            "id": "28ba2bba-8dcd-49f4-b044-6153b404b8fc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5622,7 +5853,8 @@
             },
             "team1Score": 114,
             "team2Score": 98,
-            "generations": 2590
+            "generations": 2590,
+            "id": "1286e1cc-88f2-46b5-a205-78a0db954cbf"
         }
     ],
     [
@@ -5648,7 +5880,8 @@
             },
             "team1Score": 124,
             "team2Score": 30,
-            "generations": 1449
+            "generations": 1449,
+            "id": "0ebd55cf-177a-4a90-867f-4dcfe5dfc1fa"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -5672,7 +5905,8 @@
             },
             "team1Score": 128,
             "team2Score": 40,
-            "generations": 1788
+            "generations": 1788,
+            "id": "c5800f62-0226-40d3-8f9a-5cb1896fbd8b"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5696,7 +5930,8 @@
             },
             "team1Score": 126,
             "team2Score": 110,
-            "generations": 1064
+            "generations": 1064,
+            "id": "30833938-1ae6-4bf0-ae25-7606e6f9d60e"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5720,7 +5955,8 @@
             },
             "team1Score": 127,
             "team2Score": 86,
-            "generations": 1387
+            "generations": 1387,
+            "id": "4cd1d9c4-2fe3-4ae3-9f4d-d19003c5eb72"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5744,7 +5980,8 @@
             },
             "team1Score": 239,
             "team2Score": 39,
-            "generations": 1121
+            "generations": 1121,
+            "id": "a7b794d9-9a31-44ab-bd01-48173931ad1f"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5768,7 +6005,8 @@
             },
             "team1Score": 73,
             "team2Score": 37,
-            "generations": 1111
+            "generations": 1111,
+            "id": "90e9cdf3-40b4-4125-866b-616c1394e772"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5792,7 +6030,8 @@
             },
             "team1Score": 54,
             "team2Score": 121,
-            "generations": 1694
+            "generations": 1694,
+            "id": "41bb9eec-1459-4311-96a6-4f3794b0972a"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5816,7 +6055,8 @@
             },
             "team1Score": 179,
             "team2Score": 90,
-            "generations": 1576
+            "generations": 1576,
+            "id": "a89ffcba-f4f9-40aa-8003-9f883d0f62a0"
         }
     ],
     [
@@ -5842,7 +6082,8 @@
             },
             "team1Score": 69,
             "team2Score": 125,
-            "generations": 1853
+            "generations": 1853,
+            "id": "c8381a0e-ba2c-4ede-8d3f-111eacc23b96"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -5866,7 +6107,8 @@
             },
             "team1Score": 298,
             "team2Score": 44,
-            "generations": 1629
+            "generations": 1629,
+            "id": "07c81c0d-bf9e-41d7-969a-9c63308368d1"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -5890,7 +6132,8 @@
             },
             "team1Score": 203,
             "team2Score": 13,
-            "generations": 2554
+            "generations": 2554,
+            "id": "8f153df7-d46e-4736-8cf7-9eece5cf07d8"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5914,7 +6157,8 @@
             },
             "team1Score": 185,
             "team2Score": 139,
-            "generations": 1371
+            "generations": 1371,
+            "id": "bfc181a5-9cc7-48c8-bd79-a699e1eb9207"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5938,7 +6182,8 @@
             },
             "team1Score": 63,
             "team2Score": 102,
-            "generations": 1184
+            "generations": 1184,
+            "id": "13361244-6a2a-4e18-a639-19e1a0f0c218"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5962,7 +6207,8 @@
             },
             "team1Score": 153,
             "team2Score": 209,
-            "generations": 5047
+            "generations": 5047,
+            "id": "5ab1b577-233a-44ca-9650-e52ad931d263"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5986,7 +6232,8 @@
             },
             "team1Score": 335,
             "team2Score": 23,
-            "generations": 4738
+            "generations": 4738,
+            "id": "89a1bc7d-ff6a-4c51-a4dc-f7f00dab715a"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6010,7 +6257,8 @@
             },
             "team1Score": 322,
             "team2Score": 36,
-            "generations": 2904
+            "generations": 2904,
+            "id": "dfb16f53-0e68-4962-8a65-fe76bb782454"
         }
     ],
     [
@@ -6036,7 +6284,8 @@
             },
             "team1Score": 95,
             "team2Score": 81,
-            "generations": 1120
+            "generations": 1120,
+            "id": "95662e9e-3ac7-436e-b639-ee3059d3129e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6060,7 +6309,8 @@
             },
             "team1Score": 416,
             "team2Score": 2,
-            "generations": 1883
+            "generations": 1883,
+            "id": "f045925a-73fa-45c6-af41-12855067d6b7"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6084,7 +6334,8 @@
             },
             "team1Score": 286,
             "team2Score": 0,
-            "generations": 1521
+            "generations": 1521,
+            "id": "36771ebb-8d1d-46ef-9876-75e586d9b612"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6108,7 +6359,8 @@
             },
             "team1Score": 239,
             "team2Score": 56,
-            "generations": 3661
+            "generations": 3661,
+            "id": "472aac82-2947-463f-a96d-e8b245d5a8f9"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6132,7 +6384,8 @@
             },
             "team1Score": 113,
             "team2Score": 191,
-            "generations": 2005
+            "generations": 2005,
+            "id": "644de543-d173-4325-a689-9e56204f4f49"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6156,7 +6409,8 @@
             },
             "team1Score": 105,
             "team2Score": 121,
-            "generations": 2070
+            "generations": 2070,
+            "id": "d3229455-d0e7-4b92-ae69-5582e0711f3d"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6180,7 +6434,8 @@
             },
             "team1Score": 149,
             "team2Score": 41,
-            "generations": 1154
+            "generations": 1154,
+            "id": "6af7420e-f5b7-44a5-a934-0fb357356687"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6204,7 +6459,8 @@
             },
             "team1Score": 200,
             "team2Score": 59,
-            "generations": 2624
+            "generations": 2624,
+            "id": "e74cec7f-56a5-4d81-a4e1-8617434fe9d1"
         }
     ],
     [
@@ -6230,7 +6486,8 @@
             },
             "team1Score": 215,
             "team2Score": 73,
-            "generations": 4027
+            "generations": 4027,
+            "id": "46168aa0-9787-4b9f-97d7-b3c0b93a38fe"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6254,7 +6511,8 @@
             },
             "team1Score": 257,
             "team2Score": 86,
-            "generations": 2614
+            "generations": 2614,
+            "id": "3c8786f9-9b76-4ebf-b022-9bd865e778b5"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -6278,7 +6536,8 @@
             },
             "team1Score": 505,
             "team2Score": 0,
-            "generations": 2552
+            "generations": 2552,
+            "id": "aab5ced7-82f1-4378-8f7a-cef96569300b"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6302,7 +6561,8 @@
             },
             "team1Score": 182,
             "team2Score": 88,
-            "generations": 3531
+            "generations": 3531,
+            "id": "8f33ac89-7935-4b99-8d85-f80ba1d7c423"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6326,7 +6586,8 @@
             },
             "team1Score": 534,
             "team2Score": 0,
-            "generations": 2131
+            "generations": 2131,
+            "id": "3d7d319f-6a79-4eff-b141-7c9bfd257ec1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6350,7 +6611,8 @@
             },
             "team1Score": 43,
             "team2Score": 131,
-            "generations": 1264
+            "generations": 1264,
+            "id": "c00d06d7-dbe9-4522-81b6-87d5f383a911"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6374,7 +6636,8 @@
             },
             "team1Score": 68,
             "team2Score": 93,
-            "generations": 1089
+            "generations": 1089,
+            "id": "179473cb-9650-4639-a4ae-ca4d2925f87e"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6398,7 +6661,8 @@
             },
             "team1Score": 193,
             "team2Score": 22,
-            "generations": 2023
+            "generations": 2023,
+            "id": "862bb35a-74b4-46e8-8ea0-e22fcf53e4e9"
         }
     ],
     [
@@ -6424,7 +6688,8 @@
             },
             "team1Score": 270,
             "team2Score": 14,
-            "generations": 6247
+            "generations": 6247,
+            "id": "d852483a-d998-4d0b-be47-31ac977d814c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6448,7 +6713,8 @@
             },
             "team1Score": 202,
             "team2Score": 91,
-            "generations": 2692
+            "generations": 2692,
+            "id": "4414f8af-b3a7-4ca3-8399-bddbd659d706"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6472,7 +6738,8 @@
             },
             "team1Score": 176,
             "team2Score": 11,
-            "generations": 2473
+            "generations": 2473,
+            "id": "160872ff-7ebf-4434-8539-a25f47164ddc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -6496,7 +6763,8 @@
             },
             "team1Score": 327,
             "team2Score": 20,
-            "generations": 4326
+            "generations": 4326,
+            "id": "241e9646-04b9-437f-bb28-92cb0dcf7d18"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6520,7 +6788,8 @@
             },
             "team1Score": 238,
             "team2Score": 43,
-            "generations": 1683
+            "generations": 1683,
+            "id": "256dc419-b6f6-4551-86d5-f56214bdba81"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6544,7 +6813,8 @@
             },
             "team1Score": 139,
             "team2Score": 103,
-            "generations": 2069
+            "generations": 2069,
+            "id": "e2c15270-44b4-426b-9057-7c2c5b3f4837"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6568,7 +6838,8 @@
             },
             "team1Score": 101,
             "team2Score": 120,
-            "generations": 2539
+            "generations": 2539,
+            "id": "5646b3a3-0f1f-4762-a834-81460f1b3350"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6592,7 +6863,8 @@
             },
             "team1Score": 181,
             "team2Score": 19,
-            "generations": 1501
+            "generations": 1501,
+            "id": "b4aac94d-1960-41ef-88f6-119b0d7f7062"
         }
     ],
     [
@@ -6618,7 +6890,8 @@
             },
             "team1Score": 582,
             "team2Score": 0,
-            "generations": 3464
+            "generations": 3464,
+            "id": "3786d079-9889-43bb-8dfc-b6410946c4b2"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -6642,7 +6915,8 @@
             },
             "team1Score": 144,
             "team2Score": 68,
-            "generations": 2219
+            "generations": 2219,
+            "id": "43aba4fe-98ed-40df-83fc-e8d5e444c489"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -6666,7 +6940,8 @@
             },
             "team1Score": 147,
             "team2Score": 105,
-            "generations": 2170
+            "generations": 2170,
+            "id": "b23000b4-c6fd-4be0-9c83-f63d3e01a166"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6690,7 +6965,8 @@
             },
             "team1Score": 232,
             "team2Score": 10,
-            "generations": 1812
+            "generations": 1812,
+            "id": "818932db-aec4-4afe-ae3e-89b1655a9993"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6714,7 +6990,8 @@
             },
             "team1Score": 278,
             "team2Score": 78,
-            "generations": 1156
+            "generations": 1156,
+            "id": "f501878b-ef9a-4793-adbd-1b3f8cdb8b20"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6738,7 +7015,8 @@
             },
             "team1Score": 194,
             "team2Score": 30,
-            "generations": 1535
+            "generations": 1535,
+            "id": "23e87ae8-0c8f-4071-846a-4178fdd695e7"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6762,7 +7040,8 @@
             },
             "team1Score": 111,
             "team2Score": 49,
-            "generations": 1642
+            "generations": 1642,
+            "id": "31870c0c-6a68-4d43-8d4f-23d6034297e0"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6786,7 +7065,8 @@
             },
             "team1Score": 160,
             "team2Score": 119,
-            "generations": 1561
+            "generations": 1561,
+            "id": "f98abd53-1e9c-4e81-8dfd-a900f92da176"
         }
     ],
     [
@@ -6812,7 +7092,8 @@
             },
             "team1Score": 107,
             "team2Score": 37,
-            "generations": 1301
+            "generations": 1301,
+            "id": "ea2a28b0-0b16-42fe-b654-f8236c8774dc"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6836,7 +7117,8 @@
             },
             "team1Score": 513,
             "team2Score": 0,
-            "generations": 3069
+            "generations": 3069,
+            "id": "d551ba4f-c42d-469e-acdd-ebb61deb6a15"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6860,7 +7142,8 @@
             },
             "team1Score": 191,
             "team2Score": 25,
-            "generations": 1686
+            "generations": 1686,
+            "id": "3d0fa09c-45a6-4aaa-a634-7aed4e2797d2"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -6884,7 +7167,8 @@
             },
             "team1Score": 119,
             "team2Score": 15,
-            "generations": 1109
+            "generations": 1109,
+            "id": "df696017-214a-4905-9281-a825e11625f0"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6908,7 +7192,8 @@
             },
             "team1Score": 386,
             "team2Score": 14,
-            "generations": 2938
+            "generations": 2938,
+            "id": "c12c5d1b-b558-4500-8951-8f408ac6a89e"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6932,7 +7217,8 @@
             },
             "team1Score": 339,
             "team2Score": 14,
-            "generations": 2905
+            "generations": 2905,
+            "id": "5d1fbda2-644e-4ed9-9067-9a058f73b10e"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6956,7 +7242,8 @@
             },
             "team1Score": 245,
             "team2Score": 6,
-            "generations": 2227
+            "generations": 2227,
+            "id": "4e2d075b-76e3-4a8f-8c3d-d6860b4a9198"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6980,7 +7267,8 @@
             },
             "team1Score": 187,
             "team2Score": 68,
-            "generations": 1183
+            "generations": 1183,
+            "id": "f95f4eb0-5621-41da-a712-0104ebf9f58c"
         }
     ],
     [
@@ -7006,7 +7294,8 @@
             },
             "team1Score": 34,
             "team2Score": 216,
-            "generations": 1732
+            "generations": 1732,
+            "id": "2c55416b-f5cc-4193-88b3-4ac535c08c5f"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7030,7 +7319,8 @@
             },
             "team1Score": 139,
             "team2Score": 6,
-            "generations": 1266
+            "generations": 1266,
+            "id": "de5a0292-aae6-4b46-9060-fc1680d3bcec"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -7054,7 +7344,8 @@
             },
             "team1Score": 89,
             "team2Score": 86,
-            "generations": 1366
+            "generations": 1366,
+            "id": "82cde1b7-9311-45e6-878b-a1be07bdb175"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7078,7 +7369,8 @@
             },
             "team1Score": 87,
             "team2Score": 32,
-            "generations": 2041
+            "generations": 2041,
+            "id": "eae55b4a-7a52-4bb3-8d79-80acb2bcd35e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7102,7 +7394,8 @@
             },
             "team1Score": 344,
             "team2Score": 43,
-            "generations": 1284
+            "generations": 1284,
+            "id": "3a06d4c4-84ba-4aaa-b51b-8c71c9ab49a2"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7126,7 +7419,8 @@
             },
             "team1Score": 129,
             "team2Score": 53,
-            "generations": 2461
+            "generations": 2461,
+            "id": "b73d44a3-c0a8-4c3d-8dab-9f77cf306354"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7150,7 +7444,8 @@
             },
             "team1Score": 151,
             "team2Score": 110,
-            "generations": 1547
+            "generations": 1547,
+            "id": "437b7685-02ad-49d0-81a5-7b9afcff4609"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7174,7 +7469,8 @@
             },
             "team1Score": 255,
             "team2Score": 92,
-            "generations": 3528
+            "generations": 3528,
+            "id": "2b84da95-3f56-4a72-9f1f-bf3870763f8e"
         }
     ],
     [
@@ -7200,7 +7496,8 @@
             },
             "team1Score": 198,
             "team2Score": 11,
-            "generations": 2007
+            "generations": 2007,
+            "id": "5ac22a47-1ff0-46fd-b4c8-61709226d625"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7224,7 +7521,8 @@
             },
             "team1Score": 10,
             "team2Score": 48,
-            "generations": 1128
+            "generations": 1128,
+            "id": "60d6e85f-5baf-4c12-8146-c987d0578f5a"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -7248,7 +7546,8 @@
             },
             "team1Score": 143,
             "team2Score": 25,
-            "generations": 1107
+            "generations": 1107,
+            "id": "0c613fb2-8429-4ee8-9165-efbb4335ece2"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7272,7 +7571,8 @@
             },
             "team1Score": 196,
             "team2Score": 67,
-            "generations": 3870
+            "generations": 3870,
+            "id": "dd827964-0f23-4d7d-bfb7-3f88de28af97"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7296,7 +7596,8 @@
             },
             "team1Score": 385,
             "team2Score": 6,
-            "generations": 3276
+            "generations": 3276,
+            "id": "b1d8988a-ac46-4d6f-8df1-5f180001bead"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7320,7 +7621,8 @@
             },
             "team1Score": 162,
             "team2Score": 47,
-            "generations": 2959
+            "generations": 2959,
+            "id": "f9e2bb18-0343-4400-a7f0-2ebde1d8bfbd"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7344,7 +7646,8 @@
             },
             "team1Score": 223,
             "team2Score": 3,
-            "generations": 3012
+            "generations": 3012,
+            "id": "f03f6c31-3817-4dd4-ac23-95c719ff9c9b"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7368,7 +7671,8 @@
             },
             "team1Score": 128,
             "team2Score": 130,
-            "generations": 1609
+            "generations": 1609,
+            "id": "8b002ce7-c580-474f-bcdb-c2cd2be42cc7"
         }
     ],
     [
@@ -7394,7 +7698,8 @@
             },
             "team1Score": 329,
             "team2Score": 10,
-            "generations": 2917
+            "generations": 2917,
+            "id": "c262ce85-f6d2-4488-b4a4-ad8e2299f35f"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7418,7 +7723,8 @@
             },
             "team1Score": 56,
             "team2Score": 49,
-            "generations": 1091
+            "generations": 1091,
+            "id": "a84962d1-8361-4220-868f-7230693b5bd7"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7442,7 +7748,8 @@
             },
             "team1Score": 348,
             "team2Score": 12,
-            "generations": 4780
+            "generations": 4780,
+            "id": "130ce4bc-695a-429d-ae74-9fb8b1cae9bc"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -7466,7 +7773,8 @@
             },
             "team1Score": 256,
             "team2Score": 21,
-            "generations": 2813
+            "generations": 2813,
+            "id": "34d81a0d-3ff3-473d-9735-f4bca02ce2e0"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7490,7 +7798,8 @@
             },
             "team1Score": 273,
             "team2Score": 0,
-            "generations": 2436
+            "generations": 2436,
+            "id": "320326dc-eedb-4bab-b263-34c4380ee950"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7514,7 +7823,8 @@
             },
             "team1Score": 214,
             "team2Score": 39,
-            "generations": 2051
+            "generations": 2051,
+            "id": "70917c91-ce40-4515-b746-8fe02b3c29fe"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7538,7 +7848,8 @@
             },
             "team1Score": 117,
             "team2Score": 90,
-            "generations": 1123
+            "generations": 1123,
+            "id": "41fa44c9-6d57-48ab-a49d-d7f3f7973d01"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7562,7 +7873,8 @@
             },
             "team1Score": 191,
             "team2Score": 124,
-            "generations": 1620
+            "generations": 1620,
+            "id": "4f8e3f97-0966-4ee8-856c-e3bff7c21fb9"
         }
     ],
     [
@@ -7588,7 +7900,8 @@
             },
             "team1Score": 348,
             "team2Score": 24,
-            "generations": 1262
+            "generations": 1262,
+            "id": "3b3bd6e4-6f83-4e57-b533-9b5d56055e10"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -7612,7 +7925,8 @@
             },
             "team1Score": 46,
             "team2Score": 129,
-            "generations": 1476
+            "generations": 1476,
+            "id": "1bef19e2-9262-41ac-bd13-00cf051c2857"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7636,7 +7950,8 @@
             },
             "team1Score": 313,
             "team2Score": 15,
-            "generations": 2045
+            "generations": 2045,
+            "id": "fe4848bc-179a-4c64-b7a7-feca1a9a0641"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -7660,7 +7975,8 @@
             },
             "team1Score": 103,
             "team2Score": 78,
-            "generations": 1828
+            "generations": 1828,
+            "id": "f2be8b12-a355-4cc0-aa06-89c230a036ef"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7684,7 +8000,8 @@
             },
             "team1Score": 102,
             "team2Score": 206,
-            "generations": 1634
+            "generations": 1634,
+            "id": "e7ecf29d-ee18-43af-8a1d-6f40b2432b95"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7708,7 +8025,8 @@
             },
             "team1Score": 327,
             "team2Score": 57,
-            "generations": 1194
+            "generations": 1194,
+            "id": "4fec74db-254f-4512-a312-9fd0241b5db1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7732,7 +8050,8 @@
             },
             "team1Score": 71,
             "team2Score": 195,
-            "generations": 1905
+            "generations": 1905,
+            "id": "72b682a9-5561-4613-8abf-aaefa887fa2c"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7756,7 +8075,8 @@
             },
             "team1Score": 296,
             "team2Score": 36,
-            "generations": 3354
+            "generations": 3354,
+            "id": "0a05e7b7-6346-4ddc-81d7-2314da898815"
         }
     ],
     [
@@ -7782,7 +8102,8 @@
             },
             "team1Score": 23,
             "team2Score": 209,
-            "generations": 2003
+            "generations": 2003,
+            "id": "08be371e-d442-4405-9869-95c4f4af59c8"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -7806,7 +8127,8 @@
             },
             "team1Score": 108,
             "team2Score": 74,
-            "generations": 1224
+            "generations": 1224,
+            "id": "11a3b274-6d34-418d-9659-93eb2bffdd6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7830,7 +8152,8 @@
             },
             "team1Score": 290,
             "team2Score": 0,
-            "generations": 1356
+            "generations": 1356,
+            "id": "62bba958-3c07-4e31-999a-cb5c8ed2eea7"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -7854,7 +8177,8 @@
             },
             "team1Score": 335,
             "team2Score": 16,
-            "generations": 4449
+            "generations": 4449,
+            "id": "a92f4237-0ca6-4856-b969-7c566c794246"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7878,7 +8202,8 @@
             },
             "team1Score": 166,
             "team2Score": 69,
-            "generations": 3081
+            "generations": 3081,
+            "id": "66e145c4-d4a7-4b49-893b-82fbb1aa39d8"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7902,7 +8227,8 @@
             },
             "team1Score": 305,
             "team2Score": 24,
-            "generations": 1221
+            "generations": 1221,
+            "id": "f060bcae-e987-4979-90ed-294f9af6d8cd"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7926,7 +8252,8 @@
             },
             "team1Score": 243,
             "team2Score": 38,
-            "generations": 3060
+            "generations": 3060,
+            "id": "a3b9faa2-0660-4790-9012-8ef396488356"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7950,7 +8277,8 @@
             },
             "team1Score": 117,
             "team2Score": 87,
-            "generations": 1034
+            "generations": 1034,
+            "id": "4c4cf5c0-682c-435f-9d01-21ab7cc277e2"
         }
     ],
     [
@@ -7976,7 +8304,8 @@
             },
             "team1Score": 39,
             "team2Score": 269,
-            "generations": 3207
+            "generations": 3207,
+            "id": "921f4191-c532-417a-884b-1385b02d272d"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -8000,7 +8329,8 @@
             },
             "team1Score": 212,
             "team2Score": 77,
-            "generations": 1641
+            "generations": 1641,
+            "id": "47f994a4-c76e-4d0a-8501-4d45da7c37d3"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8024,7 +8354,8 @@
             },
             "team1Score": 139,
             "team2Score": 7,
-            "generations": 1087
+            "generations": 1087,
+            "id": "d80e9404-10e6-42c9-bd52-6633d70990bc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -8048,7 +8379,8 @@
             },
             "team1Score": 140,
             "team2Score": 77,
-            "generations": 1678
+            "generations": 1678,
+            "id": "f631e7d4-91e0-44b8-b37a-6f9797940104"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8072,7 +8404,8 @@
             },
             "team1Score": 243,
             "team2Score": 50,
-            "generations": 2423
+            "generations": 2423,
+            "id": "6eb12f25-7843-4ea8-87f3-4d86b52454a5"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8096,7 +8429,8 @@
             },
             "team1Score": 260,
             "team2Score": 108,
-            "generations": 3594
+            "generations": 3594,
+            "id": "5c5bc717-c0cd-4ec1-88c6-ab83186c3bf4"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8120,7 +8454,8 @@
             },
             "team1Score": 339,
             "team2Score": 56,
-            "generations": 4938
+            "generations": 4938,
+            "id": "a2360407-e811-4f77-921f-6c9554e83dc3"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8144,7 +8479,8 @@
             },
             "team1Score": 83,
             "team2Score": 150,
-            "generations": 2183
+            "generations": 2183,
+            "id": "12a6b22b-77c5-483d-bb5d-682313b1420f"
         }
     ],
     [
@@ -8170,7 +8506,8 @@
             },
             "team1Score": 103,
             "team2Score": 46,
-            "generations": 1306
+            "generations": 1306,
+            "id": "fa3fd75d-eacb-413b-880f-1fac2cfc55e8"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -8194,7 +8531,8 @@
             },
             "team1Score": 280,
             "team2Score": 22,
-            "generations": 2641
+            "generations": 2641,
+            "id": "2363fe32-3e22-4068-8f5e-3646e558e007"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -8218,7 +8556,8 @@
             },
             "team1Score": 87,
             "team2Score": 94,
-            "generations": 1176
+            "generations": 1176,
+            "id": "c76a0fca-c4a0-4fcf-b79c-4185300bc930"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8242,7 +8581,8 @@
             },
             "team1Score": 125,
             "team2Score": 137,
-            "generations": 2028
+            "generations": 2028,
+            "id": "743c5dd0-4bbc-4b91-b3f4-9f7a76e8c784"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8266,7 +8606,8 @@
             },
             "team1Score": 121,
             "team2Score": 134,
-            "generations": 1606
+            "generations": 1606,
+            "id": "497c0495-1b89-4ebc-b160-e9210f0ad8b6"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8290,7 +8631,8 @@
             },
             "team1Score": 87,
             "team2Score": 65,
-            "generations": 1740
+            "generations": 1740,
+            "id": "f9261443-8f01-4d93-8690-b823754ba825"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8314,7 +8656,8 @@
             },
             "team1Score": 176,
             "team2Score": 117,
-            "generations": 1458
+            "generations": 1458,
+            "id": "03ec0220-ede1-414c-abf9-2e4e6035bc75"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8338,7 +8681,8 @@
             },
             "team1Score": 243,
             "team2Score": 18,
-            "generations": 1938
+            "generations": 1938,
+            "id": "291e4c05-8dba-4210-9c0b-cb0c09f75029"
         }
     ],
     [
@@ -8364,7 +8708,8 @@
             },
             "team1Score": 101,
             "team2Score": 120,
-            "generations": 2539
+            "generations": 2539,
+            "id": "7dbe796b-bb58-4f0d-aa14-8d06b54a5704"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8388,7 +8733,8 @@
             },
             "team1Score": 247,
             "team2Score": 16,
-            "generations": 1265
+            "generations": 1265,
+            "id": "15a75073-f805-43c3-ab80-244bdfdcf019"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8412,7 +8758,8 @@
             },
             "team1Score": 222,
             "team2Score": 85,
-            "generations": 3214
+            "generations": 3214,
+            "id": "b51c899b-6bd2-42f8-8bd3-3627e036a600"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -8436,7 +8783,8 @@
             },
             "team1Score": 231,
             "team2Score": 13,
-            "generations": 1265
+            "generations": 1265,
+            "id": "b9578041-9f11-48e9-ae06-4319277a262c"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8460,7 +8808,8 @@
             },
             "team1Score": 67,
             "team2Score": 124,
-            "generations": 1777
+            "generations": 1777,
+            "id": "88ecbfcc-1cd9-4503-881b-89f7cc972c9c"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8484,7 +8833,8 @@
             },
             "team1Score": 123,
             "team2Score": 10,
-            "generations": 1169
+            "generations": 1169,
+            "id": "e7053e32-0854-4f0b-893d-b8338e9c518e"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8508,7 +8858,8 @@
             },
             "team1Score": 370,
             "team2Score": 8,
-            "generations": 3975
+            "generations": 3975,
+            "id": "19cc023b-d94d-4f52-a691-05b415e6a96a"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8532,7 +8883,8 @@
             },
             "team1Score": 167,
             "team2Score": 84,
-            "generations": 2009
+            "generations": 2009,
+            "id": "4f795fcd-603b-45aa-b326-3dd68d40ec0e"
         }
     ],
     [
@@ -8558,7 +8910,8 @@
             },
             "team1Score": 148,
             "team2Score": 83,
-            "generations": 3074
+            "generations": 3074,
+            "id": "96649726-ed9e-40f1-967a-e92ffb3282da"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8582,7 +8935,8 @@
             },
             "team1Score": 187,
             "team2Score": 91,
-            "generations": 2922
+            "generations": 2922,
+            "id": "9b0625af-4b38-4a18-aae5-f91a8a6447ea"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8606,7 +8960,8 @@
             },
             "team1Score": 57,
             "team2Score": 119,
-            "generations": 1596
+            "generations": 1596,
+            "id": "472b2c96-d05c-4460-b325-7c4f7f7d6d24"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -8630,7 +8985,8 @@
             },
             "team1Score": 221,
             "team2Score": 91,
-            "generations": 1587
+            "generations": 1587,
+            "id": "acae3a87-5afb-4758-a3b9-6a6fd7ac0ce2"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8654,7 +9010,8 @@
             },
             "team1Score": 218,
             "team2Score": 49,
-            "generations": 2423
+            "generations": 2423,
+            "id": "35c22618-36a8-4459-a919-fba760cf7348"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8678,7 +9035,8 @@
             },
             "team1Score": 40,
             "team2Score": 101,
-            "generations": 1650
+            "generations": 1650,
+            "id": "c01ffb0a-86dd-416d-a0b5-029b0d61334a"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8702,7 +9060,8 @@
             },
             "team1Score": 142,
             "team2Score": 73,
-            "generations": 1184
+            "generations": 1184,
+            "id": "65124900-528b-45f3-aba7-c20c9678cb82"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8726,7 +9085,8 @@
             },
             "team1Score": 317,
             "team2Score": 47,
-            "generations": 1238
+            "generations": 1238,
+            "id": "82f4170f-f776-4eb8-8e8c-753ef8ed4e40"
         }
     ],
     [
@@ -8752,7 +9112,8 @@
             },
             "team1Score": 157,
             "team2Score": 69,
-            "generations": 1946
+            "generations": 1946,
+            "id": "600f1ace-5591-4b87-84b5-9094412ae11f"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -8776,7 +9137,8 @@
             },
             "team1Score": 184,
             "team2Score": 84,
-            "generations": 2273
+            "generations": 2273,
+            "id": "f99d647f-9dae-4ac1-ae23-117011810b32"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -8800,7 +9162,8 @@
             },
             "team1Score": 63,
             "team2Score": 61,
-            "generations": 1596
+            "generations": 1596,
+            "id": "36af811b-8c31-4702-967e-d2ff5d2e73d4"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8824,7 +9187,8 @@
             },
             "team1Score": 125,
             "team2Score": 83,
-            "generations": 1321
+            "generations": 1321,
+            "id": "1e345dea-3b54-495f-9444-4ed50f5d769a"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8848,7 +9212,8 @@
             },
             "team1Score": 190,
             "team2Score": 58,
-            "generations": 1721
+            "generations": 1721,
+            "id": "aebb9e57-f9f5-45f8-b159-335bb97ed312"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8872,7 +9237,8 @@
             },
             "team1Score": 68,
             "team2Score": 14,
-            "generations": 1348
+            "generations": 1348,
+            "id": "af2f1ab5-67fa-4074-997b-0dc34e50a983"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8896,7 +9262,8 @@
             },
             "team1Score": 19,
             "team2Score": 204,
-            "generations": 2105
+            "generations": 2105,
+            "id": "2a8788ab-f5e2-4c08-bdd6-a300868cda7e"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8920,7 +9287,8 @@
             },
             "team1Score": 349,
             "team2Score": 26,
-            "generations": 1881
+            "generations": 1881,
+            "id": "b3b63e4a-52dd-4323-81a0-4d139276bc0e"
         }
     ],
     [
@@ -8946,7 +9314,8 @@
             },
             "team1Score": 391,
             "team2Score": 0,
-            "generations": 1414
+            "generations": 1414,
+            "id": "3f96e387-ca84-4be9-a3e0-357b7edb48d7"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8970,7 +9339,8 @@
             },
             "team1Score": 255,
             "team2Score": 36,
-            "generations": 1704
+            "generations": 1704,
+            "id": "a0be9aad-64bf-4f93-a9e5-41f687c68fb0"
         },
         {
             "team1Name": "Washington Footballteam",
@@ -8994,7 +9364,8 @@
             },
             "team1Score": 86,
             "team2Score": 120,
-            "generations": 1477
+            "generations": 1477,
+            "id": "ec446376-8d46-40d0-a17b-2adea3367288"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9018,7 +9389,8 @@
             },
             "team1Score": 77,
             "team2Score": 73,
-            "generations": 1217
+            "generations": 1217,
+            "id": "129b427c-2a10-4ba6-9ed0-4ad29628a7a0"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -9042,7 +9414,8 @@
             },
             "team1Score": 211,
             "team2Score": 4,
-            "generations": 2669
+            "generations": 2669,
+            "id": "a5eebbe6-6f7a-469f-a981-75d68b2fb5db"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9066,7 +9439,8 @@
             },
             "team1Score": 125,
             "team2Score": 10,
-            "generations": 1089
+            "generations": 1089,
+            "id": "d46bf6bc-4640-43d8-8890-c13f928a1b74"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9090,7 +9464,8 @@
             },
             "team1Score": 97,
             "team2Score": 70,
-            "generations": 1570
+            "generations": 1570,
+            "id": "5637fa05-1653-4c22-be7f-f9c08231584c"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9114,7 +9489,8 @@
             },
             "team1Score": 142,
             "team2Score": 22,
-            "generations": 1220
+            "generations": 1220,
+            "id": "f1382148-9831-44e1-aa69-5539fdde58a7"
         }
     ],
     [
@@ -9140,7 +9516,8 @@
             },
             "team1Score": 325,
             "team2Score": 6,
-            "generations": 2573
+            "generations": 2573,
+            "id": "f1ed7515-afe2-48d1-8d1e-5a879a449cd7"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9164,7 +9541,8 @@
             },
             "team1Score": 105,
             "team2Score": 135,
-            "generations": 1674
+            "generations": 1674,
+            "id": "ad56d22a-fc7b-4ba5-ad6c-10bf59c8212e"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -9188,7 +9566,8 @@
             },
             "team1Score": 97,
             "team2Score": 167,
-            "generations": 1813
+            "generations": 1813,
+            "id": "6aa63dd4-d26b-4175-8d76-16109d8c01a9"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9212,7 +9591,8 @@
             },
             "team1Score": 50,
             "team2Score": 114,
-            "generations": 1113
+            "generations": 1113,
+            "id": "15b9dbbb-c397-462e-8c01-9c2cdbeabd8d"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9236,7 +9616,8 @@
             },
             "team1Score": 198,
             "team2Score": 44,
-            "generations": 1579
+            "generations": 1579,
+            "id": "bd42ac8e-008f-4662-95a8-cf3572a570a5"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9260,7 +9641,8 @@
             },
             "team1Score": 273,
             "team2Score": 19,
-            "generations": 2227
+            "generations": 2227,
+            "id": "da0adfb7-4e5c-40c3-b8e8-34e1b593b534"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9284,7 +9666,8 @@
             },
             "team1Score": 223,
             "team2Score": 9,
-            "generations": 2610
+            "generations": 2610,
+            "id": "2e8c7f52-a3c8-46a9-b875-ad592613cc4d"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9308,7 +9691,8 @@
             },
             "team1Score": 281,
             "team2Score": 6,
-            "generations": 2841
+            "generations": 2841,
+            "id": "6ca022e5-f4df-45c9-90e4-5bf1a80a4191"
         }
     ],
     [
@@ -9334,7 +9718,8 @@
             },
             "team1Score": 293,
             "team2Score": 41,
-            "generations": 2609
+            "generations": 2609,
+            "id": "1f5092c2-66ad-46c3-801e-7910a618c6ee"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -9358,7 +9743,8 @@
             },
             "team1Score": 124,
             "team2Score": 177,
-            "generations": 2181
+            "generations": 2181,
+            "id": "f03e95b9-f318-4010-a0bd-6d7e7ab052fa"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
@@ -9382,7 +9768,8 @@
             },
             "team1Score": 35,
             "team2Score": 173,
-            "generations": 1710
+            "generations": 1710,
+            "id": "885f704a-821f-4335-9976-99e070645364"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9406,7 +9793,8 @@
             },
             "team1Score": 58,
             "team2Score": 177,
-            "generations": 2051
+            "generations": 2051,
+            "id": "a3ec2243-2b60-4cab-aadb-ad87a10f6f57"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9430,7 +9818,8 @@
             },
             "team1Score": 280,
             "team2Score": 53,
-            "generations": 3253
+            "generations": 3253,
+            "id": "75337e4d-a16e-4049-b196-6c26cc2889ed"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -9454,7 +9843,8 @@
             },
             "team1Score": 92,
             "team2Score": 67,
-            "generations": 1177
+            "generations": 1177,
+            "id": "37054fa8-142e-4c11-af41-ecc64597cc9d"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9478,7 +9868,8 @@
             },
             "team1Score": 165,
             "team2Score": 4,
-            "generations": 1059
+            "generations": 1059,
+            "id": "855af8df-dde5-48dd-91f2-b8b4084698f3"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9502,7 +9893,8 @@
             },
             "team1Score": 154,
             "team2Score": 94,
-            "generations": 2796
+            "generations": 2796,
+            "id": "e39afe27-2693-46ac-951f-b0156c16a383"
         }
     ]
 ]
