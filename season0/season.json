@@ -27,7 +27,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 0,
             "map": {
@@ -51,7 +51,7 @@
             "id": "021e7d94-ea66-4c5b-8056-8440ff85e3eb"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 0,
@@ -228,7 +228,7 @@
             "id": "a2d523e2-8ae9-46ec-a04e-9c5beae9ef33"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 1,
@@ -254,7 +254,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 1,
             "map": {
@@ -431,7 +431,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 2,
             "map": {
@@ -455,7 +455,7 @@
             "id": "4bf6aa6c-81bc-48b7-9dfa-a6099abd3153"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 2,
@@ -658,7 +658,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 3,
             "map": {
@@ -682,7 +682,7 @@
             "id": "45a70066-8ede-4ae9-9fa4-4150087f8d90"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 3,
@@ -859,8 +859,8 @@
             "id": "7b6d7363-c723-4ec6-90b5-269b8db3bedc"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakernets",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 4,
             "map": {
@@ -1061,8 +1061,8 @@
             "id": "d66937c2-3bee-487b-9856-00c655d99729"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Forth Worth Piano Tuners",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 5,
             "map": {
@@ -1263,7 +1263,7 @@
             "id": "2ce146f0-e052-4c86-b266-79fab970815d"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 6,
@@ -1289,7 +1289,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 6,
             "map": {
@@ -1466,7 +1466,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 7,
             "map": {
@@ -1490,7 +1490,7 @@
             "id": "e229ac75-faa5-4a2f-a1ed-53851dd04545"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 7,
@@ -1643,7 +1643,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 8,
             "map": {
@@ -1667,7 +1667,7 @@
             "id": "9ac3e33b-22a8-40ad-8dbb-50f2db400acf"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 8,
@@ -1844,7 +1844,7 @@
             "id": "877e4677-adb6-47d2-b6e9-72e2336fd936"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 9,
@@ -1870,7 +1870,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 9,
             "map": {
@@ -2071,7 +2071,7 @@
             "id": "3811bd5b-eb3b-4551-a700-f0b2944aab78"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 10,
@@ -2097,7 +2097,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 10,
             "map": {
@@ -2274,7 +2274,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 11,
             "map": {
@@ -2298,7 +2298,7 @@
             "id": "991afdd2-201c-4e28-9ed9-ca40f7471171"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 11,
@@ -2451,7 +2451,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 12,
             "map": {
@@ -2475,7 +2475,7 @@
             "id": "fe31e75d-a401-4c76-b96a-2aebffeb2198"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 12,
@@ -2652,7 +2652,7 @@
             "id": "28a018c4-2227-4b04-b9a0-dfda8c9b62aa"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 13,
@@ -2678,7 +2678,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 13,
             "map": {
@@ -2879,8 +2879,8 @@
             "id": "74368d75-f9c0-4513-8ce5-d328eaa10f26"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakernets",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 14,
             "map": {
@@ -3081,8 +3081,8 @@
             "id": "aa6cf07b-f492-452b-a2cc-294b28213992"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Forth Worth Piano Tuners",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 15,
             "map": {
@@ -3234,7 +3234,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 16,
             "map": {
@@ -3283,7 +3283,7 @@
             "id": "9f7671ab-82f6-40fb-b739-f9d40a355ed8"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 16,
@@ -3435,7 +3435,7 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 17,
@@ -3486,7 +3486,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 17,
             "map": {
@@ -3687,7 +3687,7 @@
             "id": "2f542bb1-bcc5-4f34-a501-1d7b2d8daa7f"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 18,
@@ -3713,7 +3713,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 18,
             "map": {
@@ -3890,7 +3890,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 19,
             "map": {
@@ -3914,7 +3914,7 @@
             "id": "7e928a4a-069c-48ed-8bb0-299cada55435"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 19,
@@ -4042,7 +4042,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 20,
             "map": {
@@ -4091,7 +4091,7 @@
             "id": "7afab48e-62e8-452a-81cb-644270aab435"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 20,
@@ -4243,7 +4243,7 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 21,
@@ -4294,7 +4294,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 21,
             "map": {
@@ -4495,8 +4495,8 @@
             "id": "d99ba22f-e51f-4d0a-8357-7276ce776c47"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakernets",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 22,
             "map": {
@@ -4697,8 +4697,8 @@
             "id": "3339b868-1818-4658-897e-f77968e3f7b3"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Forth Worth Piano Tuners",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 23,
             "map": {
@@ -4875,7 +4875,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 24,
             "map": {
@@ -4899,7 +4899,7 @@
             "id": "48fa6cd5-09f6-4ca6-8208-6266e44f5857"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 24,
@@ -5076,7 +5076,7 @@
             "id": "74e381f4-d758-4923-9d15-c3e9d9e49aca"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 25,
@@ -5102,7 +5102,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 25,
             "map": {
@@ -5279,7 +5279,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 26,
             "map": {
@@ -5303,7 +5303,7 @@
             "id": "fb7f06cd-f3d4-4ba2-b80f-05be1418d9bb"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 26,
@@ -5480,7 +5480,7 @@
             "id": "625628c6-e068-4a38-87d1-f6af20da14c8"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 27,
@@ -5506,7 +5506,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 27,
             "map": {
@@ -5682,7 +5682,7 @@
             "id": "946aeb97-51b6-4e6e-9a2e-6b86663c6202"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 28,
@@ -5707,7 +5707,7 @@
             "id": "28958438-958f-441a-a4e3-1b8a23c081b0"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 28,
@@ -5885,7 +5885,7 @@
         },
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 29,
             "map": {
@@ -5910,7 +5910,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 29,
             "map": {
@@ -6062,7 +6062,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 30,
             "map": {
@@ -6111,7 +6111,7 @@
             "id": "07c81c0d-bf9e-41d7-969a-9c63308368d1"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 30,
@@ -6263,7 +6263,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 31,
@@ -6314,7 +6314,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 31,
             "map": {
@@ -6465,7 +6465,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 32,
@@ -6515,7 +6515,7 @@
             "id": "3c8786f9-9b76-4ebf-b022-9bd865e778b5"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 32,
@@ -6668,7 +6668,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 33,
             "map": {
@@ -6718,7 +6718,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 33,
             "map": {
@@ -6894,7 +6894,7 @@
             "id": "3786d079-9889-43bb-8dfc-b6410946c4b2"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 34,
@@ -6945,7 +6945,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 34,
             "map": {
@@ -7097,7 +7097,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 35,
             "map": {
@@ -7146,7 +7146,7 @@
             "id": "3d0fa09c-45a6-4aaa-a634-7aed4e2797d2"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 35,
@@ -7273,7 +7273,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 36,
@@ -7324,7 +7324,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 36,
             "map": {
@@ -7476,7 +7476,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 37,
             "map": {
@@ -7525,7 +7525,7 @@
             "id": "60d6e85f-5baf-4c12-8146-c987d0578f5a"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 37,
@@ -7703,7 +7703,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 38,
             "map": {
@@ -7752,7 +7752,7 @@
             "id": "130ce4bc-695a-429d-ae74-9fb8b1cae9bc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 38,
@@ -7904,7 +7904,7 @@
             "id": "3b3bd6e4-6f83-4e57-b533-9b5d56055e10"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 39,
@@ -7955,7 +7955,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 39,
             "map": {
@@ -8081,7 +8081,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 40,
@@ -8156,7 +8156,7 @@
             "id": "62bba958-3c07-4e31-999a-cb5c8ed2eea7"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 40,
@@ -8284,7 +8284,7 @@
     [
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 41,
             "map": {
@@ -8359,7 +8359,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 41,
             "map": {
@@ -8510,7 +8510,7 @@
             "id": "fa3fd75d-eacb-413b-880f-1fac2cfc55e8"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 42,
@@ -8561,7 +8561,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 42,
             "map": {
@@ -8713,7 +8713,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 43,
             "map": {
@@ -8762,7 +8762,7 @@
             "id": "b51c899b-6bd2-42f8-8bd3-3627e036a600"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 43,
@@ -8915,7 +8915,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 44,
             "map": {
@@ -8940,7 +8940,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 44,
             "map": {
@@ -9116,7 +9116,7 @@
             "id": "600f1ace-5591-4b87-84b5-9094412ae11f"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 45,
@@ -9141,7 +9141,7 @@
             "id": "f99d647f-9dae-4ac1-ae23-117011810b32"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 45,
@@ -9294,7 +9294,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakernets",
             "season": 0,
             "day": 46,
             "map": {
@@ -9343,7 +9343,7 @@
             "id": "a0be9aad-64bf-4f93-a9e5-41f687c68fb0"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Forth Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 46,
@@ -9495,7 +9495,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakernets",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 47,
@@ -9546,7 +9546,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 47,
             "map": {
@@ -9747,8 +9747,8 @@
             "id": "f03e95b9-f318-4010-a0bd-6d7e7ab052fa"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakernets",
+            "team2Name": "Forth Worth Piano Tuners",
             "season": 0,
             "day": 48,
             "map": {
