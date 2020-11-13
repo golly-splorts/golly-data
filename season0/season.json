@@ -38,7 +38,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 0,
             "map": {
@@ -73,7 +73,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 0,
@@ -327,7 +327,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 1,
@@ -364,7 +364,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 1,
             "map": {
@@ -618,7 +618,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 2,
             "map": {
@@ -653,7 +653,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 2,
@@ -944,7 +944,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 3,
             "map": {
@@ -979,7 +979,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 3,
@@ -1233,8 +1233,8 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Seattle Sneakernets",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 4,
             "map": {
@@ -1523,8 +1523,8 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
-            "team2Name": "Seattle Sneakernets",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 5,
             "map": {
@@ -1813,7 +1813,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 6,
@@ -1850,7 +1850,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 6,
             "map": {
@@ -2104,7 +2104,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 7,
             "map": {
@@ -2139,7 +2139,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 7,
@@ -2358,7 +2358,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 8,
             "map": {
@@ -2393,7 +2393,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 8,
@@ -2647,7 +2647,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 9,
@@ -2684,7 +2684,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 9,
             "map": {
@@ -2973,7 +2973,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 10,
@@ -3010,7 +3010,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 10,
             "map": {
@@ -3264,7 +3264,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 11,
             "map": {
@@ -3299,7 +3299,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 11,
@@ -3518,7 +3518,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 12,
             "map": {
@@ -3553,7 +3553,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 12,
@@ -3807,7 +3807,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 13,
@@ -3844,7 +3844,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 13,
             "map": {
@@ -4133,8 +4133,8 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Seattle Sneakernets",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 14,
             "map": {
@@ -4423,8 +4423,8 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
-            "team2Name": "Seattle Sneakernets",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 15,
             "map": {
@@ -4642,7 +4642,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 16,
             "map": {
@@ -4713,7 +4713,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 16,
@@ -4931,7 +4931,7 @@
     ],
     [
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 17,
@@ -5004,7 +5004,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 17,
             "map": {
@@ -5293,7 +5293,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 18,
@@ -5330,7 +5330,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 18,
             "map": {
@@ -5584,7 +5584,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 19,
             "map": {
@@ -5619,7 +5619,7 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 19,
@@ -5802,7 +5802,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 20,
             "map": {
@@ -5873,7 +5873,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 20,
@@ -6091,7 +6091,7 @@
     ],
     [
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 21,
@@ -6164,7 +6164,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 21,
             "map": {
@@ -6453,8 +6453,8 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Seattle Sneakernets",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 22,
             "map": {
@@ -6743,8 +6743,8 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
-            "team2Name": "Seattle Sneakernets",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 23,
             "map": {
@@ -6998,7 +6998,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 24,
             "map": {
@@ -7033,7 +7033,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 24,
@@ -7287,7 +7287,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 25,
@@ -7324,7 +7324,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 25,
             "map": {
@@ -7578,7 +7578,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 26,
             "map": {
@@ -7613,7 +7613,7 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 26,
@@ -7867,7 +7867,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 27,
@@ -7904,7 +7904,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 27,
             "map": {
@@ -8157,7 +8157,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 28,
@@ -8193,7 +8193,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 28,
@@ -8448,7 +8448,7 @@
         },
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 29,
             "map": {
@@ -8484,7 +8484,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 29,
             "map": {
@@ -8702,7 +8702,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 30,
             "map": {
@@ -8773,7 +8773,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 30,
@@ -8991,7 +8991,7 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 31,
@@ -9064,7 +9064,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 31,
             "map": {
@@ -9281,7 +9281,7 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 32,
@@ -9353,7 +9353,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 32,
@@ -9572,7 +9572,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 33,
             "map": {
@@ -9644,7 +9644,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 33,
             "map": {
@@ -9897,7 +9897,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 34,
@@ -9970,7 +9970,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 34,
             "map": {
@@ -10188,7 +10188,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 35,
             "map": {
@@ -10259,7 +10259,7 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 35,
@@ -10441,7 +10441,7 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "season": 0,
             "day": 36,
@@ -10514,7 +10514,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 36,
             "map": {
@@ -10732,7 +10732,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 37,
             "map": {
@@ -10803,7 +10803,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 37,
@@ -11058,7 +11058,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 38,
             "map": {
@@ -11129,7 +11129,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 38,
@@ -11347,7 +11347,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 39,
@@ -11420,7 +11420,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 39,
             "map": {
@@ -11601,7 +11601,7 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 40,
@@ -11709,7 +11709,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "season": 0,
             "day": 40,
@@ -11892,7 +11892,7 @@
     [
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 41,
             "map": {
@@ -12000,7 +12000,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 41,
             "map": {
@@ -12217,7 +12217,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 42,
@@ -12290,7 +12290,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 42,
             "map": {
@@ -12508,7 +12508,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 43,
             "map": {
@@ -12579,7 +12579,7 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 43,
@@ -12798,7 +12798,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 44,
             "map": {
@@ -12834,7 +12834,7 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 44,
             "map": {
@@ -13087,7 +13087,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "season": 0,
             "day": 45,
@@ -13123,7 +13123,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "season": 0,
             "day": 45,
@@ -13342,7 +13342,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakernets",
+            "team2Name": "Seattle Sneakers",
             "season": 0,
             "day": 46,
             "map": {
@@ -13413,7 +13413,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Forth Worth Piano Tuners",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "season": 0,
             "day": 46,
@@ -13631,7 +13631,7 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakernets",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "season": 0,
             "day": 47,
@@ -13704,7 +13704,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 47,
             "map": {
@@ -13993,8 +13993,8 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Seattle Sneakernets",
-            "team2Name": "Forth Worth Piano Tuners",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "season": 0,
             "day": 48,
             "map": {
