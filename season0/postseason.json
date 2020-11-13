@@ -43,7 +43,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#f2c57c",
+                "team2Color": "#a0e7e5"
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -87,7 +89,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#ef6f6c",
+                "team2Color": "#53917e"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -131,7 +135,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#e7d7c1",
+                "team2Color": "#697a21"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -175,7 +181,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#9963ab"
             }
         ],
         [
@@ -221,7 +229,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     1
-                ]
+                ],
+                "team1Color": "#f2c57c",
+                "team2Color": "#a0e7e5"
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -265,7 +275,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     1
-                ]
+                ],
+                "team1Color": "#ef6f6c",
+                "team2Color": "#53917e"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -309,7 +321,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     1
-                ]
+                ],
+                "team1Color": "#e7d7c1",
+                "team2Color": "#697a21"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -353,7 +367,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     1
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#9963ab"
             }
         ],
         [
@@ -399,7 +415,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     0
-                ]
+                ],
+                "team1Color": "#a0e7e5",
+                "team2Color": "#f2c57c"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -443,7 +461,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     0
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#ef6f6c"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -487,7 +507,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     0
-                ]
+                ],
+                "team1Color": "#697a21",
+                "team2Color": "#e7d7c1"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -531,7 +553,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     0
-                ]
+                ],
+                "team1Color": "#9963ab",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -577,7 +601,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     1
-                ]
+                ],
+                "team1Color": "#a0e7e5",
+                "team2Color": "#f2c57c"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -621,7 +647,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     1
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#ef6f6c"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -665,7 +693,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     1
-                ]
+                ],
+                "team1Color": "#697a21",
+                "team2Color": "#e7d7c1"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -709,7 +739,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     1
-                ]
+                ],
+                "team1Color": "#9963ab",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -755,7 +787,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     2
-                ]
+                ],
+                "team1Color": "#f2c57c",
+                "team2Color": "#a0e7e5"
             },
             {
                 "team1Name": "Forth Worth Piano Tuners",
@@ -799,7 +833,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     2
-                ]
+                ],
+                "team1Color": "#ef6f6c",
+                "team2Color": "#53917e"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -843,7 +879,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     2
-                ]
+                ],
+                "team1Color": "#e7d7c1",
+                "team2Color": "#697a21"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -887,7 +925,9 @@
                 "team2SeriesWinLoss": [
                     2,
                     2
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#9963ab"
             }
         ]
     ],
@@ -935,7 +975,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -979,7 +1021,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#e7d7c1",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -1025,7 +1069,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     0
-                ]
+                ],
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -1069,7 +1115,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     0
-                ]
+                ],
+                "team1Color": "#e7d7c1",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -1115,7 +1163,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     2
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#f2c57c"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -1159,7 +1209,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     1
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#e7d7c1"
             }
         ],
         [
@@ -1205,7 +1257,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     2
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#e7d7c1"
             }
         ]
     ],
@@ -1252,7 +1306,9 @@
                 "team2SeriesWinLoss": [
                     0,
                     0
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#53917e"
             }
         ],
         [
@@ -1297,7 +1353,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     0
-                ]
+                ],
+                "team1Color": "#0dab76",
+                "team2Color": "#53917e"
             }
         ],
         [
@@ -1342,7 +1400,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     1
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -1387,7 +1447,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     2
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#0dab76"
             }
         ],
         [
@@ -1432,7 +1494,9 @@
                 "team2SeriesWinLoss": [
                     1,
                     3
-                ]
+                ],
+                "team1Color": "#53917e",
+                "team2Color": "#0dab76"
             }
         ]
     ]

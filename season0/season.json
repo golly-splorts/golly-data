@@ -32,7 +32,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -66,7 +68,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -100,7 +104,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -134,7 +140,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -168,7 +176,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -202,7 +212,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -236,7 +248,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -270,7 +284,9 @@
             "team2WinLoss": [
                 0,
                 0
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -306,7 +322,9 @@
             "team2WinLoss": [
                 0,
                 1
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -340,7 +358,9 @@
             "team2WinLoss": [
                 0,
                 1
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -374,7 +394,9 @@
             "team2WinLoss": [
                 1,
                 0
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -408,7 +430,9 @@
             "team2WinLoss": [
                 1,
                 0
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -442,7 +466,9 @@
             "team2WinLoss": [
                 1,
                 0
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -476,7 +502,9 @@
             "team2WinLoss": [
                 1,
                 0
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -510,7 +538,9 @@
             "team2WinLoss": [
                 0,
                 1
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -544,7 +574,9 @@
             "team2WinLoss": [
                 0,
                 1
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -580,7 +612,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -614,7 +648,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -648,7 +684,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -682,7 +720,9 @@
             "team2WinLoss": [
                 0,
                 2
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -716,7 +756,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -750,7 +792,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -784,7 +828,9 @@
             "team2WinLoss": [
                 1,
                 1
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -818,7 +864,9 @@
             "team2WinLoss": [
                 2,
                 0
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -854,7 +902,9 @@
             "team2WinLoss": [
                 1,
                 2
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -888,7 +938,9 @@
             "team2WinLoss": [
                 2,
                 1
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -922,7 +974,9 @@
             "team2WinLoss": [
                 2,
                 1
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -956,7 +1010,9 @@
             "team2WinLoss": [
                 3,
                 0
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -990,7 +1046,9 @@
             "team2WinLoss": [
                 1,
                 2
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1024,7 +1082,9 @@
             "team2WinLoss": [
                 2,
                 1
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1058,7 +1118,9 @@
             "team2WinLoss": [
                 2,
                 1
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1092,7 +1154,9 @@
             "team2WinLoss": [
                 1,
                 2
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1128,7 +1192,9 @@
             "team2WinLoss": [
                 1,
                 3
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1162,7 +1228,9 @@
             "team2WinLoss": [
                 3,
                 1
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -1196,7 +1264,9 @@
             "team2WinLoss": [
                 2,
                 2
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1230,7 +1300,9 @@
             "team2WinLoss": [
                 2,
                 2
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1264,7 +1336,9 @@
             "team2WinLoss": [
                 3,
                 1
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1298,7 +1372,9 @@
             "team2WinLoss": [
                 3,
                 1
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1332,7 +1408,9 @@
             "team2WinLoss": [
                 2,
                 2
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1366,7 +1444,9 @@
             "team2WinLoss": [
                 2,
                 2
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -1402,7 +1482,9 @@
             "team2WinLoss": [
                 2,
                 3
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1436,7 +1518,9 @@
             "team2WinLoss": [
                 3,
                 2
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -1470,7 +1554,9 @@
             "team2WinLoss": [
                 3,
                 2
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1504,7 +1590,9 @@
             "team2WinLoss": [
                 4,
                 1
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1538,7 +1626,9 @@
             "team2WinLoss": [
                 2,
                 3
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1572,7 +1662,9 @@
             "team2WinLoss": [
                 3,
                 2
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1606,7 +1698,9 @@
             "team2WinLoss": [
                 3,
                 2
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1640,7 +1734,9 @@
             "team2WinLoss": [
                 2,
                 3
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1676,7 +1772,9 @@
             "team2WinLoss": [
                 2,
                 4
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1710,7 +1808,9 @@
             "team2WinLoss": [
                 2,
                 4
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -1744,7 +1844,9 @@
             "team2WinLoss": [
                 4,
                 2
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1778,7 +1880,9 @@
             "team2WinLoss": [
                 3,
                 3
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1812,7 +1916,9 @@
             "team2WinLoss": [
                 3,
                 3
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1846,7 +1952,9 @@
             "team2WinLoss": [
                 4,
                 2
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1880,7 +1988,9 @@
             "team2WinLoss": [
                 4,
                 2
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1914,7 +2024,9 @@
             "team2WinLoss": [
                 2,
                 4
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -1950,7 +2062,9 @@
             "team2WinLoss": [
                 2,
                 5
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1984,7 +2098,9 @@
             "team2WinLoss": [
                 4,
                 3
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2018,7 +2134,9 @@
             "team2WinLoss": [
                 4,
                 3
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -2052,7 +2170,9 @@
             "team2WinLoss": [
                 6,
                 1
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2086,7 +2206,9 @@
             "team2WinLoss": [
                 3,
                 4
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2120,7 +2242,9 @@
             "team2WinLoss": [
                 4,
                 3
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2154,7 +2278,9 @@
             "team2WinLoss": [
                 4,
                 3
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2188,7 +2314,9 @@
             "team2WinLoss": [
                 3,
                 4
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -2224,7 +2352,9 @@
             "team2WinLoss": [
                 5,
                 3
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2258,7 +2388,9 @@
             "team2WinLoss": [
                 4,
                 4
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -2292,7 +2424,9 @@
             "team2WinLoss": [
                 4,
                 4
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2326,7 +2460,9 @@
             "team2WinLoss": [
                 3,
                 5
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2360,7 +2496,9 @@
             "team2WinLoss": [
                 5,
                 3
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2394,7 +2532,9 @@
             "team2WinLoss": [
                 3,
                 5
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2428,7 +2568,9 @@
             "team2WinLoss": [
                 4,
                 4
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2462,7 +2604,9 @@
             "team2WinLoss": [
                 5,
                 3
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2498,7 +2642,9 @@
             "team2WinLoss": [
                 3,
                 6
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -2532,7 +2678,9 @@
             "team2WinLoss": [
                 4,
                 5
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2566,7 +2714,9 @@
             "team2WinLoss": [
                 5,
                 4
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2600,7 +2750,9 @@
             "team2WinLoss": [
                 7,
                 2
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2634,7 +2786,9 @@
             "team2WinLoss": [
                 4,
                 5
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2668,7 +2822,9 @@
             "team2WinLoss": [
                 5,
                 4
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2702,7 +2858,9 @@
             "team2WinLoss": [
                 6,
                 3
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2736,7 +2894,9 @@
             "team2WinLoss": [
                 4,
                 5
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -2772,7 +2932,9 @@
             "team2WinLoss": [
                 5,
                 5
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2806,7 +2968,9 @@
             "team2WinLoss": [
                 4,
                 6
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -2840,7 +3004,9 @@
             "team2WinLoss": [
                 6,
                 4
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2874,7 +3040,9 @@
             "team2WinLoss": [
                 6,
                 4
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2908,7 +3076,9 @@
             "team2WinLoss": [
                 5,
                 5
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2942,7 +3112,9 @@
             "team2WinLoss": [
                 5,
                 5
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2976,7 +3148,9 @@
             "team2WinLoss": [
                 5,
                 5
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3010,7 +3184,9 @@
             "team2WinLoss": [
                 4,
                 6
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -3046,7 +3222,9 @@
             "team2WinLoss": [
                 3,
                 8
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3080,7 +3258,9 @@
             "team2WinLoss": [
                 5,
                 6
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3114,7 +3294,9 @@
             "team2WinLoss": [
                 6,
                 5
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -3148,7 +3330,9 @@
             "team2WinLoss": [
                 7,
                 4
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3182,7 +3366,9 @@
             "team2WinLoss": [
                 6,
                 5
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3216,7 +3402,9 @@
             "team2WinLoss": [
                 5,
                 6
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3250,7 +3438,9 @@
             "team2WinLoss": [
                 7,
                 4
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3284,7 +3474,9 @@
             "team2WinLoss": [
                 6,
                 5
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -3320,7 +3512,9 @@
             "team2WinLoss": [
                 7,
                 5
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3354,7 +3548,9 @@
             "team2WinLoss": [
                 7,
                 5
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -3388,7 +3584,9 @@
             "team2WinLoss": [
                 7,
                 5
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3422,7 +3620,9 @@
             "team2WinLoss": [
                 4,
                 8
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3456,7 +3656,9 @@
             "team2WinLoss": [
                 6,
                 6
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3490,7 +3692,9 @@
             "team2WinLoss": [
                 5,
                 7
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3524,7 +3728,9 @@
             "team2WinLoss": [
                 6,
                 6
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3558,7 +3764,9 @@
             "team2WinLoss": [
                 6,
                 6
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -3594,7 +3802,9 @@
             "team2WinLoss": [
                 4,
                 9
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -3628,7 +3838,9 @@
             "team2WinLoss": [
                 6,
                 7
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3662,7 +3874,9 @@
             "team2WinLoss": [
                 7,
                 6
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3696,7 +3910,9 @@
             "team2WinLoss": [
                 9,
                 4
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3730,7 +3946,9 @@
             "team2WinLoss": [
                 7,
                 6
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3764,7 +3982,9 @@
             "team2WinLoss": [
                 7,
                 6
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3798,7 +4018,9 @@
             "team2WinLoss": [
                 8,
                 5
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3832,7 +4054,9 @@
             "team2WinLoss": [
                 6,
                 7
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -3868,7 +4092,9 @@
             "team2WinLoss": [
                 5,
                 9
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3902,7 +4128,9 @@
             "team2WinLoss": [
                 8,
                 6
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -3936,7 +4164,9 @@
             "team2WinLoss": [
                 8,
                 6
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3970,7 +4200,9 @@
             "team2WinLoss": [
                 7,
                 7
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4004,7 +4236,9 @@
             "team2WinLoss": [
                 8,
                 6
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4038,7 +4272,9 @@
             "team2WinLoss": [
                 7,
                 7
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4072,7 +4308,9 @@
             "team2WinLoss": [
                 6,
                 8
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4106,7 +4344,9 @@
             "team2WinLoss": [
                 7,
                 7
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -4142,7 +4382,9 @@
             "team2WinLoss": [
                 5,
                 10
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4176,7 +4418,9 @@
             "team2WinLoss": [
                 8,
                 7
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -4210,7 +4454,9 @@
             "team2WinLoss": [
                 8,
                 7
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4244,7 +4490,9 @@
             "team2WinLoss": [
                 10,
                 5
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4278,7 +4526,9 @@
             "team2WinLoss": [
                 8,
                 7
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4312,7 +4562,9 @@
             "team2WinLoss": [
                 8,
                 7
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4346,7 +4598,9 @@
             "team2WinLoss": [
                 8,
                 7
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4380,7 +4634,9 @@
             "team2WinLoss": [
                 6,
                 9
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -4416,7 +4672,9 @@
             "team2WinLoss": [
                 10,
                 6
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4450,7 +4708,9 @@
             "team2WinLoss": [
                 8,
                 8
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -4484,7 +4744,9 @@
             "team2WinLoss": [
                 6,
                 10
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4518,7 +4780,9 @@
             "team2WinLoss": [
                 9,
                 7
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4552,7 +4816,9 @@
             "team2WinLoss": [
                 8,
                 8
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4586,7 +4852,9 @@
             "team2WinLoss": [
                 8,
                 8
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4620,7 +4888,9 @@
             "team2WinLoss": [
                 9,
                 7
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4654,7 +4924,9 @@
             "team2WinLoss": [
                 8,
                 8
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -4690,7 +4962,9 @@
             "team2WinLoss": [
                 6,
                 11
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4724,7 +4998,9 @@
             "team2WinLoss": [
                 9,
                 8
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4758,7 +5034,9 @@
             "team2WinLoss": [
                 8,
                 9
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4792,7 +5070,9 @@
             "team2WinLoss": [
                 11,
                 6
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4826,7 +5106,9 @@
             "team2WinLoss": [
                 9,
                 8
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4860,7 +5142,9 @@
             "team2WinLoss": [
                 8,
                 9
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4894,7 +5178,9 @@
             "team2WinLoss": [
                 9,
                 8
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4928,7 +5214,9 @@
             "team2WinLoss": [
                 8,
                 9
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -4964,7 +5252,9 @@
             "team2WinLoss": [
                 8,
                 10
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4998,7 +5288,9 @@
             "team2WinLoss": [
                 8,
                 10
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -5032,7 +5324,9 @@
             "team2WinLoss": [
                 10,
                 8
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5066,7 +5360,9 @@
             "team2WinLoss": [
                 10,
                 8
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5100,7 +5396,9 @@
             "team2WinLoss": [
                 10,
                 8
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5134,7 +5432,9 @@
             "team2WinLoss": [
                 10,
                 8
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5168,7 +5468,9 @@
             "team2WinLoss": [
                 9,
                 9
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5202,7 +5504,9 @@
             "team2WinLoss": [
                 9,
                 9
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -5238,7 +5542,9 @@
             "team2WinLoss": [
                 8,
                 11
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5272,7 +5578,9 @@
             "team2WinLoss": [
                 11,
                 8
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5306,7 +5614,9 @@
             "team2WinLoss": [
                 9,
                 10
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -5340,7 +5650,9 @@
             "team2WinLoss": [
                 12,
                 7
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5374,7 +5686,9 @@
             "team2WinLoss": [
                 10,
                 9
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5408,7 +5722,9 @@
             "team2WinLoss": [
                 8,
                 11
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5442,7 +5758,9 @@
             "team2WinLoss": [
                 9,
                 10
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5476,7 +5794,9 @@
             "team2WinLoss": [
                 8,
                 11
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -5512,7 +5832,9 @@
             "team2WinLoss": [
                 11,
                 9
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5546,7 +5868,9 @@
             "team2WinLoss": [
                 8,
                 12
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -5580,7 +5904,9 @@
             "team2WinLoss": [
                 8,
                 12
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5614,7 +5940,9 @@
             "team2WinLoss": [
                 11,
                 9
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5648,7 +5976,9 @@
             "team2WinLoss": [
                 11,
                 9
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5682,7 +6012,9 @@
             "team2WinLoss": [
                 11,
                 9
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5716,7 +6048,9 @@
             "team2WinLoss": [
                 12,
                 8
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5750,7 +6084,9 @@
             "team2WinLoss": [
                 10,
                 10
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -5786,7 +6122,9 @@
             "team2WinLoss": [
                 10,
                 11
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5820,7 +6158,9 @@
             "team2WinLoss": [
                 13,
                 8
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5854,7 +6194,9 @@
             "team2WinLoss": [
                 10,
                 11
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5888,7 +6230,9 @@
             "team2WinLoss": [
                 13,
                 8
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5922,7 +6266,9 @@
             "team2WinLoss": [
                 11,
                 10
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5956,7 +6302,9 @@
             "team2WinLoss": [
                 8,
                 13
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5990,7 +6338,9 @@
             "team2WinLoss": [
                 11,
                 10
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6024,7 +6374,9 @@
             "team2WinLoss": [
                 9,
                 12
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -6060,7 +6412,9 @@
             "team2WinLoss": [
                 8,
                 14
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6094,7 +6448,9 @@
             "team2WinLoss": [
                 12,
                 10
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -6128,7 +6484,9 @@
             "team2WinLoss": [
                 12,
                 10
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6162,7 +6520,9 @@
             "team2WinLoss": [
                 9,
                 13
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6196,7 +6556,9 @@
             "team2WinLoss": [
                 12,
                 10
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6230,7 +6592,9 @@
             "team2WinLoss": [
                 11,
                 11
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6264,7 +6628,9 @@
             "team2WinLoss": [
                 12,
                 10
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6298,7 +6664,9 @@
             "team2WinLoss": [
                 13,
                 9
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -6334,7 +6702,9 @@
             "team2WinLoss": [
                 11,
                 12
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -6368,7 +6738,9 @@
             "team2WinLoss": [
                 14,
                 9
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -6402,7 +6774,9 @@
             "team2WinLoss": [
                 12,
                 11
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6436,7 +6810,9 @@
             "team2WinLoss": [
                 13,
                 10
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6470,7 +6846,9 @@
             "team2WinLoss": [
                 12,
                 11
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6504,7 +6882,9 @@
             "team2WinLoss": [
                 9,
                 14
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6538,7 +6918,9 @@
             "team2WinLoss": [
                 13,
                 10
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6572,7 +6954,9 @@
             "team2WinLoss": [
                 10,
                 13
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -6608,7 +6992,9 @@
             "team2WinLoss": [
                 12,
                 12
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6642,7 +7028,9 @@
             "team2WinLoss": [
                 13,
                 11
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -6676,7 +7064,9 @@
             "team2WinLoss": [
                 11,
                 13
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6710,7 +7100,9 @@
             "team2WinLoss": [
                 9,
                 15
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6744,7 +7136,9 @@
             "team2WinLoss": [
                 12,
                 12
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6778,7 +7172,9 @@
             "team2WinLoss": [
                 13,
                 11
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6812,7 +7208,9 @@
             "team2WinLoss": [
                 13,
                 11
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6846,7 +7244,9 @@
             "team2WinLoss": [
                 13,
                 11
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -6882,7 +7282,9 @@
             "team2WinLoss": [
                 12,
                 13
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -6916,7 +7318,9 @@
             "team2WinLoss": [
                 16,
                 9
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6950,7 +7354,9 @@
             "team2WinLoss": [
                 13,
                 12
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6984,7 +7390,9 @@
             "team2WinLoss": [
                 14,
                 11
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7018,7 +7426,9 @@
             "team2WinLoss": [
                 13,
                 12
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7052,7 +7462,9 @@
             "team2WinLoss": [
                 10,
                 15
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7086,7 +7498,9 @@
             "team2WinLoss": [
                 14,
                 11
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7120,7 +7534,9 @@
             "team2WinLoss": [
                 11,
                 14
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -7156,7 +7572,9 @@
             "team2WinLoss": [
                 12,
                 14
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7190,7 +7608,9 @@
             "team2WinLoss": [
                 14,
                 12
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -7224,7 +7644,9 @@
             "team2WinLoss": [
                 12,
                 14
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7258,7 +7680,9 @@
             "team2WinLoss": [
                 10,
                 16
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7292,7 +7716,9 @@
             "team2WinLoss": [
                 13,
                 13
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7326,7 +7752,9 @@
             "team2WinLoss": [
                 14,
                 12
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7360,7 +7788,9 @@
             "team2WinLoss": [
                 14,
                 12
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7394,7 +7824,9 @@
             "team2WinLoss": [
                 15,
                 11
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -7430,7 +7862,9 @@
             "team2WinLoss": [
                 13,
                 14
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -7464,7 +7898,9 @@
             "team2WinLoss": [
                 17,
                 10
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7498,7 +7934,9 @@
             "team2WinLoss": [
                 13,
                 14
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7532,7 +7970,9 @@
             "team2WinLoss": [
                 15,
                 12
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7566,7 +8006,9 @@
             "team2WinLoss": [
                 14,
                 13
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7600,7 +8042,9 @@
             "team2WinLoss": [
                 11,
                 16
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7634,7 +8078,9 @@
             "team2WinLoss": [
                 14,
                 13
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7668,7 +8114,9 @@
             "team2WinLoss": [
                 11,
                 16
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -7704,7 +8152,9 @@
             "team2WinLoss": [
                 15,
                 13
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -7738,7 +8188,9 @@
             "team2WinLoss": [
                 13,
                 15
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -7772,7 +8224,9 @@
             "team2WinLoss": [
                 11,
                 17
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -7806,7 +8260,9 @@
             "team2WinLoss": [
                 14,
                 14
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7840,7 +8296,9 @@
             "team2WinLoss": [
                 11,
                 17
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7874,7 +8332,9 @@
             "team2WinLoss": [
                 14,
                 14
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7908,7 +8368,9 @@
             "team2WinLoss": [
                 17,
                 11
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7942,7 +8404,9 @@
             "team2WinLoss": [
                 15,
                 13
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -7978,7 +8442,9 @@
             "team2WinLoss": [
                 18,
                 11
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -8012,7 +8478,9 @@
             "team2WinLoss": [
                 14,
                 15
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8046,7 +8514,9 @@
             "team2WinLoss": [
                 15,
                 14
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8080,7 +8550,9 @@
             "team2WinLoss": [
                 15,
                 14
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8114,7 +8586,9 @@
             "team2WinLoss": [
                 15,
                 14
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8148,7 +8622,9 @@
             "team2WinLoss": [
                 12,
                 17
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8182,7 +8658,9 @@
             "team2WinLoss": [
                 17,
                 12
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8216,7 +8694,9 @@
             "team2WinLoss": [
                 15,
                 14
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -8252,7 +8732,9 @@
             "team2WinLoss": [
                 14,
                 16
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -8286,7 +8768,9 @@
             "team2WinLoss": [
                 18,
                 12
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -8320,7 +8804,9 @@
             "team2WinLoss": [
                 12,
                 18
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -8354,7 +8840,9 @@
             "team2WinLoss": [
                 15,
                 15
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8388,7 +8876,9 @@
             "team2WinLoss": [
                 15,
                 15
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8422,7 +8912,9 @@
             "team2WinLoss": [
                 12,
                 18
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8456,7 +8948,9 @@
             "team2WinLoss": [
                 16,
                 14
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8490,7 +8984,9 @@
             "team2WinLoss": [
                 15,
                 15
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -8526,7 +9022,9 @@
             "team2WinLoss": [
                 17,
                 14
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8560,7 +9058,9 @@
             "team2WinLoss": [
                 15,
                 16
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8594,7 +9094,9 @@
             "team2WinLoss": [
                 16,
                 15
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8628,7 +9130,9 @@
             "team2WinLoss": [
                 16,
                 15
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8662,7 +9166,9 @@
             "team2WinLoss": [
                 12,
                 19
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8696,7 +9202,9 @@
             "team2WinLoss": [
                 15,
                 16
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8730,7 +9238,9 @@
             "team2WinLoss": [
                 18,
                 13
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8764,7 +9274,9 @@
             "team2WinLoss": [
                 19,
                 12
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -8800,7 +9312,9 @@
             "team2WinLoss": [
                 15,
                 17
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8834,7 +9348,9 @@
             "team2WinLoss": [
                 17,
                 15
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -8868,7 +9384,9 @@
             "team2WinLoss": [
                 16,
                 16
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8902,7 +9420,9 @@
             "team2WinLoss": [
                 16,
                 16
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8936,7 +9456,9 @@
             "team2WinLoss": [
                 16,
                 16
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8970,7 +9492,9 @@
             "team2WinLoss": [
                 16,
                 16
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9004,7 +9528,9 @@
             "team2WinLoss": [
                 17,
                 15
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9038,7 +9564,9 @@
             "team2WinLoss": [
                 18,
                 14
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -9074,7 +9602,9 @@
             "team2WinLoss": [
                 17,
                 16
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -9108,7 +9638,9 @@
             "team2WinLoss": [
                 20,
                 13
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9142,7 +9674,9 @@
             "team2WinLoss": [
                 17,
                 16
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9176,7 +9710,9 @@
             "team2WinLoss": [
                 14,
                 19
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9210,7 +9746,9 @@
             "team2WinLoss": [
                 14,
                 19
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9244,7 +9782,9 @@
             "team2WinLoss": [
                 13,
                 20
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9278,7 +9818,9 @@
             "team2WinLoss": [
                 16,
                 17
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9312,7 +9854,9 @@
             "team2WinLoss": [
                 20,
                 13
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -9348,7 +9892,9 @@
             "team2WinLoss": [
                 16,
                 18
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -9382,7 +9928,9 @@
             "team2WinLoss": [
                 18,
                 16
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9416,7 +9964,9 @@
             "team2WinLoss": [
                 14,
                 20
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9450,7 +10000,9 @@
             "team2WinLoss": [
                 17,
                 17
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9484,7 +10036,9 @@
             "team2WinLoss": [
                 13,
                 21
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9518,7 +10072,9 @@
             "team2WinLoss": [
                 17,
                 17
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9552,7 +10108,9 @@
             "team2WinLoss": [
                 18,
                 16
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9586,7 +10144,9 @@
             "team2WinLoss": [
                 17,
                 17
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -9622,7 +10182,9 @@
             "team2WinLoss": [
                 21,
                 14
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -9656,7 +10218,9 @@
             "team2WinLoss": [
                 18,
                 17
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -9690,7 +10254,9 @@
             "team2WinLoss": [
                 18,
                 17
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -9724,7 +10290,9 @@
             "team2WinLoss": [
                 18,
                 17
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -9758,7 +10326,9 @@
             "team2WinLoss": [
                 15,
                 20
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9792,7 +10362,9 @@
             "team2WinLoss": [
                 19,
                 16
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9826,7 +10398,9 @@
             "team2WinLoss": [
                 21,
                 14
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9860,7 +10434,9 @@
             "team2WinLoss": [
                 20,
                 15
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -9896,7 +10472,9 @@
             "team2WinLoss": [
                 17,
                 19
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -9930,7 +10508,9 @@
             "team2WinLoss": [
                 19,
                 17
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9964,7 +10544,9 @@
             "team2WinLoss": [
                 18,
                 18
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -9998,7 +10580,9 @@
             "team2WinLoss": [
                 18,
                 18
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10032,7 +10616,9 @@
             "team2WinLoss": [
                 19,
                 17
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10066,7 +10652,9 @@
             "team2WinLoss": [
                 14,
                 22
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10100,7 +10688,9 @@
             "team2WinLoss": [
                 21,
                 15
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10134,7 +10724,9 @@
             "team2WinLoss": [
                 19,
                 17
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -10170,7 +10762,9 @@
             "team2WinLoss": [
                 18,
                 19
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -10204,7 +10798,9 @@
             "team2WinLoss": [
                 22,
                 15
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -10238,7 +10834,9 @@
             "team2WinLoss": [
                 19,
                 18
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -10272,7 +10870,9 @@
             "team2WinLoss": [
                 16,
                 21
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10306,7 +10906,9 @@
             "team2WinLoss": [
                 16,
                 21
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10340,7 +10942,9 @@
             "team2WinLoss": [
                 19,
                 18
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10374,7 +10978,9 @@
             "team2WinLoss": [
                 21,
                 16
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -10408,7 +11014,9 @@
             "team2WinLoss": [
                 19,
                 18
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -10444,7 +11052,9 @@
             "team2WinLoss": [
                 19,
                 19
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -10478,7 +11088,9 @@
             "team2WinLoss": [
                 18,
                 20
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -10512,7 +11124,9 @@
             "team2WinLoss": [
                 16,
                 22
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -10546,7 +11160,9 @@
             "team2WinLoss": [
                 19,
                 19
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10580,7 +11196,9 @@
             "team2WinLoss": [
                 15,
                 23
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10614,7 +11232,9 @@
             "team2WinLoss": [
                 19,
                 19
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10648,7 +11268,9 @@
             "team2WinLoss": [
                 20,
                 18
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10682,7 +11304,9 @@
             "team2WinLoss": [
                 19,
                 19
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -10718,7 +11342,9 @@
             "team2WinLoss": [
                 24,
                 15
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -10752,7 +11378,9 @@
             "team2WinLoss": [
                 20,
                 19
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -10786,7 +11414,9 @@
             "team2WinLoss": [
                 20,
                 19
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -10820,7 +11450,9 @@
             "team2WinLoss": [
                 20,
                 19
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10854,7 +11486,9 @@
             "team2WinLoss": [
                 17,
                 22
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10888,7 +11522,9 @@
             "team2WinLoss": [
                 21,
                 18
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10922,7 +11558,9 @@
             "team2WinLoss": [
                 22,
                 17
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -10956,7 +11594,9 @@
             "team2WinLoss": [
                 23,
                 16
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -10992,7 +11632,9 @@
             "team2WinLoss": [
                 24,
                 16
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -11026,7 +11668,9 @@
             "team2WinLoss": [
                 21,
                 19
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -11060,7 +11704,9 @@
             "team2WinLoss": [
                 17,
                 23
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -11094,7 +11740,9 @@
             "team2WinLoss": [
                 20,
                 20
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -11128,7 +11776,9 @@
             "team2WinLoss": [
                 15,
                 25
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11162,7 +11812,9 @@
             "team2WinLoss": [
                 21,
                 19
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11196,7 +11848,9 @@
             "team2WinLoss": [
                 23,
                 17
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -11230,7 +11884,9 @@
             "team2WinLoss": [
                 23,
                 17
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -11266,7 +11922,9 @@
             "team2WinLoss": [
                 18,
                 23
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -11300,7 +11958,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11334,7 +11994,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -11368,7 +12030,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -11402,7 +12066,9 @@
             "team2WinLoss": [
                 19,
                 22
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11436,7 +12102,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -11470,7 +12138,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -11504,7 +12174,9 @@
             "team2WinLoss": [
                 21,
                 20
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -11540,7 +12212,9 @@
             "team2WinLoss": [
                 22,
                 20
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -11574,7 +12248,9 @@
             "team2WinLoss": [
                 25,
                 17
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -11608,7 +12284,9 @@
             "team2WinLoss": [
                 18,
                 24
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -11642,7 +12320,9 @@
             "team2WinLoss": [
                 21,
                 21
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11676,7 +12356,9 @@
             "team2WinLoss": [
                 19,
                 23
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -11710,7 +12392,9 @@
             "team2WinLoss": [
                 22,
                 20
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11744,7 +12428,9 @@
             "team2WinLoss": [
                 23,
                 19
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -11778,7 +12464,9 @@
             "team2WinLoss": [
                 22,
                 20
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -11814,7 +12502,9 @@
             "team2WinLoss": [
                 22,
                 21
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -11848,7 +12538,9 @@
             "team2WinLoss": [
                 20,
                 23
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11882,7 +12574,9 @@
             "team2WinLoss": [
                 21,
                 22
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -11916,7 +12610,9 @@
             "team2WinLoss": [
                 21,
                 22
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -11950,7 +12646,9 @@
             "team2WinLoss": [
                 21,
                 22
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11984,7 +12682,9 @@
             "team2WinLoss": [
                 17,
                 26
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12018,7 +12718,9 @@
             "team2WinLoss": [
                 22,
                 21
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12052,7 +12754,9 @@
             "team2WinLoss": [
                 25,
                 18
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -12088,7 +12792,9 @@
             "team2WinLoss": [
                 22,
                 22
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -12122,7 +12828,9 @@
             "team2WinLoss": [
                 20,
                 24
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12156,7 +12864,9 @@
             "team2WinLoss": [
                 23,
                 21
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -12190,7 +12900,9 @@
             "team2WinLoss": [
                 20,
                 24
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -12224,7 +12936,9 @@
             "team2WinLoss": [
                 20,
                 24
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -12258,7 +12972,9 @@
             "team2WinLoss": [
                 17,
                 27
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12292,7 +13008,9 @@
             "team2WinLoss": [
                 23,
                 21
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -12326,7 +13044,9 @@
             "team2WinLoss": [
                 25,
                 19
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -12362,7 +13082,9 @@
             "team2WinLoss": [
                 24,
                 21
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -12396,7 +13118,9 @@
             "team2WinLoss": [
                 27,
                 18
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -12430,7 +13154,9 @@
             "team2WinLoss": [
                 21,
                 24
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -12464,7 +13190,9 @@
             "team2WinLoss": [
                 22,
                 23
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -12498,7 +13226,9 @@
             "team2WinLoss": [
                 24,
                 21
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12532,7 +13262,9 @@
             "team2WinLoss": [
                 22,
                 23
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12566,7 +13298,9 @@
             "team2WinLoss": [
                 25,
                 20
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -12600,7 +13334,9 @@
             "team2WinLoss": [
                 23,
                 22
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -12636,7 +13372,9 @@
             "team2WinLoss": [
                 21,
                 25
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -12670,7 +13408,9 @@
             "team2WinLoss": [
                 24,
                 22
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Forth Worth Piano Tuners",
@@ -12704,7 +13444,9 @@
             "team2WinLoss": [
                 21,
                 25
-            ]
+            ],
+            "team1Color": "#ef6f6c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -12738,7 +13480,9 @@
             "team2WinLoss": [
                 21,
                 25
-            ]
+            ],
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12772,7 +13516,9 @@
             "team2WinLoss": [
                 24,
                 22
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -12806,7 +13552,9 @@
             "team2WinLoss": [
                 21,
                 25
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12840,7 +13588,9 @@
             "team2WinLoss": [
                 26,
                 20
-            ]
+            ],
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12874,7 +13624,9 @@
             "team2WinLoss": [
                 23,
                 23
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -12910,7 +13662,9 @@
             "team2WinLoss": [
                 24,
                 23
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -12944,7 +13698,9 @@
             "team2WinLoss": [
                 28,
                 19
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -12978,7 +13734,9 @@
             "team2WinLoss": [
                 25,
                 22
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -13012,7 +13770,9 @@
             "team2WinLoss": [
                 23,
                 24
-            ]
+            ],
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -13046,7 +13806,9 @@
             "team2WinLoss": [
                 20,
                 27
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13080,7 +13842,9 @@
             "team2WinLoss": [
                 23,
                 24
-            ]
+            ],
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13114,7 +13878,9 @@
             "team2WinLoss": [
                 24,
                 23
-            ]
+            ],
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -13148,7 +13914,9 @@
             "team2WinLoss": [
                 27,
                 20
-            ]
+            ],
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -13184,7 +13952,9 @@
             "team2WinLoss": [
                 24,
                 24
-            ]
+            ],
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -13218,7 +13988,9 @@
             "team2WinLoss": [
                 24,
                 24
-            ]
+            ],
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Seattle Sneakernets",
@@ -13252,7 +14024,9 @@
             "team2WinLoss": [
                 26,
                 22
-            ]
+            ],
+            "team1Color": "#e86215",
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -13286,7 +14060,9 @@
             "team2WinLoss": [
                 21,
                 27
-            ]
+            ],
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -13320,7 +14096,9 @@
             "team2WinLoss": [
                 24,
                 24
-            ]
+            ],
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -13354,7 +14132,9 @@
             "team2WinLoss": [
                 24,
                 24
-            ]
+            ],
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -13388,7 +14168,9 @@
             "team2WinLoss": [
                 27,
                 21
-            ]
+            ],
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -13422,7 +14204,9 @@
             "team2WinLoss": [
                 22,
                 26
-            ]
+            ],
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         }
     ]
 ]
