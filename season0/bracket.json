@@ -12,11 +12,11 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Washington Footballteam",
+                "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 1, Cold League League Divison Series",
-                "team1Color": null,
+                "team1Color": "#ef6f6c",
                 "team2Color": "#53917e"
             },
             {
@@ -50,11 +50,11 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Washington Footballteam",
+                "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "eightr",
                 "description": "Game 2, Cold League League Divison Series",
-                "team1Color": null,
+                "team1Color": "#ef6f6c",
                 "team2Color": "#53917e"
             },
             {
@@ -89,11 +89,11 @@
             {
                 "league": "Cold League",
                 "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Washington Footballteam",
+                "team2Name": "Ft. Worth Piano Tuners",
                 "patternName": "timebomb",
                 "description": "Game 3, Cold League League Divison Series",
                 "team1Color": "#53917e",
-                "team2Color": null
+                "team2Color": "#ef6f6c"
             },
             {
                 "league": "Hot League",
@@ -127,11 +127,11 @@
             {
                 "league": "Cold League",
                 "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Washington Footballteam",
+                "team2Name": "Ft. Worth Piano Tuners",
                 "patternName": "eightpi",
                 "description": "Game 4, Cold League League Divison Series",
                 "team1Color": "#53917e",
-                "team2Color": null
+                "team2Color": "#ef6f6c"
             },
             {
                 "league": "Hot League",
@@ -164,11 +164,11 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Washington Footballteam",
+                "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "fourrabbits",
                 "description": "Game 5, Cold League League Divison Series",
-                "team1Color": null,
+                "team1Color": "#ef6f6c",
                 "team2Color": "#53917e"
             },
             {

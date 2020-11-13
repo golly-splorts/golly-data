@@ -2,12 +2,12 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 0,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -19,7 +19,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
@@ -75,12 +75,12 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 1,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc"
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 1,
@@ -150,12 +150,12 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twoacorn",
             "season": 0,
             "day": 2,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -167,7 +167,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
@@ -223,12 +223,12 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
             "day": 3,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc"
         },
         {
@@ -242,7 +242,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 3,
@@ -315,13 +315,13 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 4,
             "team1Color": null,
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -389,12 +389,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 5,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": null
         },
         {
@@ -463,7 +463,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
@@ -473,12 +473,12 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 6,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -538,7 +538,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twomultum",
             "season": 0,
             "day": 7,
@@ -546,12 +546,12 @@
             "team2Color": null
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 7,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5"
         },
         {
@@ -603,15 +603,15 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 8,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
@@ -676,17 +676,17 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 9,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twoacorn",
             "season": 0,
             "day": 9,
@@ -759,7 +759,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
@@ -769,12 +769,12 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 10,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -834,7 +834,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "eightr",
             "season": 0,
             "day": 11,
@@ -842,12 +842,12 @@
             "team2Color": null
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 11,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5"
         },
         {
@@ -899,15 +899,15 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twomultum",
             "season": 0,
             "day": 12,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "timebomb",
             "season": 0,
@@ -972,17 +972,17 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twomultum",
             "season": 0,
             "day": 13,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "timebomb",
             "season": 0,
             "day": 13,
@@ -1055,13 +1055,13 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "eightpi",
             "season": 0,
             "day": 14,
             "team1Color": null,
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1129,12 +1129,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "patternName": "eightpi",
             "season": 0,
             "day": 15,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": null
         },
         {
@@ -1186,12 +1186,12 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "eightpi",
             "season": 0,
             "day": 16,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1203,7 +1203,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "patternName": "twomultum",
             "season": 0,
@@ -1259,12 +1259,12 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "patternName": "eightpi",
             "season": 0,
             "day": 17,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc"
         },
         {
@@ -1278,7 +1278,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twomultum",
             "season": 0,
             "day": 17,
@@ -1351,7 +1351,7 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "fourrabbits",
             "season": 0,
@@ -1361,12 +1361,12 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twomultum",
             "season": 0,
             "day": 18,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1426,7 +1426,7 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 19,
@@ -1434,12 +1434,12 @@
             "team2Color": null
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
             "day": 19,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1482,12 +1482,12 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "random",
             "season": 0,
             "day": 20,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1499,7 +1499,7 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
@@ -1555,12 +1555,12 @@
     ],
     [
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Baltimore Texas",
             "patternName": "random",
             "season": 0,
             "day": 21,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc"
         },
         {
@@ -1574,7 +1574,7 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 21,
@@ -1647,13 +1647,13 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "random",
             "season": 0,
             "day": 22,
             "team1Color": null,
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1721,12 +1721,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team1Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Seattle Sneakers",
             "patternName": "random",
             "season": 0,
             "day": 23,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": null
         },
         {
@@ -1787,15 +1787,15 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 24,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twomultum",
             "season": 0,
@@ -1860,17 +1860,17 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 25,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twomultum",
             "season": 0,
             "day": 25,
@@ -1935,15 +1935,15 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 26,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightpi",
             "season": 0,
@@ -2008,17 +2008,17 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 27,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "eightpi",
             "season": 0,
             "day": 27,
@@ -2082,7 +2082,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "patternName": "eightr",
             "season": 0,
@@ -2091,12 +2091,12 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 28,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#990000"
         },
         {
@@ -2157,7 +2157,7 @@
         },
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "eightr",
             "season": 0,
             "day": 29,
@@ -2166,12 +2166,12 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 29,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2222,7 +2222,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twomultum",
             "season": 0,
             "day": 30,
@@ -2239,12 +2239,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 30,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#990000"
         },
         {
@@ -2295,7 +2295,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
@@ -2314,12 +2314,12 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 31,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2369,7 +2369,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "patternName": "twomultum",
             "season": 0,
@@ -2387,12 +2387,12 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "timebomb",
             "season": 0,
             "day": 32,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f08700"
         },
         {
@@ -2444,7 +2444,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twomultum",
             "season": 0,
             "day": 33,
@@ -2462,12 +2462,12 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "timebomb",
             "season": 0,
             "day": 33,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2526,7 +2526,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "patternName": "fourrabbits",
             "season": 0,
@@ -2545,12 +2545,12 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 34,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2601,7 +2601,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 35,
@@ -2618,12 +2618,12 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 35,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f08700"
         },
         {
@@ -2665,7 +2665,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
@@ -2684,12 +2684,12 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "eightr",
             "season": 0,
             "day": 36,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2740,7 +2740,7 @@
     [
         {
             "team1Name": "Baltimore Texas",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twoacorn",
             "season": 0,
             "day": 37,
@@ -2757,12 +2757,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
             "day": 37,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#53917e"
         },
         {
@@ -2823,7 +2823,7 @@
         },
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 38,
@@ -2840,12 +2840,12 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
             "day": 38,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#53917e"
         },
         {
@@ -2896,7 +2896,7 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "patternName": "twospaceshipgenerators",
             "season": 0,
@@ -2915,12 +2915,12 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twomultum",
             "season": 0,
             "day": 39,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2961,7 +2961,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightr",
             "season": 0,
@@ -2988,12 +2988,12 @@
             "team2Color": "#990000"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
             "day": 40,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#53917e"
         },
         {
@@ -3036,7 +3036,7 @@
     [
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "eightr",
             "season": 0,
             "day": 41,
@@ -3063,12 +3063,12 @@
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twomultum",
             "season": 0,
             "day": 41,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3118,7 +3118,7 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "random",
             "season": 0,
@@ -3137,12 +3137,12 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "eightpi",
             "season": 0,
             "day": 42,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3193,7 +3193,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "random",
             "season": 0,
             "day": 43,
@@ -3210,12 +3210,12 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightpi",
             "season": 0,
             "day": 43,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f08700"
         },
         {
@@ -3267,7 +3267,7 @@
         },
         {
             "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "fourrabbits",
             "season": 0,
             "day": 44,
@@ -3276,12 +3276,12 @@
         },
         {
             "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "twoacorn",
             "season": 0,
             "day": 44,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3340,7 +3340,7 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "fourrabbits",
             "season": 0,
@@ -3349,12 +3349,12 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
             "day": 45,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#f08700"
         },
         {
@@ -3406,7 +3406,7 @@
     [
         {
             "team1Name": "Elko Astronauts",
-            "team2Name": "Phoenix Good-At-Maths",
+            "team2Name": "Seattle Sneakers",
             "patternName": "random",
             "season": 0,
             "day": 46,
@@ -3423,12 +3423,12 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Washington Footballteam",
+            "team1Name": "Ft. Worth Piano Tuners",
             "team2Name": "Tucson Butchers",
             "patternName": "timebomb",
             "season": 0,
             "day": 46,
-            "team1Color": null,
+            "team1Color": "#ef6f6c",
             "team2Color": "#990000"
         },
         {
@@ -3479,7 +3479,7 @@
     ],
     [
         {
-            "team1Name": "Phoenix Good-At-Maths",
+            "team1Name": "Seattle Sneakers",
             "team2Name": "Elko Astronauts",
             "patternName": "random",
             "season": 0,
@@ -3498,12 +3498,12 @@
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Washington Footballteam",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "timebomb",
             "season": 0,
             "day": 47,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3571,13 +3571,13 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
+            "team1Name": "Seattle Sneakers",
+            "team2Name": "Ft. Worth Piano Tuners",
             "patternName": "timebomb",
             "season": 0,
             "day": 48,
             "team1Color": null,
-            "team2Color": null
+            "team2Color": "#ef6f6c"
         },
         {
             "team1Name": "Baltimore Texas",
