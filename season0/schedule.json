@@ -5,56 +5,72 @@
             "team2Name": "Washington Footballteam",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#3e92cc",
+            "team2Color": null
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightr",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": null,
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Orlando Business Majors",
             "patternName": "random",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Alewife Arsonists",
             "patternName": "timebomb",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 0
+            "day": 0,
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -63,56 +79,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightr",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#990000",
+            "team2Color": null
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "random",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Detroit Grape Chews",
             "patternName": "timebomb",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "eightpi",
             "season": 0,
-            "day": 1
+            "day": 1,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -121,56 +153,72 @@
             "team2Name": "Washington Footballteam",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#3e92cc",
+            "team2Color": null
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightr",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": null,
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightpi",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twomultum",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Orlando Business Majors",
             "patternName": "random",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Alewife Arsonists",
             "patternName": "timebomb",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 2
+            "day": 2,
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -179,56 +227,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightr",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#990000",
+            "team2Color": null
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Elko Astronauts",
             "patternName": "eightpi",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twomultum",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "random",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Detroit Grape Chews",
             "patternName": "timebomb",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 3
+            "day": 3,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -237,56 +301,72 @@
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Washington Footballteam",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": null,
+            "team2Color": null
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightr",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Alewife Arsonists",
             "patternName": "timebomb",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Orlando Business Majors",
             "patternName": "random",
             "season": 0,
-            "day": 4
+            "day": 4,
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -295,56 +375,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twomultum",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": null,
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Elko Astronauts",
             "patternName": "eightr",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "timebomb",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "eightpi",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "random",
             "season": 0,
-            "day": 5
+            "day": 5,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -353,56 +449,72 @@
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Tucson Butchers",
             "patternName": "random",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": null,
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Washington Footballteam",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Orlando Business Majors",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightr",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 6
+            "day": 6,
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -411,56 +523,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "random",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twomultum",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#53917e",
+            "team2Color": null
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Elko Astronauts",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "eightpi",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Detroit Grape Chews",
             "patternName": "eightr",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "timebomb",
             "season": 0,
-            "day": 7
+            "day": 7,
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -469,56 +597,72 @@
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Washington Footballteam",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#f2c57c",
+            "team2Color": null
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Tucson Butchers",
             "patternName": "random",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightr",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Orlando Business Majors",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 8
+            "day": 8,
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -527,56 +671,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twomultum",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Elko Astronauts",
             "patternName": "random",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "eightr",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "timebomb",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "eightpi",
             "season": 0,
-            "day": 9
+            "day": 9,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -585,56 +745,72 @@
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twomultum",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": null,
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Washington Footballteam",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightpi",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Alewife Arsonists",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "random",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 10
+            "day": 10,
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -643,56 +819,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twomultum",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "eightr",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#53917e",
+            "team2Color": null
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Elko Astronauts",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "eightpi",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Detroit Grape Chews",
             "patternName": "random",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "timebomb",
             "season": 0,
-            "day": 11
+            "day": 11,
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -701,56 +893,72 @@
             "team2Name": "Jersey OSHA Violations",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Washington Footballteam",
             "patternName": "twomultum",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#f2c57c",
+            "team2Color": null
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "timebomb",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Tucson Butchers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightr",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Orlando Business Majors",
             "patternName": "random",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Alewife Arsonists",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 12
+            "day": 12,
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -759,578 +967,738 @@
             "team2Name": "Baltimore Texas",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twomultum",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "timebomb",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Elko Astronauts",
             "patternName": "eightpi",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "eightr",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Detroit Grape Chews",
             "patternName": "random",
             "season": 0,
-            "day": 13
+            "day": 13,
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 13
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Washington Footballteam",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "random",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 14
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 14
-        }
-    ],
-    [
-        {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "random",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 15
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 15
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Tucson Butchers",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 16
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "random",
-            "season": 0,
-            "day": 16
-        }
-    ],
-    [
-        {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Baltimore Texas",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 17
-        },
-        {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
-            "patternName": "random",
-            "season": 0,
-            "day": 17
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Jersey OSHA Violations",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Washington Footballteam",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "random",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 18
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 18
-        }
-    ],
-    [
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Elko Astronauts",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "random",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 19
-        },
-        {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 19
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Washington Footballteam",
-            "patternName": "random",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Tucson Butchers",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 20
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 20
-        }
-    ],
-    [
-        {
-            "team1Name": "Washington Footballteam",
-            "team2Name": "Baltimore Texas",
-            "patternName": "random",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 21
-        },
-        {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 21
+            "day": 13,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "Tucson Butchers",
-            "patternName": "fourrabbits",
+            "patternName": "twomultum",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Jersey OSHA Violations",
-            "patternName": "twoacorn",
+            "patternName": "timebomb",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Washington Footballteam",
-            "patternName": "random",
+            "patternName": "eightpi",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": null,
+            "team2Color": null
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "San Diego Balloon Animals",
-            "patternName": "twomultum",
+            "patternName": "fourrabbits",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Alewife Arsonists",
-            "patternName": "timebomb",
+            "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Sacramento Boot Lickers",
-            "patternName": "twospaceshipgenerators",
+            "patternName": "random",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "eightpi",
+            "patternName": "twoacorn",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightr",
             "season": 0,
-            "day": 22
+            "day": 14,
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
+        }
+    ],
+    [
+        {
+            "team1Name": "Tucson Butchers",
+            "team2Name": "Baltimore Texas",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Long Beach Flightless Birds",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
+        },
+        {
+            "team1Name": "Washington Footballteam",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 15,
+            "team1Color": null,
+            "team2Color": null
+        },
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Elko Astronauts",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Sacramento Boot Lickers",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "random",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "Atlanta Glitter Sharks",
+            "team2Name": "Detroit Grape Chews",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
+        },
+        {
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 15,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "Washington Footballteam",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#3e92cc",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "San Diego Balloon Animals",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
+        },
+        {
+            "team1Name": "Phoenix Good-At-Maths",
+            "team2Name": "Tucson Butchers",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 16,
+            "team1Color": null,
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "Elko Astronauts",
+            "team2Name": "Jersey OSHA Violations",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
+        },
+        {
+            "team1Name": "Milwaukee Flamingos",
+            "team2Name": "Orlando Business Majors",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "Alewife Arsonists",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "random",
+            "season": 0,
+            "day": 16,
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
+        }
+    ],
+    [
+        {
+            "team1Name": "Washington Footballteam",
+            "team2Name": "Baltimore Texas",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 17,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
+        },
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Long Beach Flightless Birds",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
+        },
+        {
+            "team1Name": "Tucson Butchers",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#990000",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Elko Astronauts",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Atlanta Glitter Sharks",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Detroit Grape Chews",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
+        },
+        {
+            "team1Name": "Sacramento Boot Lickers",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "random",
+            "season": 0,
+            "day": 17,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "San Diego Balloon Animals",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "Tucson Butchers",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#f2c57c",
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "Phoenix Good-At-Maths",
+            "team2Name": "Jersey OSHA Violations",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 18,
+            "team1Color": null,
+            "team2Color": "#53917e"
+        },
+        {
+            "team1Name": "Elko Astronauts",
+            "team2Name": "Washington Footballteam",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "Orlando Business Majors",
+            "patternName": "random",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#0dab76"
+        },
+        {
+            "team1Name": "Milwaukee Flamingos",
+            "team2Name": "Alewife Arsonists",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#ff66cc",
+            "team2Color": "#e7d7c1"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#9963ab",
+            "team2Color": "#ffb627"
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 18,
+            "team1Color": "#ff1717",
+            "team2Color": "#697a21"
+        }
+    ],
+    [
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Baltimore Texas",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#f08700",
+            "team2Color": "#3e92cc"
+        },
+        {
+            "team1Name": "Tucson Butchers",
+            "team2Name": "Long Beach Flightless Birds",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#990000",
+            "team2Color": "#f2c57c"
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#53917e",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Washington Footballteam",
+            "team2Name": "Elko Astronauts",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 19,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "random",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#0dab76",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "Sacramento Boot Lickers",
+            "team2Name": "Detroit Grape Chews",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#ffb627",
+            "team2Color": "#9963ab"
+        },
+        {
+            "team1Name": "Atlanta Glitter Sharks",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 19,
+            "team1Color": "#697a21",
+            "team2Color": "#ff1717"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "Washington Footballteam",
+            "patternName": "random",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#3e92cc",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "San Diego Balloon Animals",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#f2c57c",
+            "team2Color": "#f08700"
+        },
+        {
+            "team1Name": "Phoenix Good-At-Maths",
+            "team2Name": "Tucson Butchers",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 20,
+            "team1Color": null,
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "Elko Astronauts",
+            "team2Name": "Jersey OSHA Violations",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#53917e"
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#697a21"
+        },
+        {
+            "team1Name": "Milwaukee Flamingos",
+            "team2Name": "Orlando Business Majors",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#ff66cc",
+            "team2Color": "#0dab76"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "Alewife Arsonists",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#9963ab",
+            "team2Color": "#e7d7c1"
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 20,
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
+        }
+    ],
+    [
+        {
+            "team1Name": "Washington Footballteam",
+            "team2Name": "Baltimore Texas",
+            "patternName": "random",
+            "season": 0,
+            "day": 21,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
+        },
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Long Beach Flightless Birds",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#f08700",
+            "team2Color": "#f2c57c"
+        },
+        {
+            "team1Name": "Tucson Butchers",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#990000",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Elko Astronauts",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#53917e",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Atlanta Glitter Sharks",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#697a21",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Detroit Grape Chews",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#9963ab"
+        },
+        {
+            "team1Name": "Sacramento Boot Lickers",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 21,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff1717"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "Tucson Butchers",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#3e92cc",
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "Jersey OSHA Violations",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
+        },
+        {
+            "team1Name": "Phoenix Good-At-Maths",
+            "team2Name": "Washington Footballteam",
+            "patternName": "random",
+            "season": 0,
+            "day": 22,
+            "team1Color": null,
+            "team2Color": null
+        },
+        {
+            "team1Name": "Elko Astronauts",
+            "team2Name": "San Diego Balloon Animals",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f08700"
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "Alewife Arsonists",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#e7d7c1"
+        },
+        {
+            "team1Name": "Milwaukee Flamingos",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ffb627"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Orlando Business Majors",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 22,
+            "team1Color": "#ff1717",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -1339,56 +1707,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#990000",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#53917e",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "random",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": null,
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#f08700",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "timebomb",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#ffb627",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Detroit Grape Chews",
             "patternName": "eightpi",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#697a21",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "eightr",
             "season": 0,
-            "day": 23
+            "day": 23,
+            "team1Color": "#0dab76",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1397,56 +1781,72 @@
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Washington Footballteam",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#f2c57c",
+            "team2Color": null
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twomultum",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "random",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightpi",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Alewife Arsonists",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 24
+            "day": 24,
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1455,56 +1855,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "eightr",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twomultum",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Elko Astronauts",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "random",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "timebomb",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Detroit Grape Chews",
             "patternName": "eightpi",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 25
+            "day": 25,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1513,56 +1929,72 @@
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#3e92cc",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Washington Footballteam",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#f2c57c",
+            "team2Color": null
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightpi",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Tucson Butchers",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "random",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#ff66cc",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Orlando Business Majors",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#9963ab",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Alewife Arsonists",
             "patternName": "twomultum",
             "season": 0,
-            "day": 26
+            "day": 26,
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1571,56 +2003,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "eightr",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#53917e",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "eightpi",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Elko Astronauts",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "random",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#ffb627",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "timebomb",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#697a21",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Detroit Grape Chews",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#0dab76",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "twomultum",
             "season": 0,
-            "day": 27
+            "day": 27,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1629,56 +2077,72 @@
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Baltimore Texas",
             "patternName": "eightr",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": null,
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightpi",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "random",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Alewife Arsonists",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 28
+            "day": 28,
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -1687,56 +2151,72 @@
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twomultum",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "eightr",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#3e92cc",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Washington Footballteam",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#990000",
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightpi",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Detroit Grape Chews",
             "patternName": "random",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Orlando Business Majors",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "timebomb",
             "season": 0,
-            "day": 29
+            "day": 29,
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -1745,56 +2225,72 @@
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twomultum",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "random",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": null,
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "timebomb",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "eightpi",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightr",
             "season": 0,
-            "day": 30
+            "day": 30,
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -1803,56 +2299,72 @@
             "team2Name": "Elko Astronauts",
             "patternName": "twomultum",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Baltimore Texas",
             "patternName": "random",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Washington Footballteam",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#990000",
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "timebomb",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightr",
             "season": 0,
-            "day": 31
+            "day": 31,
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -1861,56 +2373,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twomultum",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Elko Astronauts",
             "patternName": "eightpi",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "timebomb",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "random",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightr",
             "season": 0,
-            "day": 32
+            "day": 32,
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1919,56 +2447,72 @@
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twomultum",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#3e92cc",
+            "team2Color": null
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightpi",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Washington Footballteam",
             "patternName": "timebomb",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "random",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightr",
             "season": 0,
-            "day": 33
+            "day": 33,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -1977,56 +2521,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "eightr",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Elko Astronauts",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Tucson Butchers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Washington Footballteam",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#f08700",
+            "team2Color": null
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "random",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twomultum",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "timebomb",
             "season": 0,
-            "day": 34
+            "day": 34,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -2035,56 +2595,72 @@
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightr",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightpi",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "random",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twomultum",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Orlando Business Majors",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Alewife Arsonists",
             "patternName": "timebomb",
             "season": 0,
-            "day": 35
+            "day": 35,
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2093,56 +2669,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": null,
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Elko Astronauts",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#f2c57c",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Washington Footballteam",
             "patternName": "eightr",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#53917e",
+            "team2Color": null
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "eightpi",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Detroit Grape Chews",
             "patternName": "random",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "timebomb",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Orlando Business Majors",
             "patternName": "twomultum",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 36
+            "day": 36,
+            "team1Color": "#ffb627",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -2151,56 +2743,72 @@
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#3e92cc",
+            "team2Color": null
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "eightr",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": null,
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Tucson Butchers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "random",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "timebomb",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Alewife Arsonists",
             "patternName": "twomultum",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#0dab76",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 37
+            "day": 37,
+            "team1Color": "#697a21",
+            "team2Color": "#ffb627"
         }
     ],
     [
@@ -2209,56 +2817,72 @@
             "team2Name": "Baltimore Texas",
             "patternName": "random",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Tucson Butchers",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": null,
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "eightr",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "timebomb",
             "season": 0,
-            "day": 38
+            "day": 38,
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -2267,56 +2891,72 @@
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "random",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Elko Astronauts",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "Washington Footballteam",
             "patternName": "twomultum",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#53917e",
+            "team2Color": null
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "eightr",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Detroit Grape Chews",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Orlando Business Majors",
             "patternName": "timebomb",
             "season": 0,
-            "day": 39
+            "day": 39,
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         }
     ],
     [
@@ -2325,56 +2965,72 @@
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "eightr",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "Elko Astronauts",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Tucson Butchers",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#f08700",
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": null,
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "timebomb",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#ff66cc",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Detroit Grape Chews",
             "patternName": "random",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Orlando Business Majors",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 40
+            "day": 40,
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2383,288 +3039,368 @@
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "eightr",
             "season": 0,
-            "day": 41
+            "day": 41,
+            "team1Color": "#f2c57c",
+            "team2Color": null
         },
-        {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Baltimore Texas",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Washington Footballteam",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "random",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 41
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 41
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Elko Astronauts",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "Phoenix Good-At-Maths",
-            "team2Name": "Long Beach Flightless Birds",
-            "patternName": "random",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
-            "patternName": "twospaceshipgenerators",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 42
-        },
-        {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 42
-        }
-    ],
-    [
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Baltimore Texas",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "random",
-            "season": 0,
-            "day": 43
+            "day": 41,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
-            "patternName": "eightr",
-            "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Washington Footballteam",
             "team2Name": "San Diego Balloon Animals",
-            "patternName": "eightpi",
-            "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
-            "patternName": "twomultum",
-            "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 43
-        },
-        {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 43
-        }
-    ],
-    [
-        {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Elko Astronauts",
-            "patternName": "timebomb",
-            "season": 0,
-            "day": 44
-        },
-        {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Phoenix Good-At-Maths",
-            "patternName": "fourrabbits",
-            "season": 0,
-            "day": 44
-        },
-        {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Washington Footballteam",
-            "patternName": "twoacorn",
-            "season": 0,
-            "day": 44
+            "day": 41,
+            "team1Color": "#990000",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Washington Footballteam",
             "patternName": "twomultum",
             "season": 0,
-            "day": 44
+            "day": 41,
+            "team1Color": "#53917e",
+            "team2Color": null
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 41,
+            "team1Color": "#ff1717",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Detroit Grape Chews",
-            "team2Name": "Milwaukee Flamingos",
-            "patternName": "eightr",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "random",
             "season": 0,
-            "day": 44
+            "day": 41,
+            "team1Color": "#9963ab",
+            "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "San Francisco Boat Shoes",
-            "patternName": "twospaceshipgenerators",
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "fourrabbits",
             "season": 0,
-            "day": 44
+            "day": 41,
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 44
+            "day": 41,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "Elko Astronauts",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Phoenix Good-At-Maths",
+            "team2Name": "Long Beach Flightless Birds",
+            "patternName": "random",
+            "season": 0,
+            "day": 42,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Tucson Butchers",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Washington Footballteam",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#f08700",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "San Francisco Boat Shoes",
+            "team2Name": "Detroit Grape Chews",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Orlando Business Majors",
-            "patternName": "random",
+            "team2Name": "Alewife Arsonists",
+            "patternName": "fourrabbits",
             "season": 0,
-            "day": 44
+            "day": 42,
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
+        },
+        {
+            "team1Name": "Orlando Business Majors",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 42,
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         }
     ],
     [
         {
             "team1Name": "Elko Astronauts",
             "team2Name": "Baltimore Texas",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "random",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#f2c57c",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Tucson Butchers",
+            "team2Name": "Jersey OSHA Violations",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
+        },
+        {
+            "team1Name": "Washington Footballteam",
+            "team2Name": "San Diego Balloon Animals",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 43,
+            "team1Color": null,
+            "team2Color": "#f08700"
+        },
+        {
+            "team1Name": "Milwaukee Flamingos",
+            "team2Name": "Delaware Corporate Shells",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Atlanta Glitter Sharks",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 43,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
+        },
+        {
+            "team1Name": "Sacramento Boot Lickers",
+            "team2Name": "Orlando Business Majors",
             "patternName": "timebomb",
             "season": 0,
-            "day": 45
+            "day": 43,
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
+        }
+    ],
+    [
+        {
+            "team1Name": "Baltimore Texas",
+            "team2Name": "Elko Astronauts",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#3e92cc",
+            "team2Color": "#a0e7e5"
+        },
+        {
+            "team1Name": "Long Beach Flightless Birds",
+            "team2Name": "Phoenix Good-At-Maths",
+            "patternName": "fourrabbits",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#f2c57c",
+            "team2Color": null
+        },
+        {
+            "team1Name": "San Diego Balloon Animals",
+            "team2Name": "Washington Footballteam",
+            "patternName": "twoacorn",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#f08700",
+            "team2Color": null
+        },
+        {
+            "team1Name": "Jersey OSHA Violations",
+            "team2Name": "Tucson Butchers",
+            "patternName": "twomultum",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#53917e",
+            "team2Color": "#990000"
+        },
+        {
+            "team1Name": "Detroit Grape Chews",
+            "team2Name": "Milwaukee Flamingos",
+            "patternName": "eightr",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff66cc"
+        },
+        {
+            "team1Name": "Delaware Corporate Shells",
+            "team2Name": "San Francisco Boat Shoes",
+            "patternName": "twospaceshipgenerators",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff1717"
+        },
+        {
+            "team1Name": "Alewife Arsonists",
+            "team2Name": "Sacramento Boot Lickers",
+            "patternName": "eightpi",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ffb627"
+        },
+        {
+            "team1Name": "Atlanta Glitter Sharks",
+            "team2Name": "Orlando Business Majors",
+            "patternName": "random",
+            "season": 0,
+            "day": 44,
+            "team1Color": "#697a21",
+            "team2Color": "#0dab76"
+        }
+    ],
+    [
+        {
+            "team1Name": "Elko Astronauts",
+            "team2Name": "Baltimore Texas",
+            "patternName": "timebomb",
+            "season": 0,
+            "day": 45,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": null,
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": null,
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": "#990000",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Detroit Grape Chews",
             "patternName": "eightr",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": "#ff66cc",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": "#ff1717",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Alewife Arsonists",
             "patternName": "eightpi",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": "#ffb627",
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "random",
             "season": 0,
-            "day": 45
+            "day": 45,
+            "team1Color": "#0dab76",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -2673,56 +3409,72 @@
             "team2Name": "Phoenix Good-At-Maths",
             "patternName": "random",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#a0e7e5",
+            "team2Color": null
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Baltimore Texas",
             "patternName": "twomultum",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#f2c57c",
+            "team2Color": "#3e92cc"
         },
         {
             "team1Name": "Washington Footballteam",
             "team2Name": "Tucson Butchers",
             "patternName": "timebomb",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": null,
+            "team2Color": "#990000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#53917e",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Detroit Grape Chews",
             "patternName": "eightpi",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#ff1717",
+            "team2Color": "#9963ab"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
             "team2Name": "Orlando Business Majors",
             "patternName": "eightr",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#ffb627",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 46
+            "day": 46,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#697a21"
         }
     ],
     [
@@ -2731,56 +3483,72 @@
             "team2Name": "Elko Astronauts",
             "patternName": "random",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": null,
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "Long Beach Flightless Birds",
             "patternName": "twomultum",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f2c57c"
         },
         {
             "team1Name": "Tucson Butchers",
             "team2Name": "Washington Footballteam",
             "patternName": "timebomb",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#990000",
+            "team2Color": null
         },
         {
             "team1Name": "San Diego Balloon Animals",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#f08700",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "San Francisco Boat Shoes",
             "patternName": "eightpi",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#9963ab",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
             "team2Name": "Delaware Corporate Shells",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#ff66cc",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Orlando Business Majors",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightr",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#0dab76",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
             "team2Name": "Alewife Arsonists",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 47
+            "day": 47,
+            "team1Color": "#697a21",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2789,56 +3557,72 @@
             "team2Name": "Elko Astronauts",
             "patternName": "random",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#990000",
+            "team2Color": "#a0e7e5"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
             "team2Name": "Jersey OSHA Violations",
             "patternName": "twomultum",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#f2c57c",
+            "team2Color": "#53917e"
         },
         {
             "team1Name": "Phoenix Good-At-Maths",
             "team2Name": "Washington Footballteam",
             "patternName": "timebomb",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": null,
+            "team2Color": null
         },
         {
             "team1Name": "Baltimore Texas",
             "team2Name": "San Diego Balloon Animals",
             "patternName": "twoacorn",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#3e92cc",
+            "team2Color": "#f08700"
         },
         {
             "team1Name": "Detroit Grape Chews",
             "team2Name": "Atlanta Glitter Sharks",
             "patternName": "eightr",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#9963ab",
+            "team2Color": "#697a21"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
             "team2Name": "Sacramento Boot Lickers",
             "patternName": "eightpi",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#ff1717",
+            "team2Color": "#ffb627"
         },
         {
             "team1Name": "Alewife Arsonists",
             "team2Name": "Orlando Business Majors",
             "patternName": "twospaceshipgenerators",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#e7d7c1",
+            "team2Color": "#0dab76"
         },
         {
             "team1Name": "Delaware Corporate Shells",
             "team2Name": "Milwaukee Flamingos",
             "patternName": "fourrabbits",
             "season": 0,
-            "day": 48
+            "day": 48,
+            "team1Color": "#a0e7e5",
+            "team2Color": "#ff66cc"
         }
     ]
 ]
