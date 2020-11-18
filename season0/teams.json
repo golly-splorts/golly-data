@@ -65,6 +65,7 @@
     },
     {
         "teamId": "66b76929-2401-4e2b-847a-2580632c732b",
+        "teamAbbr": "BTX",
         "teamName": "Baltimore Texas",
         "teamColor": "#3e92cc",
         "league": "Cold League",
@@ -96,6 +97,7 @@
     },
     {
         "teamId": "cea9491d-d408-431f-94b7-46c467c25478",
+        "teamAbbr": "OSHA",
         "teamName": "Jersey OSHA Violations",
         "teamColor": "#53917e",
         "league": "Cold League",
