@@ -23,7 +23,7 @@
     {
         "teamId": "4b0765b0-1ada-470b-bc76-4f004200526c",
         "teamName": "San Francisco Boat Shoes",
-        "teamColor": "#ff1717",
+        "teamColor": "#e7d7c1",
         "league": "Hot League",
         "division": "Fire Division"
     },
@@ -51,7 +51,7 @@
     {
         "teamId": "4f51e5e9-8633-44a0-874b-34f9025435a5",
         "teamName": "Alewife Arsonists",
-        "teamColor": "#e7d7c1",
+        "teamColor": "#ff1717",
         "league": "Hot League",
         "division": "Water Division"
     },
