@@ -285,8 +285,8 @@
                 0,
                 0
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -575,8 +575,8 @@
                 0,
                 1
             ],
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -865,8 +865,8 @@
                 2,
                 0
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1083,7 +1083,7 @@
                 2,
                 1
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -1156,7 +1156,7 @@
                 2
             ],
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1338,7 +1338,7 @@
                 1
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1445,7 +1445,7 @@
                 2,
                 2
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         }
     ],
@@ -1627,7 +1627,7 @@
                 2,
                 3
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1736,7 +1736,7 @@
                 3
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1954,7 +1954,7 @@
                 2
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2025,7 +2025,7 @@
                 2,
                 4
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         }
     ],
@@ -2243,7 +2243,7 @@
                 4,
                 3
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -2316,7 +2316,7 @@
                 4
             ],
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2605,8 +2605,8 @@
                 5,
                 3
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -2895,8 +2895,8 @@
                 4,
                 5
             ],
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -3114,7 +3114,7 @@
                 5
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3185,7 +3185,7 @@
                 4,
                 6
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         }
     ],
@@ -3403,7 +3403,7 @@
                 5,
                 6
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -3476,7 +3476,7 @@
                 5
             ],
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -3765,8 +3765,8 @@
                 6,
                 6
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -4055,8 +4055,8 @@
                 6,
                 7
             ],
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -4238,7 +4238,7 @@
                 6
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4345,7 +4345,7 @@
                 7,
                 7
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         }
     ],
@@ -4527,7 +4527,7 @@
                 8,
                 7
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -4636,7 +4636,7 @@
                 9
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -4890,7 +4890,7 @@
                 7
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4925,7 +4925,7 @@
                 8,
                 8
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         }
     ],
@@ -5179,7 +5179,7 @@
                 9,
                 8
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -5216,7 +5216,7 @@
                 9
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -5434,7 +5434,7 @@
                 8
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5505,7 +5505,7 @@
                 9,
                 9
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         }
     ],
@@ -5723,7 +5723,7 @@
                 8,
                 11
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -5796,7 +5796,7 @@
                 11
             ],
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -6050,7 +6050,7 @@
                 8
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6085,7 +6085,7 @@
                 10,
                 10
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         }
     ],
@@ -6339,7 +6339,7 @@
                 11,
                 10
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -6376,7 +6376,7 @@
                 12
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -6558,7 +6558,7 @@
                 10
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6665,7 +6665,7 @@
                 13,
                 9
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         }
     ],
@@ -6847,7 +6847,7 @@
                 12,
                 11
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -6956,7 +6956,7 @@
                 13
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -7245,8 +7245,8 @@
                 13,
                 11
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -7535,8 +7535,8 @@
                 11,
                 14
             ],
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -7825,8 +7825,8 @@
                 15,
                 11
             ],
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -8115,8 +8115,8 @@
                 11,
                 16
             ],
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -8298,7 +8298,7 @@
                 17
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8370,7 +8370,7 @@
                 11
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8587,7 +8587,7 @@
                 15,
                 14
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -8659,7 +8659,7 @@
                 17,
                 12
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -8914,7 +8914,7 @@
                 18
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8949,7 +8949,7 @@
                 16,
                 14
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         },
         {
@@ -9203,7 +9203,7 @@
                 15,
                 16
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -9240,7 +9240,7 @@
                 13
             ],
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9493,7 +9493,7 @@
                 16,
                 16
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -9566,7 +9566,7 @@
                 14
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -9784,7 +9784,7 @@
                 20
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9855,7 +9855,7 @@
                 20,
                 13
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         }
     ],
@@ -10038,7 +10038,7 @@
                 21
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10145,7 +10145,7 @@
                 17,
                 17
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -10327,7 +10327,7 @@
                 15,
                 20
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -10436,7 +10436,7 @@
                 15
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -10654,7 +10654,7 @@
                 22
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10689,7 +10689,7 @@
                 21,
                 15
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -10943,7 +10943,7 @@
                 19,
                 18
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -10980,7 +10980,7 @@
                 16
             ],
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11198,7 +11198,7 @@
                 23
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11269,7 +11269,7 @@
                 20,
                 18
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         },
         {
@@ -11487,7 +11487,7 @@
                 17,
                 22
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -11560,7 +11560,7 @@
                 17
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11778,7 +11778,7 @@
                 25
             ],
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11886,7 +11886,7 @@
                 17
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -12067,7 +12067,7 @@
                 19,
                 22
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -12175,7 +12175,7 @@
                 21,
                 20
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -12393,7 +12393,7 @@
                 22,
                 20
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -12430,7 +12430,7 @@
                 19
             ],
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -12684,7 +12684,7 @@
                 26
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12719,7 +12719,7 @@
                 22,
                 21
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         },
         {
@@ -12974,7 +12974,7 @@
                 27
             ],
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -13009,7 +13009,7 @@
                 23,
                 21
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         },
         {
@@ -13263,7 +13263,7 @@
                 22,
                 23
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -13300,7 +13300,7 @@
                 20
             ],
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13517,7 +13517,7 @@
                 24,
                 22
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -13625,7 +13625,7 @@
                 23,
                 23
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ],
@@ -13808,7 +13808,7 @@
                 27
             ],
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13916,7 +13916,7 @@
                 20
             ],
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -14133,7 +14133,7 @@
                 24,
                 24
             ],
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         },
         {
@@ -14169,7 +14169,7 @@
                 27,
                 21
             ],
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
