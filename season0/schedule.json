@@ -24,7 +24,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 0,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#990000"
         },
         {
@@ -61,7 +61,7 @@
             "season": 0,
             "day": 0,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -69,7 +69,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 0,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -99,7 +99,7 @@
             "season": 0,
             "day": 1,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -134,7 +134,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 1,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -144,7 +144,7 @@
             "season": 0,
             "day": 1,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -172,7 +172,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 2,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#990000"
         },
         {
@@ -209,7 +209,7 @@
             "season": 0,
             "day": 2,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -217,7 +217,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 2,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -247,7 +247,7 @@
             "season": 0,
             "day": 3,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -282,7 +282,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 3,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -292,7 +292,7 @@
             "season": 0,
             "day": 3,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -320,7 +320,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 4,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -339,7 +339,7 @@
             "season": 0,
             "day": 4,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -365,7 +365,7 @@
             "patternName": "random",
             "season": 0,
             "day": 4,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         }
     ],
@@ -395,7 +395,7 @@
             "season": 0,
             "day": 5,
             "team1Color": "#ef6f6c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -412,7 +412,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 5,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -440,7 +440,7 @@
             "season": 0,
             "day": 5,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -468,7 +468,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 6,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#53917e"
         },
         {
@@ -496,7 +496,7 @@
             "season": 0,
             "day": 6,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -513,7 +513,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 6,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ],
@@ -543,7 +543,7 @@
             "season": 0,
             "day": 7,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -569,7 +569,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 7,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -588,7 +588,7 @@
             "season": 0,
             "day": 7,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -616,7 +616,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 8,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -661,8 +661,8 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 8,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -691,7 +691,7 @@
             "season": 0,
             "day": 9,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -735,8 +735,8 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 9,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -764,7 +764,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 10,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#53917e"
         },
         {
@@ -792,7 +792,7 @@
             "season": 0,
             "day": 10,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -809,7 +809,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 10,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ],
@@ -839,7 +839,7 @@
             "season": 0,
             "day": 11,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -865,7 +865,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 11,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -884,7 +884,7 @@
             "season": 0,
             "day": 11,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -912,7 +912,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 12,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -957,8 +957,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 12,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -987,7 +987,7 @@
             "season": 0,
             "day": 13,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1031,8 +1031,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 13,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1060,7 +1060,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 14,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1079,7 +1079,7 @@
             "season": 0,
             "day": 14,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1105,7 +1105,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 14,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         }
     ],
@@ -1135,7 +1135,7 @@
             "season": 0,
             "day": 15,
             "team1Color": "#ef6f6c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1152,7 +1152,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 15,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1180,7 +1180,7 @@
             "season": 0,
             "day": 15,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1208,7 +1208,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 16,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#990000"
         },
         {
@@ -1245,7 +1245,7 @@
             "season": 0,
             "day": 16,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1253,7 +1253,7 @@
             "patternName": "random",
             "season": 0,
             "day": 16,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -1283,7 +1283,7 @@
             "season": 0,
             "day": 17,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1318,7 +1318,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 17,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -1328,7 +1328,7 @@
             "season": 0,
             "day": 17,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1356,7 +1356,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 18,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#53917e"
         },
         {
@@ -1384,7 +1384,7 @@
             "season": 0,
             "day": 18,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1401,7 +1401,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 18,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ],
@@ -1431,7 +1431,7 @@
             "season": 0,
             "day": 19,
             "team1Color": "#53917e",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1457,7 +1457,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 19,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -1476,7 +1476,7 @@
             "season": 0,
             "day": 19,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1504,7 +1504,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 20,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#990000"
         },
         {
@@ -1541,7 +1541,7 @@
             "season": 0,
             "day": 20,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1549,7 +1549,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 20,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         }
     ],
@@ -1579,7 +1579,7 @@
             "season": 0,
             "day": 21,
             "team1Color": "#990000",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1614,7 +1614,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 21,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab"
         },
         {
@@ -1624,7 +1624,7 @@
             "season": 0,
             "day": 21,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1652,7 +1652,7 @@
             "patternName": "random",
             "season": 0,
             "day": 22,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1671,7 +1671,7 @@
             "season": 0,
             "day": 22,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1697,7 +1697,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 22,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         }
     ],
@@ -1727,7 +1727,7 @@
             "season": 0,
             "day": 23,
             "team1Color": "#ef6f6c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1744,7 +1744,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 23,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1772,7 +1772,7 @@
             "season": 0,
             "day": 23,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1800,7 +1800,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 24,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -1845,8 +1845,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 24,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -1875,7 +1875,7 @@
             "season": 0,
             "day": 25,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1919,8 +1919,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 25,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1948,7 +1948,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 26,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -1993,8 +1993,8 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 26,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2023,7 +2023,7 @@
             "season": 0,
             "day": 27,
             "team1Color": "#f08700",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2067,8 +2067,8 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 27,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1"
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -2087,7 +2087,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 28,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -2115,7 +2115,7 @@
             "season": 0,
             "day": 28,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2133,7 +2133,7 @@
             "season": 0,
             "day": 28,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2162,7 +2162,7 @@
             "season": 0,
             "day": 29,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2188,7 +2188,7 @@
             "patternName": "random",
             "season": 0,
             "day": 29,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -2206,7 +2206,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 29,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         },
         {
@@ -2227,7 +2227,7 @@
             "season": 0,
             "day": 30,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -2272,7 +2272,7 @@
             "season": 0,
             "day": 30,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2280,7 +2280,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 30,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         },
         {
@@ -2300,7 +2300,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 31,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2345,7 +2345,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 31,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2355,7 +2355,7 @@
             "season": 0,
             "day": 31,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2374,7 +2374,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 32,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -2419,7 +2419,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 32,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -2438,7 +2438,7 @@
             "season": 0,
             "day": 32,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2449,7 +2449,7 @@
             "season": 0,
             "day": 33,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2494,7 +2494,7 @@
             "season": 0,
             "day": 33,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2511,7 +2511,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 33,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         }
     ],
@@ -2531,7 +2531,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 34,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2559,7 +2559,7 @@
             "season": 0,
             "day": 34,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2585,7 +2585,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 34,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         }
     ],
@@ -2606,7 +2606,7 @@
             "season": 0,
             "day": 35,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2632,7 +2632,7 @@
             "patternName": "random",
             "season": 0,
             "day": 35,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -2660,7 +2660,7 @@
             "season": 0,
             "day": 35,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -2670,7 +2670,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 36,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -2716,7 +2716,7 @@
             "season": 0,
             "day": 36,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2724,7 +2724,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 36,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         },
         {
@@ -2745,7 +2745,7 @@
             "season": 0,
             "day": 37,
             "team1Color": "#3e92cc",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2789,7 +2789,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 37,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2799,7 +2799,7 @@
             "season": 0,
             "day": 37,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2828,7 +2828,7 @@
             "season": 0,
             "day": 38,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2855,7 +2855,7 @@
             "season": 0,
             "day": 38,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2872,7 +2872,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 38,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         },
         {
@@ -2901,7 +2901,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 39,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2928,7 +2928,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 39,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -2947,7 +2947,7 @@
             "season": 0,
             "day": 39,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2966,7 +2966,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 40,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -3003,7 +3003,7 @@
             "season": 0,
             "day": 40,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3030,7 +3030,7 @@
             "season": 0,
             "day": 40,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -3041,7 +3041,7 @@
             "season": 0,
             "day": 41,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3076,7 +3076,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 41,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -3103,7 +3103,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 41,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         }
     ],
@@ -3123,7 +3123,7 @@
             "patternName": "random",
             "season": 0,
             "day": 42,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -3159,7 +3159,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 42,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -3169,7 +3169,7 @@
             "season": 0,
             "day": 42,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3198,7 +3198,7 @@
             "season": 0,
             "day": 43,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3234,7 +3234,7 @@
             "season": 0,
             "day": 43,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3242,7 +3242,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 43,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         },
         {
@@ -3272,7 +3272,7 @@
             "season": 0,
             "day": 44,
             "team1Color": "#f2c57c",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3308,7 +3308,7 @@
             "season": 0,
             "day": 44,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3316,7 +3316,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 44,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627"
         },
         {
@@ -3345,7 +3345,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 45,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -3381,7 +3381,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 45,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -3391,7 +3391,7 @@
             "season": 0,
             "day": 45,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3411,7 +3411,7 @@
             "season": 0,
             "day": 46,
             "team1Color": "#a0e7e5",
-            "team2Color": null
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3446,7 +3446,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 46,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab"
         },
         {
@@ -3473,7 +3473,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 46,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         }
     ],
@@ -3484,7 +3484,7 @@
             "patternName": "random",
             "season": 0,
             "day": 47,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -3521,7 +3521,7 @@
             "season": 0,
             "day": 47,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3548,7 +3548,7 @@
             "season": 0,
             "day": 47,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -3576,7 +3576,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 48,
-            "team1Color": null,
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3603,7 +3603,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 48,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         },
         {
@@ -3612,7 +3612,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 48,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76"
         },
         {
