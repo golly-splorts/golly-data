@@ -45,23 +45,6 @@ with open('season0/new_season.json', 'w') as f:
 
 ############################
 
-with open('season0/bracket.json', 'r') as f:
-    bracket = json.load(f)
-
-for series in bracket:
-    for day in bracket[series]:
-        for game in day:
-            t1 = game['team1Name']
-            t2 = game['team2Name']
-            t1c = get_team_color(t1)
-            t2c = get_team_color(t2)
-            game['team1Color'] = t1c
-            game['team2Color'] = t2c
-
-with open('season0/new_bracket.json', 'w') as f:
-    json.dump(bracket, f, indent=4)
-
-############################
 
 with open('season0/postseason.json', 'r') as f:
     postseason = json.load(f)
