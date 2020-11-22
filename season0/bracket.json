@@ -6,36 +6,28 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Elko Astronauts",
                 "patternName": "twoacorn",
-                "description": "Game 1, Cold League League Divison Series",
-                "team1Color": "#f2c57c",
-                "team2Color": "#a0e7e5"
+                "description": "Game 1, Cold League League Divison Series"
             },
             {
                 "league": "Cold League",
                 "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 1, Cold League League Divison Series",
-                "team1Color": "#ef6f6c",
-                "team2Color": "#53917e"
+                "description": "Game 1, Cold League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Alewife Arsonists",
                 "team2Name": "Atlanta Glitter Sharks",
                 "patternName": "twomultum",
-                "description": "Game 1, Hot League League Divison Series",
-                "team1Color": "#e7d7c1",
-                "team2Color": "#697a21"
+                "description": "Game 1, Hot League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Orlando Business Majors",
                 "team2Name": "Detroit Grape Chews",
                 "patternName": "timebomb",
-                "description": "Game 1, Hot League League Divison Series",
-                "team1Color": "#0dab76",
-                "team2Color": "#9963ab"
+                "description": "Game 1, Hot League League Divison Series"
             }
         ],
         [
@@ -44,36 +36,28 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Elko Astronauts",
                 "patternName": "fourrabbits",
-                "description": "Game 2, Cold League League Divison Series",
-                "team1Color": "#f2c57c",
-                "team2Color": "#a0e7e5"
+                "description": "Game 2, Cold League League Divison Series"
             },
             {
                 "league": "Cold League",
                 "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "eightr",
-                "description": "Game 2, Cold League League Divison Series",
-                "team1Color": "#ef6f6c",
-                "team2Color": "#53917e"
+                "description": "Game 2, Cold League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Alewife Arsonists",
                 "team2Name": "Atlanta Glitter Sharks",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 2, Hot League League Divison Series",
-                "team1Color": "#e7d7c1",
-                "team2Color": "#697a21"
+                "description": "Game 2, Hot League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Orlando Business Majors",
                 "team2Name": "Detroit Grape Chews",
                 "patternName": "twoacorn",
-                "description": "Game 2, Hot League League Divison Series",
-                "team1Color": "#0dab76",
-                "team2Color": "#9963ab"
+                "description": "Game 2, Hot League League Divison Series"
             }
         ],
         [
@@ -82,36 +66,28 @@
                 "team1Name": "Elko Astronauts",
                 "team2Name": "Long Beach Flightless Birds",
                 "patternName": "twoacorn",
-                "description": "Game 3, Cold League League Divison Series",
-                "team1Color": "#a0e7e5",
-                "team2Color": "#f2c57c"
+                "description": "Game 3, Cold League League Divison Series"
             },
             {
                 "league": "Cold League",
                 "team1Name": "Jersey OSHA Violations",
                 "team2Name": "Ft. Worth Piano Tuners",
                 "patternName": "timebomb",
-                "description": "Game 3, Cold League League Divison Series",
-                "team1Color": "#53917e",
-                "team2Color": "#ef6f6c"
+                "description": "Game 3, Cold League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Atlanta Glitter Sharks",
                 "team2Name": "Alewife Arsonists",
                 "patternName": "random",
-                "description": "Game 3, Hot League League Divison Series",
-                "team1Color": "#697a21",
-                "team2Color": "#e7d7c1"
+                "description": "Game 3, Hot League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Detroit Grape Chews",
                 "team2Name": "Orlando Business Majors",
                 "patternName": "eightpi",
-                "description": "Game 3, Hot League League Divison Series",
-                "team1Color": "#9963ab",
-                "team2Color": "#0dab76"
+                "description": "Game 3, Hot League League Divison Series"
             }
         ],
         [
@@ -120,36 +96,28 @@
                 "team1Name": "Elko Astronauts",
                 "team2Name": "Long Beach Flightless Birds",
                 "patternName": "twomultum",
-                "description": "Game 4, Cold League League Divison Series",
-                "team1Color": "#a0e7e5",
-                "team2Color": "#f2c57c"
+                "description": "Game 4, Cold League League Divison Series"
             },
             {
                 "league": "Cold League",
                 "team1Name": "Jersey OSHA Violations",
                 "team2Name": "Ft. Worth Piano Tuners",
                 "patternName": "eightpi",
-                "description": "Game 4, Cold League League Divison Series",
-                "team1Color": "#53917e",
-                "team2Color": "#ef6f6c"
+                "description": "Game 4, Cold League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Atlanta Glitter Sharks",
                 "team2Name": "Alewife Arsonists",
                 "patternName": "eightr",
-                "description": "Game 4, Hot League League Divison Series",
-                "team1Color": "#697a21",
-                "team2Color": "#e7d7c1"
+                "description": "Game 4, Hot League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Detroit Grape Chews",
                 "team2Name": "Orlando Business Majors",
                 "patternName": "twoacorn",
-                "description": "Game 4, Hot League League Divison Series",
-                "team1Color": "#9963ab",
-                "team2Color": "#0dab76"
+                "description": "Game 4, Hot League League Divison Series"
             }
         ],
         [
@@ -158,36 +126,28 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Elko Astronauts",
                 "patternName": "eightpi",
-                "description": "Game 5, Cold League League Divison Series",
-                "team1Color": "#f2c57c",
-                "team2Color": "#a0e7e5"
+                "description": "Game 5, Cold League League Divison Series"
             },
             {
                 "league": "Cold League",
                 "team1Name": "Ft. Worth Piano Tuners",
                 "team2Name": "Jersey OSHA Violations",
                 "patternName": "fourrabbits",
-                "description": "Game 5, Cold League League Divison Series",
-                "team1Color": "#ef6f6c",
-                "team2Color": "#53917e"
+                "description": "Game 5, Cold League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Alewife Arsonists",
                 "team2Name": "Atlanta Glitter Sharks",
                 "patternName": "random",
-                "description": "Game 5, Hot League League Divison Series",
-                "team1Color": "#e7d7c1",
-                "team2Color": "#697a21"
+                "description": "Game 5, Hot League League Divison Series"
             },
             {
                 "league": "Hot League",
                 "team1Name": "Orlando Business Majors",
                 "team2Name": "Detroit Grape Chews",
                 "patternName": "timebomb",
-                "description": "Game 5, Hot League League Divison Series",
-                "team1Color": "#0dab76",
-                "team2Color": "#9963ab"
+                "description": "Game 5, Hot League League Divison Series"
             }
         ]
     ],
@@ -198,18 +158,14 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "timebomb",
                 "league": "Cold League",
-                "description": "Game 1, Cold League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 1, Cold League League Championship Series"
             },
             {
                 "team1Name": "Top Seed",
                 "team2Name": "Bottom Seed",
                 "patternName": "twoacorn",
                 "league": "Hot League",
-                "description": "Game 1, Hot League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 1, Hot League League Championship Series"
             }
         ],
         [
@@ -218,18 +174,14 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "eightr",
                 "league": "Cold League",
-                "description": "Game 2, Cold League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 2, Cold League League Championship Series"
             },
             {
                 "team1Name": "Top Seed",
                 "team2Name": "Bottom Seed",
                 "patternName": "fourrabbits",
                 "league": "Hot League",
-                "description": "Game 2, Hot League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 2, Hot League League Championship Series"
             }
         ],
         [
@@ -238,18 +190,14 @@
                 "team2Name": "Top Seed",
                 "patternName": "eightr",
                 "league": "Cold League",
-                "description": "Game 3, Cold League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 3, Cold League League Championship Series"
             },
             {
                 "team1Name": "Bottom Seed",
                 "team2Name": "Top Seed",
                 "patternName": "random",
                 "league": "Hot League",
-                "description": "Game 3, Hot League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 3, Hot League League Championship Series"
             }
         ],
         [
@@ -258,18 +206,14 @@
                 "team2Name": "Top Seed",
                 "patternName": "twospaceshipgenerators",
                 "league": "Cold League",
-                "description": "Game 4, Cold League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 4, Cold League League Championship Series"
             },
             {
                 "team1Name": "Bottom Seed",
                 "team2Name": "Top Seed",
                 "patternName": "eightpi",
                 "league": "Hot League",
-                "description": "Game 4, Hot League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 4, Hot League League Championship Series"
             }
         ],
         [
@@ -278,18 +222,14 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "twomultum",
                 "league": "Cold League",
-                "description": "Game 5, Cold League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 5, Cold League League Championship Series"
             },
             {
                 "team1Name": "Top Seed",
                 "team2Name": "Bottom Seed",
                 "patternName": "timebomb",
                 "league": "Hot League",
-                "description": "Game 5, Hot League League Championship Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 5, Hot League League Championship Series"
             }
         ]
     ],
@@ -299,9 +239,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "eightr",
-                "description": "Game 1, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 1, World Series"
             }
         ],
         [
@@ -309,9 +247,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "random",
-                "description": "Game 2, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 2, World Series"
             }
         ],
         [
@@ -319,9 +255,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "twomultum",
-                "description": "Game 3, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 3, World Series"
             }
         ],
         [
@@ -329,9 +263,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "random",
-                "description": "Game 4, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 4, World Series"
             }
         ],
         [
@@ -339,9 +271,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "eightr",
-                "description": "Game 5, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 5, World Series"
             }
         ],
         [
@@ -349,9 +279,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "eightpi",
-                "description": "Game 6, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 6, World Series"
             }
         ],
         [
@@ -359,9 +287,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "random",
-                "description": "Game 7, World Series",
-                "team1Color": null,
-                "team2Color": null
+                "description": "Game 7, World Series"
             }
         ]
     ]
