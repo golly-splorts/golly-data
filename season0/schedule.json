@@ -67,7 +67,7 @@
             "season": 0,
             "day": 0,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -76,7 +76,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 0,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -148,7 +148,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 1,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -159,7 +159,7 @@
             "season": 0,
             "day": 1,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -231,7 +231,7 @@
             "season": 0,
             "day": 2,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -240,7 +240,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 2,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -312,7 +312,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 3,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -323,7 +323,7 @@
             "season": 0,
             "day": 3,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -375,7 +375,7 @@
             "season": 0,
             "day": 4,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -404,7 +404,7 @@
             "patternName": "random",
             "season": 0,
             "day": 4,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "league": "Hot League"
         }
@@ -456,7 +456,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 5,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -487,7 +487,7 @@
             "season": 0,
             "day": 5,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -549,7 +549,7 @@
             "season": 0,
             "day": 6,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -568,7 +568,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 6,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "league": "Hot League"
         }
@@ -630,7 +630,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 7,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -651,7 +651,7 @@
             "season": 0,
             "day": 7,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -732,8 +732,8 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 8,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1",
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -814,8 +814,8 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 9,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -877,7 +877,7 @@
             "season": 0,
             "day": 10,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -896,7 +896,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 10,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "league": "Hot League"
         }
@@ -958,7 +958,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 11,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -979,7 +979,7 @@
             "season": 0,
             "day": 11,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1060,8 +1060,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 12,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1",
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -1142,8 +1142,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 13,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1195,7 +1195,7 @@
             "season": 0,
             "day": 14,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -1224,7 +1224,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 14,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "league": "Hot League"
         }
@@ -1276,7 +1276,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 15,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -1307,7 +1307,7 @@
             "season": 0,
             "day": 15,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1379,7 +1379,7 @@
             "season": 0,
             "day": 16,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -1388,7 +1388,7 @@
             "patternName": "random",
             "season": 0,
             "day": 16,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -1460,7 +1460,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 17,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -1471,7 +1471,7 @@
             "season": 0,
             "day": 17,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1533,7 +1533,7 @@
             "season": 0,
             "day": 18,
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -1552,7 +1552,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 18,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "league": "Hot League"
         }
@@ -1614,7 +1614,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 19,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -1635,7 +1635,7 @@
             "season": 0,
             "day": 19,
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1707,7 +1707,7 @@
             "season": 0,
             "day": 20,
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -1716,7 +1716,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 20,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -1788,7 +1788,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 21,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -1799,7 +1799,7 @@
             "season": 0,
             "day": 21,
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -1851,7 +1851,7 @@
             "season": 0,
             "day": 22,
             "team1Color": "#a0e7e5",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -1880,7 +1880,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 22,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "league": "Hot League"
         }
@@ -1932,7 +1932,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 23,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -1963,7 +1963,7 @@
             "season": 0,
             "day": 23,
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -2044,8 +2044,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 24,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1",
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -2126,8 +2126,8 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 25,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -2208,8 +2208,8 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 26,
-            "team1Color": "#ff1717",
-            "team2Color": "#e7d7c1",
+            "team1Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -2290,8 +2290,8 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 27,
-            "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717",
+            "team1Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         }
     ],
@@ -2343,7 +2343,7 @@
             "season": 0,
             "day": 28,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -2363,7 +2363,7 @@
             "season": 0,
             "day": 28,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -2424,7 +2424,7 @@
             "patternName": "random",
             "season": 0,
             "day": 29,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -2444,7 +2444,7 @@
             "patternName": "twoacorn",
             "season": 0,
             "day": 29,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "league": "Hot League"
         },
@@ -2517,7 +2517,7 @@
             "season": 0,
             "day": 30,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -2526,7 +2526,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 30,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "league": "Hot League"
         },
@@ -2598,7 +2598,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 31,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -2609,7 +2609,7 @@
             "season": 0,
             "day": 31,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -2680,7 +2680,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 32,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -2701,7 +2701,7 @@
             "season": 0,
             "day": 32,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -2763,7 +2763,7 @@
             "season": 0,
             "day": 33,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -2782,7 +2782,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 33,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "league": "Hot League"
         }
@@ -2835,7 +2835,7 @@
             "season": 0,
             "day": 34,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -2864,7 +2864,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 34,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -2916,7 +2916,7 @@
             "patternName": "random",
             "season": 0,
             "day": 35,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -2947,7 +2947,7 @@
             "season": 0,
             "day": 35,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -3009,7 +3009,7 @@
             "season": 0,
             "day": 36,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3018,7 +3018,7 @@
             "patternName": "twomultum",
             "season": 0,
             "day": 36,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "league": "Hot League"
         },
@@ -3090,7 +3090,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 37,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -3101,7 +3101,7 @@
             "season": 0,
             "day": 37,
             "team1Color": "#0dab76",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -3163,7 +3163,7 @@
             "season": 0,
             "day": 38,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3182,7 +3182,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 38,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "league": "Hot League"
         },
@@ -3244,7 +3244,7 @@
             "patternName": "eightr",
             "season": 0,
             "day": 39,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -3265,7 +3265,7 @@
             "season": 0,
             "day": 39,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -3327,7 +3327,7 @@
             "season": 0,
             "day": 40,
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3357,7 +3357,7 @@
             "season": 0,
             "day": 40,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -3408,7 +3408,7 @@
             "patternName": "timebomb",
             "season": 0,
             "day": 41,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "league": "Hot League"
         },
@@ -3438,7 +3438,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 41,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "league": "Hot League"
         }
@@ -3500,7 +3500,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 42,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -3511,7 +3511,7 @@
             "season": 0,
             "day": 42,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -3583,7 +3583,7 @@
             "season": 0,
             "day": 43,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3592,7 +3592,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 43,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "league": "Hot League"
         },
@@ -3665,7 +3665,7 @@
             "season": 0,
             "day": 44,
             "team1Color": "#a0e7e5",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3674,7 +3674,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 44,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "league": "Hot League"
         },
@@ -3746,7 +3746,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 45,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#a0e7e5",
             "league": "Hot League"
         },
@@ -3757,7 +3757,7 @@
             "season": 0,
             "day": 45,
             "team1Color": "#ffb627",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         },
         {
@@ -3818,7 +3818,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 46,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "league": "Hot League"
         },
@@ -3848,7 +3848,7 @@
             "patternName": "fourrabbits",
             "season": 0,
             "day": 46,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "league": "Hot League"
         }
@@ -3901,7 +3901,7 @@
             "season": 0,
             "day": 47,
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7d7c1",
             "league": "Hot League"
         },
         {
@@ -3931,7 +3931,7 @@
             "season": 0,
             "day": 47,
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#ff1717",
             "league": "Hot League"
         }
     ],
@@ -3992,7 +3992,7 @@
             "patternName": "eightpi",
             "season": 0,
             "day": 48,
-            "team1Color": "#ff1717",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "league": "Hot League"
         },
@@ -4002,7 +4002,7 @@
             "patternName": "twospaceshipgenerators",
             "season": 0,
             "day": 48,
-            "team1Color": "#e7d7c1",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "league": "Hot League"
         },
