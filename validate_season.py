@@ -65,7 +65,7 @@ for seasondir in ['season0', 'season1']:
         if 'patternName' not in game.keys():
             raise Exception("Error in game {igame} of day {iday}: game is missing a map!")
 
-    def check_map_full(game):
+    def check_map(game):
         if 'map' not in game.keys():
             raise Exception("Error in game {igame} of day {iday}: game is missing a map!")
         mapp = game['map']
@@ -99,10 +99,10 @@ for seasondir in ['season0', 'season1']:
     # -----------
     # schedule
 
-    print("***************************")
-    print("Now checking schedule.json")
-
     schedfile = os.path.join(seasondir, 'schedule.json')
+
+    print("***************************")
+    print(f"Now checking {schedfile}")
 
     with open(schedfile, 'r') as f:
         sched = json.load(f)
@@ -132,16 +132,16 @@ for seasondir in ['season0', 'season1']:
     # -----------
     # season
 
-    print("***************************")
-    print("Now checking season.json")
-
     seasonfile = os.path.join(seasondir, 'season.json')
 
-    with open('output-data-season-0/season.json', 'r') as f:
+    print("***************************")
+    print(f"Now checking {seasonfile}")
+
+    with open(seasonfile, 'r') as f:
         season = json.load(f)
 
     season_team_names = set()
-    for iday, day in enumerate(sched):
+    for iday, day in enumerate(season):
         games = day
         for igame, game in enumerate(games):
             t1 = game['team1Name']
@@ -162,6 +162,7 @@ for seasondir in ['season0', 'season1']:
         if team['teamName'] not in season_team_names:
             raise Exception(f"Error: team name {team['teamName']} not found in season.json")
 
+print("***************************")
 print("Everything is okay")
 
 # TODO: postseason
