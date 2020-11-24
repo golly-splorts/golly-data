@@ -7,7 +7,7 @@
                 "league": "Cold League",
                 "day": 49,
                 "season": 0,
-                "description": "Game 1, Cold League League Division Series",
+                "description": "Game 1, Cold League League Division Series 1",
                 "map": {
                     "patternId": 2,
                     "patternName": "twoacorn",
@@ -53,7 +53,7 @@
                 "league": "Cold League",
                 "day": 49,
                 "season": 0,
-                "description": "Game 1, Cold League League Division Series",
+                "description": "Game 1, Cold League League Division Series 2",
                 "map": {
                     "patternId": 5,
                     "patternName": "twospaceshipgenerators",
@@ -99,7 +99,7 @@
                 "league": "Hot League",
                 "day": 49,
                 "season": 0,
-                "description": "Game 1, Hot League League Division Series",
+                "description": "Game 1, Hot League League Division Series 1",
                 "map": {
                     "patternId": 8,
                     "patternName": "twomultum",
@@ -145,7 +145,7 @@
                 "league": "Hot League",
                 "day": 49,
                 "season": 0,
-                "description": "Game 1, Hot League League Division Series",
+                "description": "Game 1, Hot League League Division Series 2",
                 "map": {
                     "patternId": 3,
                     "patternName": "timebomb",
@@ -193,7 +193,7 @@
                 "league": "Cold League",
                 "day": 50,
                 "season": 0,
-                "description": "Game 2, Cold League League Division Series",
+                "description": "Game 2, Cold League League Division Series 1",
                 "map": {
                     "patternId": 4,
                     "patternName": "fourrabbits",
@@ -239,7 +239,7 @@
                 "league": "Cold League",
                 "day": 50,
                 "season": 0,
-                "description": "Game 2, Cold League League Division Series",
+                "description": "Game 2, Cold League League Division Series 2",
                 "map": {
                     "patternId": 6,
                     "patternName": "eightr",
@@ -285,7 +285,7 @@
                 "league": "Hot League",
                 "day": 50,
                 "season": 0,
-                "description": "Game 2, Hot League League Division Series",
+                "description": "Game 2, Hot League League Division Series 1",
                 "map": {
                     "patternId": 5,
                     "patternName": "twospaceshipgenerators",
@@ -331,7 +331,7 @@
                 "league": "Hot League",
                 "day": 50,
                 "season": 0,
-                "description": "Game 2, Hot League League Division Series",
+                "description": "Game 2, Hot League League Division Series 2",
                 "map": {
                     "patternId": 2,
                     "patternName": "twoacorn",
@@ -379,7 +379,7 @@
                 "league": "Cold League",
                 "day": 51,
                 "season": 0,
-                "description": "Game 3, Cold League League Division Series",
+                "description": "Game 3, Cold League League Division Series 1",
                 "map": {
                     "patternId": 2,
                     "patternName": "twoacorn",
@@ -425,7 +425,7 @@
                 "league": "Cold League",
                 "day": 51,
                 "season": 0,
-                "description": "Game 3, Cold League League Division Series",
+                "description": "Game 3, Cold League League Division Series 2",
                 "map": {
                     "patternId": 3,
                     "patternName": "timebomb",
@@ -471,7 +471,7 @@
                 "league": "Hot League",
                 "day": 51,
                 "season": 0,
-                "description": "Game 3, Hot League League Division Series",
+                "description": "Game 3, Hot League League Division Series 1",
                 "map": {
                     "patternId": 1,
                     "patternName": "random",
@@ -517,7 +517,7 @@
                 "league": "Hot League",
                 "day": 51,
                 "season": 0,
-                "description": "Game 3, Hot League League Division Series",
+                "description": "Game 3, Hot League League Division Series 2",
                 "map": {
                     "patternId": 7,
                     "patternName": "eightpi",
@@ -565,7 +565,7 @@
                 "league": "Cold League",
                 "day": 52,
                 "season": 0,
-                "description": "Game 4, Cold League League Division Series",
+                "description": "Game 4, Cold League League Division Series 1",
                 "map": {
                     "patternId": 8,
                     "patternName": "twomultum",
@@ -611,7 +611,7 @@
                 "league": "Cold League",
                 "day": 52,
                 "season": 0,
-                "description": "Game 4, Cold League League Division Series",
+                "description": "Game 4, Cold League League Division Series 2",
                 "map": {
                     "patternId": 7,
                     "patternName": "eightpi",
@@ -657,7 +657,7 @@
                 "league": "Hot League",
                 "day": 52,
                 "season": 0,
-                "description": "Game 4, Hot League League Division Series",
+                "description": "Game 4, Hot League League Division Series 1",
                 "map": {
                     "patternId": 6,
                     "patternName": "eightr",
@@ -703,7 +703,7 @@
                 "league": "Hot League",
                 "day": 52,
                 "season": 0,
-                "description": "Game 4, Hot League League Division Series",
+                "description": "Game 4, Hot League League Division Series 2",
                 "map": {
                     "patternId": 2,
                     "patternName": "twoacorn",
@@ -751,7 +751,7 @@
                 "league": "Cold League",
                 "day": 53,
                 "season": 0,
-                "description": "Game 5, Cold League League Division Series",
+                "description": "Game 5, Cold League League Division Series 1",
                 "map": {
                     "patternId": 7,
                     "patternName": "eightpi",
@@ -797,7 +797,7 @@
                 "league": "Cold League",
                 "day": 53,
                 "season": 0,
-                "description": "Game 5, Cold League League Division Series",
+                "description": "Game 5, Cold League League Division Series 2",
                 "map": {
                     "patternId": 4,
                     "patternName": "fourrabbits",
@@ -843,7 +843,7 @@
                 "league": "Hot League",
                 "day": 53,
                 "season": 0,
-                "description": "Game 5, Hot League League Division Series",
+                "description": "Game 5, Hot League League Division Series 1",
                 "map": {
                     "patternId": 1,
                     "patternName": "random",
@@ -889,7 +889,7 @@
                 "league": "Hot League",
                 "day": 53,
                 "season": 0,
-                "description": "Game 5, Hot League League Division Series",
+                "description": "Game 5, Hot League League Division Series 2",
                 "map": {
                     "patternId": 3,
                     "patternName": "timebomb",
