@@ -162,6 +162,57 @@ for seasondir in ['season0', 'season1']:
         if team['teamName'] not in season_team_names:
             raise Exception(f"Error: team name {team['teamName']} not found in season.json")
 
+
+    # -----------
+    # postseason
+
+    postseasonfile = os.path.join(seasondir, 'postseason.json')
+
+    print("***************************")
+    print(f"Now checking {postseasonfile}")
+
+    postseason_team_names = set()
+    with open(postseasonfile, 'r') as f:
+        postseason = json.load(f)
+
+    for series in postseason:
+        miniseason = postseason[series]
+        for iday, day in enumerate(miniseason):
+            games = day
+            for igame, game in enumerate(games):
+                t1 = game['team1Name']
+                t2 = game['team1Name']
+
+                check_name_color_match(game)
+                check_score(game)
+                if series != 'WS':
+                    check_league(game)
+                check_map(game)
+
+                postseason_team_names.add(t1)
+                postseason_team_names.add(t2)
+
+    team_names = set()
+    for team in teams:
+        team_names.add(team['teamName'])
+    for postseason_team_name in postseason_team_names:
+        if postseason_team_name not in team_names:
+            raise Exception(f"Error: invalid team name {postseason_team_name} found in postseason.json")
+
+    # Verify series are the correct lengths
+    ldslen = len(postseason['LDS'])
+    if ldslen>5 or ldslen<3:
+        raise Exception(f"Error: postseason LDS length is invalid: {ldslen} games")
+
+    lcslen = len(postseason['LCS'])
+    if lcslen>5 or lcslen<3:
+        raise Exception(f"Error: postseason LCS length is invalid: {lcslen} games")
+
+    wslen = len(postseason['WS'])
+    if wslen>7 or wslen<4:
+        raise Exception(f"Error: postseason WS length is invalid: {wslen} games")
+
+
 print("***************************")
 print("Everything is okay")
 
