@@ -101,6 +101,20 @@ for seasondir in ['season0', 'season1']:
         #    if urk in mapp:
         #        raise Exception("Error in game {game['id']} of day {game['day']}: game map should not have key \"{urk}\"!")
 
+    def check_wl(game):
+        req_keys = ['team1WinLoss', 'team2WinLoss']
+        for rk in req_keys:
+            if rk not in game:
+                raise Exception("Error in game {game['id']} of day {game['day']}: game map is missing key \"{rk}\"!")
+
+        wlsum1 = game['team1WinLoss'][0] + game['team1WinLoss'][1]
+        wlsum2 = game['team1WinLoss'][0] + game['team1WinLoss'][1]
+        if (wlsum1!=(game['day'])):
+            print(game)
+            raise Exception(f"Error in game {game['id']} of day {game['day']}: win loss record for team 1 sums to {wlsum1}, should sum to {game['day']}")
+        if (wlsum2!=(game['day'])):
+            raise Exception(f"Error in game {game['id']} of day {game['day']}: win loss record for team 2 sums to {wlsum2}, should sum to {game['day']}")
+
     # -----------
     # schedule
 
@@ -150,12 +164,14 @@ for seasondir in ['season0', 'season1']:
         games = day
         for igame, game in enumerate(games):
             t1 = game['team1Name']
-            t2 = game['team1Name']
+            t2 = game['team2Name']
 
             check_name_color_match(game)
             check_score(game)
             check_league(game)
+            check_id(game)
             check_map(game)
+            check_wl(game)
 
             season_team_names.add(t1)
             season_team_names.add(t2)
@@ -186,7 +202,7 @@ for seasondir in ['season0', 'season1']:
             games = day
             for igame, game in enumerate(games):
                 t1 = game['team1Name']
-                t2 = game['team1Name']
+                t2 = game['team2Name']
 
                 check_id(game)
                 check_name_color_match(game)
