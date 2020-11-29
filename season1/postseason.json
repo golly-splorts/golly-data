@@ -44,7 +44,8 @@
                 "team1Score": 142,
                 "team2Score": 61,
                 "generations": 2419,
-                "id": "1681f928-b669-478a-b77d-1b45f7238608"
+                "id": "1681f928-b669-478a-b77d-1b45f7238608",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Tucson Butchers",
@@ -89,7 +90,8 @@
                 "team1Score": 150,
                 "team2Score": 89,
                 "generations": 1491,
-                "id": "1a5c7614-7335-4190-8699-517714f7262a"
+                "id": "1a5c7614-7335-4190-8699-517714f7262a",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -134,7 +136,8 @@
                 "team1Score": 450,
                 "team2Score": 56,
                 "generations": 3339,
-                "id": "ad660364-d2ac-4e2d-87e5-7c162f67ac0a"
+                "id": "ad660364-d2ac-4e2d-87e5-7c162f67ac0a",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -179,7 +182,8 @@
                 "team1Score": 256,
                 "team2Score": 81,
                 "generations": 1228,
-                "id": "5836fe1b-5cb2-4c4b-9395-5920c512c984"
+                "id": "5836fe1b-5cb2-4c4b-9395-5920c512c984",
+                "isPlayoffs": true
             }
         ],
         [
@@ -226,7 +230,8 @@
                 "team1Score": 35,
                 "team2Score": 264,
                 "generations": 1990,
-                "id": "a3cb61d5-4306-4b4a-b803-158b53b31f5c"
+                "id": "a3cb61d5-4306-4b4a-b803-158b53b31f5c",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Tucson Butchers",
@@ -271,7 +276,8 @@
                 "team1Score": 25,
                 "team2Score": 94,
                 "generations": 1290,
-                "id": "d03bfea2-8963-47b4-a9a6-d1ccb3c800d4"
+                "id": "d03bfea2-8963-47b4-a9a6-d1ccb3c800d4",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -316,7 +322,8 @@
                 "team1Score": 197,
                 "team2Score": 67,
                 "generations": 1457,
-                "id": "21a92610-8c91-435f-b197-9d8e91471abf"
+                "id": "21a92610-8c91-435f-b197-9d8e91471abf",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -361,7 +368,8 @@
                 "team1Score": 319,
                 "team2Score": 0,
                 "generations": 1201,
-                "id": "1707a00e-bfb3-4151-b101-062fcf9276cf"
+                "id": "1707a00e-bfb3-4151-b101-062fcf9276cf",
+                "isPlayoffs": true
             }
         ],
         [
@@ -408,7 +416,8 @@
                 "team1Score": 207,
                 "team2Score": 77,
                 "generations": 1641,
-                "id": "09ed3189-9294-4207-90f0-8ee7659aca8c"
+                "id": "09ed3189-9294-4207-90f0-8ee7659aca8c",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -453,7 +462,8 @@
                 "team1Score": 179,
                 "team2Score": 109,
                 "generations": 1288,
-                "id": "1b4bfb54-c2f3-45b9-9471-b4a4a0b827ed"
+                "id": "1b4bfb54-c2f3-45b9-9471-b4a4a0b827ed",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -498,7 +508,8 @@
                 "team1Score": 290,
                 "team2Score": 28,
                 "generations": 2340,
-                "id": "e481c61d-86eb-4899-a2f1-982260385616"
+                "id": "e481c61d-86eb-4899-a2f1-982260385616",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -543,7 +554,8 @@
                 "team1Score": 41,
                 "team2Score": 104,
                 "generations": 1278,
-                "id": "a390b246-621b-48ac-a6fb-796a8c8182c0"
+                "id": "a390b246-621b-48ac-a6fb-796a8c8182c0",
+                "isPlayoffs": true
             }
         ],
         [
@@ -590,7 +602,8 @@
                 "team1Score": 128,
                 "team2Score": 60,
                 "generations": 2414,
-                "id": "c719db92-7e13-44ab-a40d-0805a3d1d76b"
+                "id": "c719db92-7e13-44ab-a40d-0805a3d1d76b",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -635,7 +648,8 @@
                 "team1Score": 177,
                 "team2Score": 97,
                 "generations": 2402,
-                "id": "49303589-66ee-4f97-90cb-dcb20f0dcf74"
+                "id": "49303589-66ee-4f97-90cb-dcb20f0dcf74",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -680,7 +694,8 @@
                 "team1Score": 107,
                 "team2Score": 49,
                 "generations": 1657,
-                "id": "fb151059-3fd3-47fc-9346-be7586ae1644"
+                "id": "fb151059-3fd3-47fc-9346-be7586ae1644",
+                "isPlayoffs": true
             }
         ],
         [
@@ -727,7 +742,8 @@
                 "team1Score": 156,
                 "team2Score": 165,
                 "generations": 1162,
-                "id": "60c63733-5147-4045-982a-353a2e351566"
+                "id": "60c63733-5147-4045-982a-353a2e351566",
+                "isPlayoffs": true
             }
         ]
     ],
@@ -776,7 +792,8 @@
                 "team1Score": 206,
                 "team2Score": 147,
                 "generations": 1630,
-                "id": "bfb198d1-74c5-4ed0-89f5-17d6d8f62849"
+                "id": "bfb198d1-74c5-4ed0-89f5-17d6d8f62849",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -821,7 +838,8 @@
                 "team1Score": 97,
                 "team2Score": 49,
                 "generations": 1469,
-                "id": "63304f56-bc0a-4a09-871d-bbe72935b969"
+                "id": "63304f56-bc0a-4a09-871d-bbe72935b969",
+                "isPlayoffs": true
             }
         ],
         [
@@ -868,7 +886,8 @@
                 "team1Score": 136,
                 "team2Score": 64,
                 "generations": 2416,
-                "id": "3ae9dbea-0329-486e-b907-c871434639fd"
+                "id": "3ae9dbea-0329-486e-b907-c871434639fd",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -913,7 +932,8 @@
                 "team1Score": 204,
                 "team2Score": 66,
                 "generations": 1372,
-                "id": "2b4de904-8844-4da4-bacf-e93ea2b9690a"
+                "id": "2b4de904-8844-4da4-bacf-e93ea2b9690a",
+                "isPlayoffs": true
             }
         ],
         [
@@ -960,7 +980,8 @@
                 "team1Score": 174,
                 "team2Score": 17,
                 "generations": 2489,
-                "id": "919ae2aa-ad8c-46dd-9895-e321d56caf7c"
+                "id": "919ae2aa-ad8c-46dd-9895-e321d56caf7c",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -1005,7 +1026,8 @@
                 "team1Score": 109,
                 "team2Score": 40,
                 "generations": 1111,
-                "id": "3d4cf34b-c418-4fea-8df1-4eba09b6783e"
+                "id": "3d4cf34b-c418-4fea-8df1-4eba09b6783e",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1052,7 +1074,8 @@
                 "team1Score": 236,
                 "team2Score": 22,
                 "generations": 1793,
-                "id": "33822739-e517-4874-bad0-07b4e24e42ec"
+                "id": "33822739-e517-4874-bad0-07b4e24e42ec",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -1097,7 +1120,8 @@
                 "team1Score": 222,
                 "team2Score": 85,
                 "generations": 3105,
-                "id": "76784772-59dc-4999-bdf1-f50287940e78"
+                "id": "76784772-59dc-4999-bdf1-f50287940e78",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1144,7 +1168,8 @@
                 "team1Score": 186,
                 "team2Score": 136,
                 "generations": 2604,
-                "id": "bf109514-eeb8-45a1-a85f-f77375da9a52"
+                "id": "bf109514-eeb8-45a1-a85f-f77375da9a52",
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -1189,7 +1214,8 @@
                 "team1Score": 198,
                 "team2Score": 11,
                 "generations": 2007,
-                "id": "277432f3-3d1d-4c7c-bead-e92f979eb58d"
+                "id": "277432f3-3d1d-4c7c-bead-e92f979eb58d",
+                "isPlayoffs": true
             }
         ]
     ],
@@ -1237,7 +1263,8 @@
                 "team1Score": 215,
                 "team2Score": 65,
                 "generations": 1578,
-                "id": "fea9133c-7b17-41b2-8ad2-6d32450fbdc4"
+                "id": "fea9133c-7b17-41b2-8ad2-6d32450fbdc4",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1283,7 +1310,8 @@
                 "team1Score": 151,
                 "team2Score": 6,
                 "generations": 1167,
-                "id": "ec0fe232-2d48-452b-ae54-4cb87db48c7e"
+                "id": "ec0fe232-2d48-452b-ae54-4cb87db48c7e",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1329,7 +1357,8 @@
                 "team1Score": 27,
                 "team2Score": 112,
                 "generations": 1586,
-                "id": "38c3eef7-a1dd-43d6-85fe-8d3c47439347"
+                "id": "38c3eef7-a1dd-43d6-85fe-8d3c47439347",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1375,7 +1404,8 @@
                 "team1Score": 155,
                 "team2Score": 107,
                 "generations": 1361,
-                "id": "8fdd6530-d61c-4253-9d4a-32c6f8d0546a"
+                "id": "8fdd6530-d61c-4253-9d4a-32c6f8d0546a",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1421,7 +1451,8 @@
                 "team1Score": 185,
                 "team2Score": 83,
                 "generations": 1898,
-                "id": "b2f57cc0-6fb7-45ba-b37a-09bae92daee0"
+                "id": "b2f57cc0-6fb7-45ba-b37a-09bae92daee0",
+                "isPlayoffs": true
             }
         ],
         [
@@ -1467,7 +1498,8 @@
                 "team1Score": 150,
                 "team2Score": 94,
                 "generations": 1395,
-                "id": "dc34c355-7183-434b-8bc7-a9b7334d1f02"
+                "id": "dc34c355-7183-434b-8bc7-a9b7334d1f02",
+                "isPlayoffs": true
             }
         ]
     ]
