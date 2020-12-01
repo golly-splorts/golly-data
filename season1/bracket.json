@@ -198,7 +198,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "fourrabbits",
                 "league": "Cold League",
-                "description": "Game 1, Cold League League Championship Series",
+                "description": "Game 1, Cold League Championship Series",
                 "id": "bfb198d1-74c5-4ed0-89f5-17d6d8f62849",
                 "isPlayoffs": true
             },
@@ -207,7 +207,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "twoacorn",
                 "league": "Hot League",
-                "description": "Game 1, Hot League League Championship Series",
+                "description": "Game 1, Hot League Championship Series",
                 "id": "63304f56-bc0a-4a09-871d-bbe72935b969",
                 "isPlayoffs": true
             }
@@ -218,7 +218,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "eightr",
                 "league": "Cold League",
-                "description": "Game 2, Cold League League Championship Series",
+                "description": "Game 2, Cold League Championship Series",
                 "id": "3ae9dbea-0329-486e-b907-c871434639fd",
                 "isPlayoffs": true
             },
@@ -227,7 +227,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "fourrabbits",
                 "league": "Hot League",
-                "description": "Game 2, Hot League League Championship Series",
+                "description": "Game 2, Hot League Championship Series",
                 "id": "2b4de904-8844-4da4-bacf-e93ea2b9690a",
                 "isPlayoffs": true
             }
@@ -238,7 +238,7 @@
                 "team2Name": "Top Seed",
                 "patternName": "eightr",
                 "league": "Cold League",
-                "description": "Game 3, Cold League League Championship Series",
+                "description": "Game 3, Cold League Championship Series",
                 "id": "919ae2aa-ad8c-46dd-9895-e321d56caf7c",
                 "isPlayoffs": true
             },
@@ -247,7 +247,7 @@
                 "team2Name": "Top Seed",
                 "patternName": "timebomb",
                 "league": "Hot League",
-                "description": "Game 3, Hot League League Championship Series",
+                "description": "Game 3, Hot League Championship Series",
                 "id": "3d4cf34b-c418-4fea-8df1-4eba09b6783e",
                 "isPlayoffs": true
             }
@@ -258,7 +258,7 @@
                 "team2Name": "Top Seed",
                 "patternName": "twospaceshipgenerators",
                 "league": "Cold League",
-                "description": "Game 4, Cold League League Championship Series",
+                "description": "Game 4, Cold League Championship Series",
                 "id": "33822739-e517-4874-bad0-07b4e24e42ec",
                 "isPlayoffs": true
             },
@@ -267,7 +267,7 @@
                 "team2Name": "Top Seed",
                 "patternName": "eightpi",
                 "league": "Hot League",
-                "description": "Game 4, Hot League League Championship Series",
+                "description": "Game 4, Hot League Championship Series",
                 "id": "76784772-59dc-4999-bdf1-f50287940e78",
                 "isPlayoffs": true
             }
@@ -278,7 +278,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "timebomb",
                 "league": "Cold League",
-                "description": "Game 5, Cold League League Championship Series",
+                "description": "Game 5, Cold League Championship Series",
                 "id": "bf109514-eeb8-45a1-a85f-f77375da9a52",
                 "isPlayoffs": true
             },
@@ -287,7 +287,7 @@
                 "team2Name": "Bottom Seed",
                 "patternName": "twoacorn",
                 "league": "Hot League",
-                "description": "Game 5, Hot League League Championship Series",
+                "description": "Game 5, Hot League Championship Series",
                 "id": "277432f3-3d1d-4c7c-bead-e92f979eb58d",
                 "isPlayoffs": true
             }

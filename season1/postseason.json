@@ -757,7 +757,7 @@
                 "league": "Cold League",
                 "day": 54,
                 "season": 0,
-                "description": "Game 1, Cold League League Championship Series",
+                "description": "Game 1, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     3,
@@ -803,7 +803,7 @@
                 "league": "Hot League",
                 "day": 54,
                 "season": 0,
-                "description": "Game 1, Hot League League Championship Series",
+                "description": "Game 1, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     3,
@@ -851,7 +851,7 @@
                 "league": "Cold League",
                 "day": 55,
                 "season": 0,
-                "description": "Game 2, Cold League League Championship Series",
+                "description": "Game 2, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     4,
@@ -897,7 +897,7 @@
                 "league": "Hot League",
                 "day": 55,
                 "season": 0,
-                "description": "Game 2, Hot League League Championship Series",
+                "description": "Game 2, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     4,
@@ -945,7 +945,7 @@
                 "league": "Cold League",
                 "day": 56,
                 "season": 0,
-                "description": "Game 3, Cold League League Championship Series",
+                "description": "Game 3, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     3,
@@ -991,7 +991,7 @@
                 "league": "Hot League",
                 "day": 56,
                 "season": 0,
-                "description": "Game 3, Hot League League Championship Series",
+                "description": "Game 3, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     3,
@@ -1039,7 +1039,7 @@
                 "league": "Cold League",
                 "day": 57,
                 "season": 0,
-                "description": "Game 4, Cold League League Championship Series",
+                "description": "Game 4, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     4,
@@ -1085,7 +1085,7 @@
                 "league": "Hot League",
                 "day": 57,
                 "season": 0,
-                "description": "Game 4, Hot League League Championship Series",
+                "description": "Game 4, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     4,
@@ -1133,7 +1133,7 @@
                 "league": "Cold League",
                 "day": 58,
                 "season": 0,
-                "description": "Game 5, Cold League League Championship Series",
+                "description": "Game 5, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     5,
@@ -1179,7 +1179,7 @@
                 "league": "Hot League",
                 "day": 58,
                 "season": 0,
-                "description": "Game 5, Hot League League Championship Series",
+                "description": "Game 5, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     5,
