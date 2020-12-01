@@ -6,7 +6,7 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Seattle Sneakers",
                 "patternName": "eightr",
-                "description": "Game 1, Cold League League Division Series 1",
+                "description": "Game 1, Cold League Division Series 1",
                 "id": "42f10f5c-f76a-431a-b489-63d00f30a1e7",
                 "isPlayoffs": true
             },
@@ -15,7 +15,7 @@
                 "team1Name": "San Diego Balloon Animals",
                 "team2Name": "Tucson Butchers",
                 "patternName": "twomultum",
-                "description": "Game 1, Cold League League Division Series 2",
+                "description": "Game 1, Cold League Division Series 2",
                 "id": "764c6a91-1e61-494d-bca8-90cdfda09b9d",
                 "isPlayoffs": true
             },
@@ -24,7 +24,7 @@
                 "team1Name": "San Francisco Boat Shoes",
                 "team2Name": "Sacramento Boot Lickers",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 1, Hot League League Division Series 1",
+                "description": "Game 1, Hot League Division Series 1",
                 "id": "4a405fc5-4e10-46e6-a510-4de06c01dea2",
                 "isPlayoffs": true
             },
@@ -33,7 +33,7 @@
                 "team1Name": "Detroit Grape Chews",
                 "team2Name": "Delaware Corporate Shells",
                 "patternName": "eightpi",
-                "description": "Game 1, Hot League League Division Series 2",
+                "description": "Game 1, Hot League Division Series 2",
                 "id": "f9f0fbcf-5e4f-41c5-be72-6a465d18f15d",
                 "isPlayoffs": true
             }
@@ -44,7 +44,7 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Seattle Sneakers",
                 "patternName": "twoacorn",
-                "description": "Game 2, Cold League League Division Series 1",
+                "description": "Game 2, Cold League Division Series 1",
                 "id": "9d6635b9-cbeb-43da-824a-72aec5d1e453",
                 "isPlayoffs": true
             },
@@ -53,7 +53,7 @@
                 "team1Name": "San Diego Balloon Animals",
                 "team2Name": "Tucson Butchers",
                 "patternName": "random",
-                "description": "Game 2, Cold League League Division Series 2",
+                "description": "Game 2, Cold League Division Series 2",
                 "id": "458e4c9d-09ac-42ef-961a-f550c97ab906",
                 "isPlayoffs": true
             },
@@ -62,7 +62,7 @@
                 "team1Name": "San Francisco Boat Shoes",
                 "team2Name": "Sacramento Boot Lickers",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 2, Hot League League Division Series 1",
+                "description": "Game 2, Hot League Division Series 1",
                 "id": "3db6ca65-0abf-423e-8f97-9a74fa1b1659",
                 "isPlayoffs": true
             },
@@ -71,7 +71,7 @@
                 "team1Name": "Detroit Grape Chews",
                 "team2Name": "Delaware Corporate Shells",
                 "patternName": "eightpi",
-                "description": "Game 2, Hot League League Division Series 2",
+                "description": "Game 2, Hot League Division Series 2",
                 "id": "3d12e7aa-069b-4b59-9492-b94e03aa328c",
                 "isPlayoffs": true
             }
@@ -82,7 +82,7 @@
                 "team1Name": "Seattle Sneakers",
                 "team2Name": "Long Beach Flightless Birds",
                 "patternName": "fourrabbits",
-                "description": "Game 3, Cold League League Division Series 1",
+                "description": "Game 3, Cold League Division Series 1",
                 "id": "d57b0a04-5f72-4761-91de-1641cadc8864",
                 "isPlayoffs": true
             },
@@ -91,7 +91,7 @@
                 "team1Name": "Tucson Butchers",
                 "team2Name": "San Diego Balloon Animals",
                 "patternName": "eightpi",
-                "description": "Game 3, Cold League League Division Series 2",
+                "description": "Game 3, Cold League Division Series 2",
                 "id": "a3a0ae24-bd8c-4e33-a91c-80086d2c1fcb",
                 "isPlayoffs": true
             },
@@ -100,7 +100,7 @@
                 "team1Name": "Sacramento Boot Lickers",
                 "team2Name": "San Francisco Boat Shoes",
                 "patternName": "twomultum",
-                "description": "Game 3, Hot League League Division Series 1",
+                "description": "Game 3, Hot League Division Series 1",
                 "id": "35badb3c-c43b-471f-be49-3098ee730b79",
                 "isPlayoffs": true
             },
@@ -109,7 +109,7 @@
                 "team1Name": "Delaware Corporate Shells",
                 "team2Name": "Detroit Grape Chews",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 3, Hot League League Division Series 2",
+                "description": "Game 3, Hot League Division Series 2",
                 "id": "979b2f74-34df-4212-93c0-02664ce45ba0",
                 "isPlayoffs": true
             }
@@ -120,7 +120,7 @@
                 "team1Name": "Seattle Sneakers",
                 "team2Name": "Long Beach Flightless Birds",
                 "patternName": "timebomb",
-                "description": "Game 4, Cold League League Division Series 1",
+                "description": "Game 4, Cold League Division Series 1",
                 "id": "983292f0-b088-4452-ab4c-d569d82e9796",
                 "isPlayoffs": true
             },
@@ -129,7 +129,7 @@
                 "team1Name": "Tucson Butchers",
                 "team2Name": "San Diego Balloon Animals",
                 "patternName": "random",
-                "description": "Game 4, Cold League League Division Series 2",
+                "description": "Game 4, Cold League Division Series 2",
                 "id": "7f6d2f38-b434-4cca-b26a-49b1192d256a",
                 "isPlayoffs": true
             },
@@ -138,7 +138,7 @@
                 "team1Name": "Sacramento Boot Lickers",
                 "team2Name": "San Francisco Boat Shoes",
                 "patternName": "fourrabbits",
-                "description": "Game 4, Hot League League Division Series 1",
+                "description": "Game 4, Hot League Division Series 1",
                 "id": "0f730b0c-04d1-4329-8933-c9c8e37f79c5",
                 "isPlayoffs": true
             },
@@ -147,7 +147,7 @@
                 "team1Name": "Delaware Corporate Shells",
                 "team2Name": "Detroit Grape Chews",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 4, Hot League League Division Series 2",
+                "description": "Game 4, Hot League Division Series 2",
                 "id": "ae413c29-d4dd-41f6-a9c9-e8ebce4c2a0e",
                 "isPlayoffs": true
             }
@@ -158,7 +158,7 @@
                 "team1Name": "Long Beach Flightless Birds",
                 "team2Name": "Seattle Sneakers",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 5, Cold League League Division Series 1",
+                "description": "Game 5, Cold League Division Series 1",
                 "id": "3125ea99-58a4-44de-a1f5-f219d04d083f",
                 "isPlayoffs": true
             },
@@ -167,7 +167,7 @@
                 "team1Name": "San Diego Balloon Animals",
                 "team2Name": "Tucson Butchers",
                 "patternName": "eightpi",
-                "description": "Game 5, Cold League League Division Series 2",
+                "description": "Game 5, Cold League Division Series 2",
                 "id": "b9e0758f-afb3-438c-8e87-6e4bf597beee",
                 "isPlayoffs": true
             },
@@ -176,7 +176,7 @@
                 "team1Name": "San Francisco Boat Shoes",
                 "team2Name": "Sacramento Boot Lickers",
                 "patternName": "timebomb",
-                "description": "Game 5, Hot League League Division Series 1",
+                "description": "Game 5, Hot League Division Series 1",
                 "id": "38e096aa-3d98-44bc-81fd-01abe51d4f78",
                 "isPlayoffs": true
             },
@@ -185,7 +185,7 @@
                 "team1Name": "Detroit Grape Chews",
                 "team2Name": "Delaware Corporate Shells",
                 "patternName": "twomultum",
-                "description": "Game 5, Hot League League Division Series 2",
+                "description": "Game 5, Hot League Division Series 2",
                 "id": "8463a234-798b-41b8-947f-b1515144cbd2",
                 "isPlayoffs": true
             }
