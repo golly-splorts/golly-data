@@ -976,7 +976,8 @@
                 },
                 "team1Score": 208,
                 "team2Score": 73,
-                "generations": 3150
+                "generations": 3150,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1021,7 +1022,8 @@
                 },
                 "team1Score": 90,
                 "team2Score": 186,
-                "generations": 3790
+                "generations": 3790,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1068,7 +1070,8 @@
                 },
                 "team1Score": 152,
                 "team2Score": 125,
-                "generations": 5506
+                "generations": 5506,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1113,7 +1116,8 @@
                 },
                 "team1Score": 285,
                 "team2Score": 39,
-                "generations": 4472
+                "generations": 4472,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1160,7 +1164,8 @@
                 },
                 "team1Score": 49,
                 "team2Score": 56,
-                "generations": 1069
+                "generations": 1069,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -1205,7 +1210,8 @@
                 },
                 "team1Score": 195,
                 "team2Score": 95,
-                "generations": 3273
+                "generations": 3273,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1252,7 +1258,8 @@
                 },
                 "team1Score": 476,
                 "team2Score": 0,
-                "generations": 1979
+                "generations": 1979,
+                "isPlayoffs": true
             }
         ]
     ],
@@ -1300,7 +1307,8 @@
                 },
                 "team1Score": 179,
                 "team2Score": 134,
-                "generations": 1689
+                "generations": 1689,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1346,7 +1354,8 @@
                 },
                 "team1Score": 174,
                 "team2Score": 30,
-                "generations": 1840
+                "generations": 1840,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1392,7 +1401,8 @@
                 },
                 "team1Score": 290,
                 "team2Score": 30,
-                "generations": 3155
+                "generations": 3155,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1438,7 +1448,8 @@
                 },
                 "team1Score": 158,
                 "team2Score": 113,
-                "generations": 1449
+                "generations": 1449,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1484,7 +1495,8 @@
                 },
                 "team1Score": 182,
                 "team2Score": 134,
-                "generations": 1834
+                "generations": 1834,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1530,7 +1542,8 @@
                 },
                 "team1Score": 197,
                 "team2Score": 97,
-                "generations": 1837
+                "generations": 1837,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1576,7 +1589,8 @@
                 },
                 "team1Score": 171,
                 "team2Score": 26,
-                "generations": 1929
+                "generations": 1929,
+                "isPlayoffs": true
             }
         ]
     ]
