@@ -45,7 +45,15 @@
                 "team2Score": 68,
                 "generations": 1098,
                 "id": "42f10f5c-f76a-431a-b489-63d00f30a1e7",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "San Diego Balloon Animals",
@@ -91,7 +99,15 @@
                 "team2Score": 153,
                 "generations": 1473,
                 "id": "764c6a91-1e61-494d-bca8-90cdfda09b9d",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -137,7 +153,15 @@
                 "team2Score": 30,
                 "generations": 1452,
                 "id": "4a405fc5-4e10-46e6-a510-4de06c01dea2",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -183,7 +207,15 @@
                 "team2Score": 49,
                 "generations": 1296,
                 "id": "f9f0fbcf-5e4f-41c5-be72-6a465d18f15d",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    0
+                ]
             }
         ],
         [
@@ -231,7 +263,15 @@
                 "team2Score": 64,
                 "generations": 1184,
                 "id": "9d6635b9-cbeb-43da-824a-72aec5d1e453",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ]
             },
             {
                 "team1Name": "San Diego Balloon Animals",
@@ -277,7 +317,15 @@
                 "team2Score": 34,
                 "generations": 1265,
                 "id": "458e4c9d-09ac-42ef-961a-f550c97ab906",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    1
+                ],
+                "team2PlayoffsWinLoss": [
+                    1,
+                    0
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -323,7 +371,15 @@
                 "team2Score": 8,
                 "generations": 1302,
                 "id": "3db6ca65-0abf-423e-8f97-9a74fa1b1659",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -369,7 +425,15 @@
                 "team2Score": 7,
                 "generations": 3083,
                 "id": "3d12e7aa-069b-4b59-9492-b94e03aa328c",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PlayoffsWinLoss": [
+                    0,
+                    1
+                ]
             }
         ],
         [
@@ -417,7 +481,15 @@
                 "team2Score": 76,
                 "generations": 1543,
                 "id": "d57b0a04-5f72-4761-91de-1641cadc8864",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ]
             },
             {
                 "team1Name": "Tucson Butchers",
@@ -463,7 +535,15 @@
                 "team2Score": 81,
                 "generations": 3661,
                 "id": "a3a0ae24-bd8c-4e33-a91c-80086d2c1fcb",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    1
+                ],
+                "team2PlayoffsWinLoss": [
+                    1,
+                    1
+                ]
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -509,7 +589,15 @@
                 "team2Score": 113,
                 "generations": 4740,
                 "id": "35badb3c-c43b-471f-be49-3098ee730b79",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ]
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -555,7 +643,15 @@
                 "team2Score": 27,
                 "generations": 2412,
                 "id": "979b2f74-34df-4212-93c0-02664ce45ba0",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    0
+                ]
             }
         ],
         [
@@ -603,7 +699,15 @@
                 "team2Score": 102,
                 "generations": 1386,
                 "id": "983292f0-b088-4452-ab4c-d569d82e9796",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ]
             },
             {
                 "team1Name": "Tucson Butchers",
@@ -649,7 +753,15 @@
                 "team2Score": 4,
                 "generations": 2259,
                 "id": "7f6d2f38-b434-4cca-b26a-49b1192d256a",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    1
+                ],
+                "team2PlayoffsWinLoss": [
+                    1,
+                    2
+                ]
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -695,7 +807,15 @@
                 "team2Score": 84,
                 "generations": 2030,
                 "id": "0f730b0c-04d1-4329-8933-c9c8e37f79c5",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ]
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -741,7 +861,15 @@
                 "team2Score": 16,
                 "generations": 1085,
                 "id": "ae413c29-d4dd-41f6-a9c9-e8ebce4c2a0e",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    1,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    1
+                ]
             }
         ],
         [
@@ -789,7 +917,15 @@
                 "team2Score": 10,
                 "generations": 2366,
                 "id": "3125ea99-58a4-44de-a1f5-f219d04d083f",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -835,7 +971,15 @@
                 "team2Score": 82,
                 "generations": 1102,
                 "id": "38e096aa-3d98-44bc-81fd-01abe51d4f78",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -881,7 +1025,15 @@
                 "team2Score": 29,
                 "generations": 1730,
                 "id": "8463a234-798b-41b8-947f-b1515144cbd2",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    2,
+                    2
+                ]
             }
         ]
     ],
@@ -931,7 +1083,15 @@
                 "team2Score": 59,
                 "generations": 1945,
                 "id": "791377ca-e1b7-48a4-b80a-bc07c458db7b",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    1
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -977,7 +1137,15 @@
                 "team2Score": 37,
                 "generations": 1972,
                 "id": "30b9b94f-f301-4018-a7a2-fd5291b4a4d2",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    2
+                ]
             }
         ],
         [
@@ -1025,7 +1193,15 @@
                 "team2Score": 19,
                 "generations": 1291,
                 "id": "630275b4-8531-40b1-b94f-1ddd28200be8",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    4,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    2
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1071,7 +1247,15 @@
                 "team2Score": 52,
                 "generations": 1167,
                 "id": "d3194d75-1972-40e9-b37e-14f2bc2a48c1",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    4,
+                    2
+                ],
+                "team2PlayoffsWinLoss": [
+                    3,
+                    3
+                ]
             }
         ],
         [
@@ -1119,7 +1303,15 @@
                 "team2Score": 96,
                 "generations": 1519,
                 "id": "becde746-7357-4d4a-826d-7a234737c1c4",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    2
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1165,7 +1357,15 @@
                 "team2Score": 0,
                 "generations": 1337,
                 "id": "6cd06f24-11c9-4c39-849e-0601f637784c",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    3,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    2
+                ]
             }
         ],
         [
@@ -1213,7 +1413,15 @@
                 "team2Score": 36,
                 "generations": 1302,
                 "id": "e8205e0d-6162-48a3-9c5c-6b3ea0b4a4c6",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    4,
+                    3
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    3
+                ]
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1259,7 +1467,15 @@
                 "team2Score": 39,
                 "generations": 1578,
                 "id": "5e6a82b5-2475-4af7-ae8a-8b683472978d",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    4,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    3
+                ]
             }
         ],
         [
@@ -1307,7 +1523,15 @@
                 "team2Score": 34,
                 "generations": 1018,
                 "id": "a2088c17-9e79-4af6-a701-7b0f39839041",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    5,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    3
+                ]
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1353,7 +1577,15 @@
                 "team2Score": 59,
                 "generations": 1323,
                 "id": "2255b5f5-372a-4f59-b993-8a1c05f59f75",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    5,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    5,
+                    4
+                ]
             }
         ]
     ],
@@ -1402,7 +1634,15 @@
                 "team2Score": 43,
                 "generations": 1551,
                 "id": "2ec2f813-0149-43ae-9e4d-0bc50219dae9",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    6,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    6,
+                    4
+                ]
             }
         ],
         [
@@ -1449,7 +1689,15 @@
                 "team2Score": 55,
                 "generations": 1589,
                 "id": "dc4e15b9-2cb5-42a7-96d1-0452aef3d9c7",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    7,
+                    4
+                ],
+                "team2PlayoffsWinLoss": [
+                    6,
+                    5
+                ]
             }
         ],
         [
@@ -1496,7 +1744,15 @@
                 "team2Score": 134,
                 "generations": 2574,
                 "id": "1a0f1263-c8ce-4fa2-81a8-50f8cc15044c",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    6,
+                    6
+                ],
+                "team2PlayoffsWinLoss": [
+                    8,
+                    4
+                ]
             }
         ],
         [
@@ -1543,7 +1799,15 @@
                 "team2Score": 51,
                 "generations": 2361,
                 "id": "7317dd15-74b5-49b0-bdc9-45ee2c06d95a",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    7,
+                    6
+                ],
+                "team2PlayoffsWinLoss": [
+                    8,
+                    5
+                ]
             }
         ],
         [
@@ -1590,7 +1854,15 @@
                 "team2Score": 106,
                 "generations": 1103,
                 "id": "d3aae38f-cf9b-4719-a013-91d215bc1ccc",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    8,
+                    6
+                ],
+                "team2PlayoffsWinLoss": [
+                    8,
+                    6
+                ]
             }
         ],
         [
@@ -1637,7 +1909,15 @@
                 "team2Score": 27,
                 "generations": 1012,
                 "id": "f8ef05ab-8289-4a84-ba8d-1797d7953766",
-                "isPlayoffs": true
+                "isPlayoffs": true,
+                "team1PlayoffsWinLoss": [
+                    9,
+                    6
+                ],
+                "team2PlayoffsWinLoss": [
+                    8,
+                    7
+                ]
             }
         ]
     ]
