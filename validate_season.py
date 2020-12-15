@@ -2,7 +2,7 @@ import os
 import json
 
 
-for seasondir in ['season0', 'season1']:
+for seasondir in ['season0', 'season1', 'season2', 'season3', 'season4']:
 
 
     #####################
