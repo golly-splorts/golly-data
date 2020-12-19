@@ -1,3 +1,14 @@
-# Version 1.0
+Version 3.0
+
+* Data set in use for Season 3
+* Expanded verification script
+* Fixed a bug in all postseason data where "season" field was always 0
+
+Version 2.0
+
+* Data set in use for Season 2
+
+Version 1.0
 
 * Initial release of golly-data
+* Data set in use for Season 1
