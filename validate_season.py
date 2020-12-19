@@ -2,7 +2,9 @@ import os
 import json
 
 
-for seasondir in ['season0', 'season1']:
+NSEASONS = 5
+for iseason in range(NSEASONS):
+    seasondir = "season%d"%(iseason)
 
 
     #####################
@@ -111,9 +113,14 @@ for seasondir in ['season0', 'season1']:
         wlsum2 = game['team1WinLoss'][0] + game['team1WinLoss'][1]
         if (wlsum1!=(game['day'])):
             print(game)
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: win loss record for team 1 sums to {wlsum1}, should sum to {game['day']}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team 1 sums to {wlsum1}, should sum to {game['day']}")
         if (wlsum2!=(game['day'])):
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: win loss record for team 2 sums to {wlsum2}, should sum to {game['day']}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team 2 sums to {wlsum2}, should sum to {game['day']}")
+
+    def check_game_season(game, correct_season):
+        if (iseason != game['season']):
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: season should be {correct_season}")
+
 
     # -----------
     # schedule
@@ -136,6 +143,7 @@ for seasondir in ['season0', 'season1']:
             check_name_color_match(game)
             check_league(game)
             check_pattern(game)
+            check_game_season(game, iseason)
 
             sched_team_names.add(t1)
             sched_team_names.add(t2)
@@ -172,6 +180,7 @@ for seasondir in ['season0', 'season1']:
             check_id(game)
             check_map(game)
             check_wl(game)
+            check_game_season(game, iseason)
 
             season_team_names.add(t1)
             season_team_names.add(t2)
@@ -210,6 +219,7 @@ for seasondir in ['season0', 'season1']:
                 if series != 'WS':
                     check_league(game)
                 check_map(game)
+                check_game_season(game, iseason)
 
                 postseason_team_names.add(t1)
                 postseason_team_names.add(t2)
@@ -237,5 +247,3 @@ for seasondir in ['season0', 'season1']:
 
 print("***************************")
 print("Everything is okay")
-
-# TODO: postseason
