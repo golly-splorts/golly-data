@@ -121,6 +121,20 @@ for iseason in range(NSEASONS):
         if (iseason != game['season']):
             raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: season should be {correct_season}")
 
+    def check_season_day(day):
+        if len(day) != len(teams)//2:
+            raise Exception(f"Error: day {day[0]['day']} has length {len(day)} but should have length {len(teams)//2}")
+
+    def check_bracket_day(day, series):
+        series_gpd = {
+            'LDS': 4,
+            'LCS': 2,
+            'WS': 1
+        }
+        if series not in series_gpd:
+            raise Exception(f"Error: series name {series} not in {', '.join(series_gpd.keys())}")
+        if len(day) != series_gpd[series]:
+            raise Exception(f"Error: bracket for series {series} has incorrect number of games ({len(day)}, should be {series_gpd[series]})")
 
     # -----------
     # schedule
@@ -135,6 +149,7 @@ for iseason in range(NSEASONS):
 
     sched_team_names = set()
     for iday, day in enumerate(sched):
+        check_season_day(day)
         games = day
         for igame, game in enumerate(games):
             t1 = game['team1Name']
@@ -169,6 +184,7 @@ for iseason in range(NSEASONS):
 
     season_team_names = set()
     for iday, day in enumerate(season):
+        check_season_day(day)
         games = day
         for igame, game in enumerate(games):
             t1 = game['team1Name']
@@ -192,6 +208,34 @@ for iseason in range(NSEASONS):
         if team['teamName'] not in season_team_names:
             raise Exception(f"Error: team name {team['teamName']} not found in season.json")
 
+
+    # -----------
+    # bracket
+    bracketfile = os.path.join(seasondir, 'bracket.json')
+
+    print("***************************")
+    print(f"Now checking {bracketfile}")
+
+    with open(bracketfile, 'r') as f:
+        bracket = json.load(f)
+
+    for series in bracket:
+        miniseason = bracket[series]
+        for iday, day in enumerate(miniseason):
+            check_bracket_day(day, series)
+
+    # Verify series are the correct lengths
+    ldslen = len(bracket['LDS'])
+    if ldslen!=5:
+        raise Exception(f"Error: bracket LDS length is invalid: {ldslen} games, should be 5")
+
+    lcslen = len(bracket['LCS'])
+    if lcslen!=5:
+        raise Exception(f"Error: postseason LCS length is invalid: {lcslen} games, should be 5")
+
+    wslen = len(bracket['WS'])
+    if wslen!=7:
+        raise Exception(f"Error: postseason WS length is invalid: {wslen} games, should be 7")
 
     # -----------
     # postseason
