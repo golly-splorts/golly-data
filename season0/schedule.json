@@ -8,9 +8,9 @@
             "id": "db108cb5-9490-47a8-a7e8-6dcadd55369e",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -20,9 +20,9 @@
             "id": "510c20fa-d739-459d-9352-d1fea46b3188",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -32,9 +32,9 @@
             "id": "14d8af13-a6aa-4c50-895d-a098ee47f6f6",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -44,9 +44,9 @@
             "id": "ebef9dfd-6e63-46f3-beaf-acba56f359af",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -56,9 +56,9 @@
             "id": "cd256d92-d95f-496a-b6be-9d43ce3234cb",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -68,9 +68,9 @@
             "id": "de4c30d5-7488-4fd5-9599-65524d74d6db",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -80,9 +80,9 @@
             "id": "998e3768-a4cf-43c5-9eee-de7193fbfeb0",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -92,9 +92,9 @@
             "id": "2aa6b638-0cdc-4cbc-83ca-e4a709706c4f",
             "season": 0,
             "day": 0,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -106,9 +106,9 @@
             "id": "c4f70d13-6816-49d7-9bc1-77c9dde32aa5",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -118,9 +118,9 @@
             "id": "190f070b-a832-44ad-ae6c-fcd61ec717ae",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -130,9 +130,9 @@
             "id": "af30de35-65d7-48ef-adcd-bacfbb74830e",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -142,9 +142,9 @@
             "id": "b548912d-2a7c-493b-a7fc-b2247897624a",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -154,9 +154,9 @@
             "id": "1b3d133f-18fd-4532-8ca8-fd22585de426",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -166,9 +166,9 @@
             "id": "71f927b7-0e12-4ef1-9c94-ff8d825a5f80",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -178,9 +178,9 @@
             "id": "7a126443-4f25-4e21-bee0-fba6f290f6a3",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -190,9 +190,9 @@
             "id": "9921327c-61d4-4b0c-bc77-acff93b6b431",
             "season": 0,
             "day": 1,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -204,9 +204,9 @@
             "id": "1e2526f2-133e-47a8-9b9c-ab8b7083841c",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -216,9 +216,9 @@
             "id": "2cec2bed-6f46-4745-bfc5-e037d299e993",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -228,9 +228,9 @@
             "id": "31b75798-2ad2-4380-88d9-f34b76be4b6a",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -240,9 +240,9 @@
             "id": "af07dd7e-2ced-4127-8c44-a67733cb5a95",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -252,9 +252,9 @@
             "id": "ed7dca3f-6fa6-4c40-94b4-1add00d443f1",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -264,9 +264,9 @@
             "id": "a62594d7-8e6e-43de-ab6d-f0da2ea71c75",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -276,9 +276,9 @@
             "id": "2a7cbd29-2463-45b6-9bc4-eae7a449f32f",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -288,9 +288,9 @@
             "id": "ccb067e2-e13a-415b-ac80-505db70c0ee5",
             "season": 0,
             "day": 2,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -302,9 +302,9 @@
             "id": "5751ba21-b8c5-405a-a821-f2f6c9db63a7",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -314,9 +314,9 @@
             "id": "5a0bdf88-a9a0-42e1-91d0-977f86fceffc",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -326,9 +326,9 @@
             "id": "6283ba15-49af-4c68-809d-57998b8b348e",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -338,9 +338,9 @@
             "id": "a6606ea0-1adf-4252-b8ed-54d529d7379c",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -350,9 +350,9 @@
             "id": "fa88347f-a2ca-479d-b054-20827562de8c",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -362,9 +362,9 @@
             "id": "967f09d5-03b7-417f-a502-1634ef2f47c6",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -374,9 +374,9 @@
             "id": "c4b18f55-44bd-44e7-977d-4bb0a4ea486f",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -386,9 +386,9 @@
             "id": "91dc1624-2bfd-463f-ba7c-f91969843369",
             "season": 0,
             "day": 3,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -400,9 +400,9 @@
             "id": "8ce6ea23-aaa1-47a3-be47-8b65a896700d",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -412,9 +412,9 @@
             "id": "24c6e2ce-994b-4f71-a1f0-be59a08338cc",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -424,9 +424,9 @@
             "id": "7bcf3269-2b60-4974-8f61-49c194ebe492",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -436,9 +436,9 @@
             "id": "ef9a83df-b472-401a-ae9d-bbd6f6351b48",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -448,9 +448,9 @@
             "id": "3612dbfa-8b0d-4610-ad65-a796c64edae4",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -460,9 +460,9 @@
             "id": "0a582113-f7b3-4324-9a3d-2595bedd303c",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -472,9 +472,9 @@
             "id": "3606be35-76ae-4a6b-b59e-b6f9fff2b1d9",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -484,9 +484,9 @@
             "id": "5fe9b639-1fc7-4401-895b-6f8bbfdb01fa",
             "season": 0,
             "day": 4,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -498,9 +498,9 @@
             "id": "24e84f7c-76a4-4894-a730-3dbfea66b72e",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -510,9 +510,9 @@
             "id": "c9c97e4f-b84a-4457-ae27-cf251ab748f0",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -522,9 +522,9 @@
             "id": "1a353fba-0a46-4dd6-b4c4-8d7d99f579fe",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -534,9 +534,9 @@
             "id": "79928216-3a1c-40a9-a10f-edbf7ee70617",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -546,9 +546,9 @@
             "id": "db5459d5-66c9-4381-a207-d5201579cbee",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -558,9 +558,9 @@
             "id": "e3bf91d9-8cf3-427d-94d2-2a553346096b",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -570,9 +570,9 @@
             "id": "b0efce5e-059f-4c3b-b610-fdefea2122a2",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -582,9 +582,9 @@
             "id": "49933b48-b624-462e-b9b5-f5af76802040",
             "season": 0,
             "day": 5,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -596,9 +596,9 @@
             "id": "5e65b3f9-bfad-4c0f-ba58-b940b9370b23",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -608,9 +608,9 @@
             "id": "aaf7a264-0933-44ad-ad5a-801f49f3dfe9",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -620,9 +620,9 @@
             "id": "a1ae933e-c72b-49b6-934c-99ebb89ca734",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -632,9 +632,9 @@
             "id": "ad647f05-cf54-44c6-8a0f-8a898cfdf453",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -644,9 +644,9 @@
             "id": "f1d2538d-a7eb-4f7a-82a6-ccb4f9571000",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -656,9 +656,9 @@
             "id": "b7ada961-d133-4854-bafd-8509aa795c57",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -668,9 +668,9 @@
             "id": "75b8437d-2e55-4216-a5c4-638713d4ab6c",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -680,9 +680,9 @@
             "id": "9fcec39f-c614-4c24-877e-4d7f30adc2aa",
             "season": 0,
             "day": 6,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -694,9 +694,9 @@
             "id": "db4e02c0-d99e-44ee-80c9-64d7a55f4c2d",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -706,9 +706,9 @@
             "id": "b17aa94a-226d-4345-a8d0-f4f141b7871b",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -718,9 +718,9 @@
             "id": "0215a944-81bf-4bb9-b26b-e6c0fa238b58",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -730,9 +730,9 @@
             "id": "f72977b5-a240-48a3-9385-d0c0b22a2a58",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -742,9 +742,9 @@
             "id": "965cbb97-ca0b-46e2-bf9b-d2660b5ec693",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -754,9 +754,9 @@
             "id": "e3d5c240-fbce-41ee-84b5-b51b837fa2d8",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -766,9 +766,9 @@
             "id": "cead13d2-f710-4571-845f-e500e8c67f35",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -778,9 +778,9 @@
             "id": "ee8057e9-93d4-486d-9730-9c549e032428",
             "season": 0,
             "day": 7,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -792,9 +792,9 @@
             "id": "591fb261-ceac-4e23-9241-b4fef54e6f77",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -804,9 +804,9 @@
             "id": "beb7d9e9-4ad0-4019-acac-896dba55acd6",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -816,9 +816,9 @@
             "id": "81ddeb90-fd8a-4d52-97ec-68f852e9ee15",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -828,9 +828,9 @@
             "id": "f15f499c-943e-4a03-9082-1294cf40ead4",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -840,9 +840,9 @@
             "id": "bcf4fc9e-2940-40c5-ae48-cf47649f76c1",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -852,9 +852,9 @@
             "id": "709a287e-15c5-4e20-8be4-7e7acc72232e",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -864,9 +864,9 @@
             "id": "28a5cabc-a0fc-422f-b903-b129dc2a1d07",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -876,9 +876,9 @@
             "id": "ad538065-4c4b-4426-9b34-516c01b8256e",
             "season": 0,
             "day": 8,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -890,9 +890,9 @@
             "id": "4018aa1a-e432-4129-82ce-3baf425513f2",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -902,9 +902,9 @@
             "id": "2e8c4d75-82b4-475b-946e-22ad5df7c5e0",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -914,9 +914,9 @@
             "id": "bfe21066-e16a-4931-8cc4-7954ffa6129d",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -926,9 +926,9 @@
             "id": "5f203e80-194a-4805-85d1-3b6b89df0a72",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -938,9 +938,9 @@
             "id": "4c9fab4e-9b59-40d6-9aca-e3c641514db4",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -950,9 +950,9 @@
             "id": "1f4e2e0b-426e-4000-89f8-b786682dfc98",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -962,9 +962,9 @@
             "id": "764e118e-b229-4a7b-89d0-ebca16b7c248",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -974,9 +974,9 @@
             "id": "e92ab4d8-043e-4b83-8958-039b24b24ae2",
             "season": 0,
             "day": 9,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -988,9 +988,9 @@
             "id": "5104e66d-e5fa-4f8f-8371-789859ba51c5",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1000,9 +1000,9 @@
             "id": "0d2aa05f-9c0e-4a82-9750-f83bb6f85308",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1012,9 +1012,9 @@
             "id": "e6ae469c-98fc-49db-a111-7b861cbb9058",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1024,9 +1024,9 @@
             "id": "db6d1c35-152a-403f-8e58-bf8decb1d3e1",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1036,9 +1036,9 @@
             "id": "cd27daf8-050f-465f-8007-fad23a33acd0",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1048,9 +1048,9 @@
             "id": "e3f36640-c54f-4a09-871c-a86ec82dd0d9",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1060,9 +1060,9 @@
             "id": "f64ebcbc-e37a-4441-8545-c1f3d0251220",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1072,9 +1072,9 @@
             "id": "d2f4835f-9560-4500-b5ba-a90ca4aa28c5",
             "season": 0,
             "day": 10,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -1086,9 +1086,9 @@
             "id": "fb7a91ec-b27f-42b5-b481-54de3038f8c5",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1098,9 +1098,9 @@
             "id": "436f3fca-e819-4d3b-9371-0485869f87bd",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1110,9 +1110,9 @@
             "id": "5d6b0f25-af75-47d7-8fda-a429921497d1",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1122,9 +1122,9 @@
             "id": "c52ceaa0-6df5-4e69-af41-c66a95b8f415",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1134,9 +1134,9 @@
             "id": "e09a6492-6273-4824-b1f1-9d20ad94814f",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1146,9 +1146,9 @@
             "id": "61679116-3cbf-4091-b442-63e7a09f67c2",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1158,9 +1158,9 @@
             "id": "40487795-14de-4941-8001-6a68c82d08ef",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1170,9 +1170,9 @@
             "id": "92ecf4fd-71d0-49f3-a23e-a61ae2fa34a6",
             "season": 0,
             "day": 11,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -1184,9 +1184,9 @@
             "id": "e8ef4841-fbc8-4ab0-b215-fee25612afe5",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1196,9 +1196,9 @@
             "id": "920db525-8c9c-49c3-9faf-193d25cade90",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1208,9 +1208,9 @@
             "id": "3bbcde13-628f-4ad6-934e-02e092652a34",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1220,9 +1220,9 @@
             "id": "55354f1b-2527-479b-8229-65d5fc767df9",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1232,9 +1232,9 @@
             "id": "bfc5c9ac-9184-4046-9364-feb503fdf0a3",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1244,9 +1244,9 @@
             "id": "bafb85c3-ef88-4776-81de-17722849c834",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1256,9 +1256,9 @@
             "id": "bd99580e-4722-4b40-b1c5-255ed1cb997b",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1268,9 +1268,9 @@
             "id": "52aa5cc4-e396-4cee-a071-d93035a8cb9e",
             "season": 0,
             "day": 12,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -1282,9 +1282,9 @@
             "id": "7204401e-0407-458e-8916-1dfbce6a1807",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1294,9 +1294,9 @@
             "id": "4450ab23-679d-4c59-bfeb-3465d45215b1",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1306,9 +1306,9 @@
             "id": "9434d40b-fe7c-4df1-9280-b3c02655b100",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -1318,9 +1318,9 @@
             "id": "44f063c6-9ec7-45ca-8ea9-f97bf86a5802",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1330,9 +1330,9 @@
             "id": "1bb2cb96-f7ef-4709-9391-d47628e7301e",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1342,9 +1342,9 @@
             "id": "d5cd353e-c47e-4251-b37c-6adb78130170",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1354,9 +1354,9 @@
             "id": "65a61dbb-5309-48fe-98a3-ae3156872df1",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1366,9 +1366,9 @@
             "id": "8b470ae0-2b8d-4bdd-9505-9e1a5952f256",
             "season": 0,
             "day": 13,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -1380,9 +1380,9 @@
             "id": "71c1a80c-24be-4b45-8154-bee71e0ff813",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1392,9 +1392,9 @@
             "id": "9ee68784-3ade-4ba8-a7ae-9cc19d5a91a0",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1404,9 +1404,9 @@
             "id": "866c7231-01b3-4095-a1d3-5a905be6fd2f",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1416,9 +1416,9 @@
             "id": "f708ab2d-fa46-4965-a695-0b2ef19d38a6",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1428,9 +1428,9 @@
             "id": "41f2f88f-691a-4d6c-a6aa-4e29e792a750",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1440,9 +1440,9 @@
             "id": "3948644f-dfbe-48a3-9773-da3591cea89a",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1452,9 +1452,9 @@
             "id": "96dc461a-938b-41cb-a3cc-95990a4ff293",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1464,9 +1464,9 @@
             "id": "887ad8dd-0498-484c-b580-61936aba4101",
             "season": 0,
             "day": 14,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -1478,9 +1478,9 @@
             "id": "073fa712-563a-4aa3-8139-0c2510510e1d",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1490,9 +1490,9 @@
             "id": "9c088d58-abb6-4ae8-a0df-af8c6dd141b5",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -1502,9 +1502,9 @@
             "id": "a9a3e3ab-5ce3-4d95-9871-288b5458cb12",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1514,9 +1514,9 @@
             "id": "e47f772c-a4fd-48c6-bb41-e5d121e9f502",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1526,9 +1526,9 @@
             "id": "ead0a233-0bfc-4d63-a89a-4c4da111e604",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1538,9 +1538,9 @@
             "id": "b0ccb8b8-a7da-4c82-a30e-da357273ec92",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1550,9 +1550,9 @@
             "id": "4da9fd5a-6019-4e78-9899-b6a97aabc1a2",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1562,9 +1562,9 @@
             "id": "c30282db-952c-4c3a-9160-df57c9a32860",
             "season": 0,
             "day": 15,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -1576,9 +1576,9 @@
             "id": "20ca015e-c9ce-4385-bb05-3bbe9a2def8d",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1588,9 +1588,9 @@
             "id": "856484b0-3727-43c1-aa55-04656349e715",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1600,9 +1600,9 @@
             "id": "97d27a8d-dc93-4e3b-a620-49eb15294abd",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1612,9 +1612,9 @@
             "id": "8e0011c2-a6c3-41b7-b63c-18e93347b457",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1624,9 +1624,9 @@
             "id": "dca16f39-59f6-4cc0-8349-95be133aab48",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1636,9 +1636,9 @@
             "id": "1c9c659f-41c3-434c-813f-71ca00f6b1ca",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1648,9 +1648,9 @@
             "id": "723bd518-6355-453b-88ff-995f31961ec4",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1660,9 +1660,9 @@
             "id": "234b0f5e-494d-47cd-a4dc-10a0158158d7",
             "season": 0,
             "day": 16,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         }
     ],
     [
@@ -1674,9 +1674,9 @@
             "id": "1690ce7f-f6c0-4d71-97cd-d07bf86c9e82",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -1686,9 +1686,9 @@
             "id": "a9399742-5331-4093-aed4-251c833b1df9",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1698,9 +1698,9 @@
             "id": "aac20fcc-1edd-42a5-8a40-32da794033e0",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1710,9 +1710,9 @@
             "id": "55973ce9-c170-4e52-ac3f-96e341c44f7b",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1722,9 +1722,9 @@
             "id": "e076e675-9f6e-42c9-abc7-5e443f9a5422",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1734,9 +1734,9 @@
             "id": "0570b04d-8c30-4ba8-bd13-831202b56095",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1746,9 +1746,9 @@
             "id": "e8c784b5-b13c-4958-829f-5ee337ddf789",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1758,9 +1758,9 @@
             "id": "ae7ad749-45cb-478c-9c38-2d32db60abd2",
             "season": 0,
             "day": 17,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         }
     ],
     [
@@ -1772,9 +1772,9 @@
             "id": "0d456a8d-8bad-4939-824b-db8a3c0d06af",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1784,9 +1784,9 @@
             "id": "164aa44a-d7b6-47b8-b5a9-a0e9e4784362",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1796,9 +1796,9 @@
             "id": "837ee074-ea23-43e5-805c-fb66052bfa60",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1808,9 +1808,9 @@
             "id": "85c3540f-e9bd-4cfe-b2f1-17263fb4b505",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1820,9 +1820,9 @@
             "id": "9ed17afa-27ff-437a-bc33-fdbdd090fb82",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1832,9 +1832,9 @@
             "id": "ede65e6b-b624-4270-80b3-5c3dd67a8251",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1844,9 +1844,9 @@
             "id": "99723bbd-6df0-4d60-b6b8-85fd3fa062ff",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1856,9 +1856,9 @@
             "id": "d7d08d70-ce4b-4dea-9a16-94f2f810feda",
             "season": 0,
             "day": 18,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -1870,9 +1870,9 @@
             "id": "4614da3e-dad9-41fc-8008-d474e8f321ab",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1882,9 +1882,9 @@
             "id": "434cd27c-b312-47ef-ad75-23537996e38a",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1894,9 +1894,9 @@
             "id": "60085684-7c01-4543-bc5d-6dc593d42d8e",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1906,9 +1906,9 @@
             "id": "74aa9a8a-1311-48cb-b5bf-0a9822ffb099",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1918,9 +1918,9 @@
             "id": "af9246f7-09bd-4d91-a6c0-0044c2f8aa68",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1930,9 +1930,9 @@
             "id": "103eb8f4-1995-4db0-aeb9-00ae64a3760c",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1942,9 +1942,9 @@
             "id": "a29a9630-4ac7-439e-95fd-9e3c6fe2b197",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1954,9 +1954,9 @@
             "id": "26f759c3-b0a2-4a6a-8a82-2033913f4e2f",
             "season": 0,
             "day": 19,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -1968,9 +1968,9 @@
             "id": "09eed47b-a182-4ff0-ad50-071ab8cd5956",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1980,9 +1980,9 @@
             "id": "bc6abdb3-3fbb-4987-a9c4-e724bbbaa5d4",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1992,9 +1992,9 @@
             "id": "22c6ca1c-0925-435e-b3bc-2aa63210e306",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2004,9 +2004,9 @@
             "id": "2a65279c-258a-47f7-ab36-78d4529cfc9d",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2016,9 +2016,9 @@
             "id": "45733761-2f05-44b8-99d1-167f24d6237f",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2028,9 +2028,9 @@
             "id": "c71a45ad-88c7-42a1-9d08-36d78a072dd5",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2040,9 +2040,9 @@
             "id": "01663ec5-dc0b-4d75-9dd9-9a8e71940052",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2052,9 +2052,9 @@
             "id": "9a507753-a74f-40fd-a737-92eaf4a62380",
             "season": 0,
             "day": 20,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -2066,9 +2066,9 @@
             "id": "088b99fc-2b0c-4a21-b6a6-83258e0995e3",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2078,9 +2078,9 @@
             "id": "b0aa31cc-0eb1-43fd-9139-bcf9f048aa8b",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2090,9 +2090,9 @@
             "id": "780c7aab-b78d-4de6-8832-24bb383aac2a",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2102,9 +2102,9 @@
             "id": "45cb80b7-5d0a-4a3f-9fdd-323db392bc30",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2114,9 +2114,9 @@
             "id": "848ba78b-ab1d-4faa-aa0d-8d8fb6b9b5fa",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2126,9 +2126,9 @@
             "id": "3a84c580-fee8-431d-a880-5e194854c787",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2138,9 +2138,9 @@
             "id": "0520c766-fe3c-4558-92bd-21532aca3560",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2150,9 +2150,9 @@
             "id": "b81821aa-ab54-4476-ab9f-7160eb7b8dad",
             "season": 0,
             "day": 21,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -2164,9 +2164,9 @@
             "id": "587d687a-00b6-4a4a-a868-53bcb2ab0e15",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2176,9 +2176,9 @@
             "id": "42293423-8d3a-4c47-bc8f-51b1c36a866d",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2188,9 +2188,9 @@
             "id": "e73d2a4d-6c44-4155-8d04-49fc4413011f",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2200,9 +2200,9 @@
             "id": "a5629c3b-1dee-4856-ab06-5ec21f5b1b03",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2212,9 +2212,9 @@
             "id": "624ad577-af00-45ce-bad3-fc15dcf041b3",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2224,9 +2224,9 @@
             "id": "4d3bafec-5b05-443e-b258-628b77eb474a",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2236,9 +2236,9 @@
             "id": "bb30baeb-8fea-4576-8d05-46d4da2836e3",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2248,9 +2248,9 @@
             "id": "ce229bda-64d8-44b1-a13e-de1ec005034d",
             "season": 0,
             "day": 22,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -2262,9 +2262,9 @@
             "id": "098c1af6-ea49-4582-9288-c11f713ab967",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -2274,9 +2274,9 @@
             "id": "3d948a42-cd43-4969-a1f4-c688a2aa3522",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2286,9 +2286,9 @@
             "id": "3d4512d9-eff3-4d4c-8cc0-13853c8f55d1",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2298,9 +2298,9 @@
             "id": "0606d3a5-7d1f-4eea-b334-ee94d4cd21a6",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2310,9 +2310,9 @@
             "id": "99d7a477-5cf9-4fba-8434-8a9dc4b855c6",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2322,9 +2322,9 @@
             "id": "cd6066c1-3650-48f9-8f1c-3a559f368125",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2334,9 +2334,9 @@
             "id": "9341bb89-7e60-4127-a193-f124398c9cd0",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2346,9 +2346,9 @@
             "id": "334bb028-9b4f-4a0f-be61-f4fb1f84a537",
             "season": 0,
             "day": 23,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -2360,9 +2360,9 @@
             "id": "3a2f6ac1-6fbe-40d1-abd4-6342508dcbfa",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2372,9 +2372,9 @@
             "id": "df2933d0-4a30-4685-ab40-9d8a328a3ae1",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2384,9 +2384,9 @@
             "id": "34c1b366-8464-4fb0-9db7-a24ebd72a91a",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2396,9 +2396,9 @@
             "id": "30f8cd55-687a-45d6-ac28-24a7db1114ab",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2408,9 +2408,9 @@
             "id": "abc82bb3-9415-46b1-8c19-58dae13fd911",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2420,9 +2420,9 @@
             "id": "18f73f6f-014a-42e2-8d58-be35cb17c391",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2432,9 +2432,9 @@
             "id": "55e58253-c127-4701-9470-9569947e3ba4",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2444,9 +2444,9 @@
             "id": "2b6da67b-ddaf-4870-bd08-da7421f761a3",
             "season": 0,
             "day": 24,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -2458,9 +2458,9 @@
             "id": "57ebc0eb-2809-4ea9-a984-f1cd50e8f5f2",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2470,9 +2470,9 @@
             "id": "267e2b26-2f61-427c-b0c3-c4a00fe78bb4",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2482,9 +2482,9 @@
             "id": "9d177a01-2c49-4d34-b0cf-c38032bcb1f8",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2494,9 +2494,9 @@
             "id": "67418a0e-67aa-4393-aaca-86a45aa84bd2",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2506,9 +2506,9 @@
             "id": "c3144175-c8a3-44a2-bc29-baed68ef5fbe",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2518,9 +2518,9 @@
             "id": "879f920e-eb5d-4ba0-b4a4-d03c7d2d9ece",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2530,9 +2530,9 @@
             "id": "c1904360-a89c-4d7d-a4e1-51dbf313ae5c",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2542,9 +2542,9 @@
             "id": "9c71a8ef-de0e-4a9e-927e-257db8f59a80",
             "season": 0,
             "day": 25,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -2556,9 +2556,9 @@
             "id": "92ada8f6-c1ee-4b5d-bfe0-37d254c3aa58",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2568,9 +2568,9 @@
             "id": "74a37156-55b5-498d-a9f6-163f29dcb959",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2580,9 +2580,9 @@
             "id": "c09978f3-ca26-44e4-8f75-2d24f517e131",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2592,9 +2592,9 @@
             "id": "af07cd24-764d-4450-922f-3142024dcfea",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2604,9 +2604,9 @@
             "id": "c5cc81f5-4ddd-4e15-a408-8bd88b0d1358",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2616,9 +2616,9 @@
             "id": "047e1ed5-1a94-4d2f-aec9-1b9a51bb280e",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2628,9 +2628,9 @@
             "id": "2cd5a99a-c688-4557-a6d3-4a040d5165bd",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2640,9 +2640,9 @@
             "id": "e5a98992-a512-4341-b904-008e08067966",
             "season": 0,
             "day": 26,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -2654,9 +2654,9 @@
             "id": "273d0cbf-5f12-468a-ada1-858dba835fb8",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2666,9 +2666,9 @@
             "id": "67e98c22-de0f-43c4-84ad-9894b51bdbac",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2678,9 +2678,9 @@
             "id": "54661352-c380-458b-9365-ed388957f5c3",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2690,9 +2690,9 @@
             "id": "132b3e6a-ad2b-482a-bf19-3d68b2517b58",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2702,9 +2702,9 @@
             "id": "8ed6fdd5-e830-4e82-8c4d-6b6e8e754b4c",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2714,9 +2714,9 @@
             "id": "74109868-3b0a-49e3-a26e-42263684c189",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2726,9 +2726,9 @@
             "id": "9742c866-6f2b-4d23-a9d0-1d3c23647451",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2738,9 +2738,9 @@
             "id": "22435a39-49a1-467d-9f4c-fea8dc3253ce",
             "season": 0,
             "day": 27,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -2752,9 +2752,9 @@
             "id": "4662fc7f-95ab-4994-be3d-d45b1140c8d0",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2764,9 +2764,9 @@
             "id": "34a21fa7-1739-4c36-a0c9-28c17c204ebf",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2776,9 +2776,9 @@
             "id": "dd24d213-78b6-4ae6-8a09-57b736452875",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2788,9 +2788,9 @@
             "id": "6ee41344-4849-4861-b01d-c0a0a0b7e00a",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2800,9 +2800,9 @@
             "id": "63e98df1-8c5f-4e97-ae8e-d9222bfc69f3",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2812,9 +2812,9 @@
             "id": "404f3b4a-c5c1-4e40-aeb8-8d0df6f208dc",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2824,9 +2824,9 @@
             "id": "b61f2038-181b-46b9-ab5a-907235b82ef9",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2836,9 +2836,9 @@
             "id": "969bce9a-9980-44af-9dd6-573ec9cf5f74",
             "season": 0,
             "day": 28,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -2850,9 +2850,9 @@
             "id": "4e80f6f0-deec-4193-a79e-9460b4bc669c",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2862,9 +2862,9 @@
             "id": "1bfcfd96-9296-4aa3-83a6-5aeda584798c",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2874,9 +2874,9 @@
             "id": "0177b171-d352-477a-9148-360e4fbd2c3d",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -2886,9 +2886,9 @@
             "id": "097d3c01-a9fc-4001-a9f1-e85652fb166b",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2898,9 +2898,9 @@
             "id": "bc823833-147f-40f8-badd-8c882c73b7ae",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2910,9 +2910,9 @@
             "id": "ffe38a5f-1f16-438f-bb4c-1abd86f94b2f",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2922,9 +2922,9 @@
             "id": "88d5d046-5b86-4bd5-b666-d6022cc3460f",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2934,9 +2934,9 @@
             "id": "2268831e-cfed-41f0-ae3f-7470377f1a3f",
             "season": 0,
             "day": 29,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -2948,9 +2948,9 @@
             "id": "43ab3b53-666e-49ac-8910-95e4843e7f21",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2960,9 +2960,9 @@
             "id": "6810fa5e-987b-4db7-b4e4-638ca021cd8a",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2972,9 +2972,9 @@
             "id": "b38874e0-ae16-4021-ab7b-90bc5bd8a124",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2984,9 +2984,9 @@
             "id": "2ff37c67-9429-4bce-bfb1-aff85ead5689",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2996,9 +2996,9 @@
             "id": "bfe6dec9-a147-40b8-acc1-e5655edab9e4",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3008,9 +3008,9 @@
             "id": "805dde70-cad8-4dfe-856c-c8a1ef5b3e83",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3020,9 +3020,9 @@
             "id": "b1b399cc-4465-4b21-9956-21bac1196683",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3032,9 +3032,9 @@
             "id": "8424b9a8-4a13-4d63-a8f2-1c597e5a65a6",
             "season": 0,
             "day": 30,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -3046,9 +3046,9 @@
             "id": "f380e149-13cc-4ad0-af20-8b7940344a7b",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3058,9 +3058,9 @@
             "id": "707f8528-832a-4818-abd8-e07619a239fc",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3070,9 +3070,9 @@
             "id": "e387e82a-b59e-42bb-86ed-96e6c4c878e8",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3082,9 +3082,9 @@
             "id": "cc38b79e-fdfc-4095-902a-cab9e4562667",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3094,9 +3094,9 @@
             "id": "88861f28-8dcc-4e0f-a409-1635c7875a94",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3106,9 +3106,9 @@
             "id": "2bd555c8-59db-4009-a21a-86450fddb3a1",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3118,9 +3118,9 @@
             "id": "ca642b18-a175-4d76-a341-8632cbdf8134",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3130,9 +3130,9 @@
             "id": "9f7da593-0225-403f-beb2-dae082c405de",
             "season": 0,
             "day": 31,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -3144,9 +3144,9 @@
             "id": "00ef42b8-4a2f-4146-b173-59ca141bac9e",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3156,9 +3156,9 @@
             "id": "ea8513a3-4c37-4ecb-8c91-fb3abae8ad16",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3168,9 +3168,9 @@
             "id": "47c6f94e-6c45-4597-9cf7-a7250ca6a6f9",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3180,9 +3180,9 @@
             "id": "8de702be-36c5-4643-9b4f-440d23171be0",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3192,9 +3192,9 @@
             "id": "6cbc79db-9b06-4379-9181-8b0f29ed1f4d",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3204,9 +3204,9 @@
             "id": "4f4d92ff-9cc1-4460-bdb5-388a1c5ffdb6",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3216,9 +3216,9 @@
             "id": "6741844e-5ed7-405e-b6b3-3851154ce877",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3228,9 +3228,9 @@
             "id": "713a3481-5cde-4620-a40f-67660c6b974d",
             "season": 0,
             "day": 32,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -3242,9 +3242,9 @@
             "id": "36d1c9a4-4a3d-446b-a94e-d69736f61c3d",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -3254,9 +3254,9 @@
             "id": "1a48c0cf-bf4f-463d-813d-a1969f0fb35d",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3266,9 +3266,9 @@
             "id": "01da49fa-d561-4e35-b051-cad915dabde8",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3278,9 +3278,9 @@
             "id": "a670edfc-49c9-4e8d-b464-56ff0748e82b",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3290,9 +3290,9 @@
             "id": "c906243e-f210-44f5-8623-253ff020c3d4",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3302,9 +3302,9 @@
             "id": "9ca2e1ef-a799-4ab9-bf29-49980e8c269f",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3314,9 +3314,9 @@
             "id": "26de23e7-31af-4b9c-bfbf-4bc97da07676",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3326,9 +3326,9 @@
             "id": "e862c863-d646-438b-93a3-509c9c61b98c",
             "season": 0,
             "day": 33,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -3340,9 +3340,9 @@
             "id": "96fbbe96-1f06-4066-a1db-7e3a81c08843",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3352,9 +3352,9 @@
             "id": "b47df909-c5ff-4c7f-b97d-eecfd61cfd6d",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3364,9 +3364,9 @@
             "id": "4cab9e1d-8cab-48ea-be98-ea569cdc017f",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3376,9 +3376,9 @@
             "id": "115fefb0-2f3e-4072-a397-2f14079dac2d",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3388,9 +3388,9 @@
             "id": "9b2d604c-6852-4abc-8a8d-101a7e2e8353",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3400,9 +3400,9 @@
             "id": "2c4b1e55-fd69-463b-854e-e70361a63deb",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3412,9 +3412,9 @@
             "id": "bb4f6a10-cd71-4f19-ba32-6409898b23de",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3424,9 +3424,9 @@
             "id": "bc590f61-ff2b-4dbb-85c2-63528e7d7ec1",
             "season": 0,
             "day": 34,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -3438,9 +3438,9 @@
             "id": "d101c919-9721-45fe-89b2-22189d9f61e2",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -3450,9 +3450,9 @@
             "id": "6d426a88-3d07-4b10-b7d6-28cb703b98b6",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3462,9 +3462,9 @@
             "id": "16511f93-f563-4bb4-8802-de283ab45fd3",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3474,9 +3474,9 @@
             "id": "2ec0337c-f192-4550-b610-cdde72a067b1",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3486,9 +3486,9 @@
             "id": "410f4cf8-8d4d-4acf-b8ef-e9da4362ca62",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3498,9 +3498,9 @@
             "id": "56e8a2a0-d7a8-48e8-9fde-7d113b0b1699",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3510,9 +3510,9 @@
             "id": "2111a41f-eb50-4758-9259-fb5d42e436aa",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3522,9 +3522,9 @@
             "id": "bdde49e8-3c66-4323-9a8f-91fb414a2b56",
             "season": 0,
             "day": 35,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         }
     ],
     [
@@ -3536,9 +3536,9 @@
             "id": "766d6a6e-b7f3-4453-a6c0-868c14737226",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3548,9 +3548,9 @@
             "id": "9af51654-0624-4848-917f-062e6202a835",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3560,9 +3560,9 @@
             "id": "6a846092-e217-47aa-ba9c-6f9daa58beaf",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3572,9 +3572,9 @@
             "id": "5ce78ecf-b6f1-495b-b582-ad9ea10ad689",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3584,9 +3584,9 @@
             "id": "68d4460d-e4d8-43dc-86cd-625d739ad49d",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3596,9 +3596,9 @@
             "id": "45bf338e-3a88-49ce-848b-94d87eeb5055",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3608,9 +3608,9 @@
             "id": "2365c027-f1e1-49ba-8407-3917a00a47cb",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3620,9 +3620,9 @@
             "id": "a4ef8482-ae2a-49c5-9a52-ce7a8a7e14c3",
             "season": 0,
             "day": 36,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -3634,9 +3634,9 @@
             "id": "859806f8-4dc8-4e1a-807b-63aa8d582551",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -3646,9 +3646,9 @@
             "id": "8dcc5522-66e8-4f37-91c9-61dd2af9e5dc",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3658,9 +3658,9 @@
             "id": "8bab4334-bc0b-4caf-8393-7067d5414209",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3670,9 +3670,9 @@
             "id": "fad628de-1578-48db-a2c6-60c87bcd45ff",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3682,9 +3682,9 @@
             "id": "27c93fda-3bd9-49c0-a7fb-9b385532c3b8",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3694,9 +3694,9 @@
             "id": "b37190ea-2615-402f-9664-32584a1c13dd",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3706,9 +3706,9 @@
             "id": "1d1629ff-ddbc-40af-af8a-095ecad67444",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3718,9 +3718,9 @@
             "id": "850cad52-a7be-4412-84c7-b0ac8318a38f",
             "season": 0,
             "day": 37,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -3732,9 +3732,9 @@
             "id": "53316e2e-1239-4726-9029-c80028c693fc",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3744,9 +3744,9 @@
             "id": "a4627369-1a05-4aeb-9384-0353a51cfd58",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3756,9 +3756,9 @@
             "id": "66ddccfe-5dfb-43cb-947e-c27bf1599220",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3768,9 +3768,9 @@
             "id": "0a904334-3d2d-4d1c-b2b8-6e1531585ba9",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3780,9 +3780,9 @@
             "id": "7f0a7e9f-7228-4b59-b20d-4eb8ff7a97ef",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3792,9 +3792,9 @@
             "id": "d4b81ef1-9644-48b0-8168-850730b271d9",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3804,9 +3804,9 @@
             "id": "c91a678f-d6d4-43cf-b488-3f707d1ff025",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3816,9 +3816,9 @@
             "id": "8317b6fe-5f63-48ee-bb82-401d18076931",
             "season": 0,
             "day": 38,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -3830,9 +3830,9 @@
             "id": "f3ee39a3-7129-4032-853e-6b962bf5d0f1",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3842,9 +3842,9 @@
             "id": "e5b90d63-d4f8-4ed5-b1d7-ede984eb15a6",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3854,9 +3854,9 @@
             "id": "d24c0900-4f4f-43cf-a648-921c2f9b8618",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3866,9 +3866,9 @@
             "id": "eef5062b-7caf-45c0-ba5d-6eced262e9bd",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3878,9 +3878,9 @@
             "id": "3afdcde8-3d3b-48ee-b76c-5ae0fa41c65c",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3890,9 +3890,9 @@
             "id": "170fa881-e7de-4047-96da-7b0f748e7008",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3902,9 +3902,9 @@
             "id": "4a52d0de-1ee0-4555-891d-7126853e035d",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3914,9 +3914,9 @@
             "id": "9970e1e9-1a3b-429c-a413-11fd5d771683",
             "season": 0,
             "day": 39,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         }
     ],
     [
@@ -3928,9 +3928,9 @@
             "id": "affdf866-dc9d-4691-99a3-a262a6454209",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -3940,9 +3940,9 @@
             "id": "202ba7ae-d781-4e1c-afc2-afd5ea613c1e",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3952,9 +3952,9 @@
             "id": "3721a231-b624-4755-9b5d-665a6a1ecc41",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3964,9 +3964,9 @@
             "id": "6ddb3286-e3f0-49e2-8d6f-5b80402d9f60",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3976,9 +3976,9 @@
             "id": "9cbbc031-f723-4364-ae00-e747df1e1fac",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3988,9 +3988,9 @@
             "id": "52f1286e-8837-411d-b54d-bc7d75f4760a",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4000,9 +4000,9 @@
             "id": "83ae5efe-1637-4bd0-9542-7c841f965e33",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4012,9 +4012,9 @@
             "id": "6566063e-b0c9-41b7-b9e9-cfc82c8edc8c",
             "season": 0,
             "day": 40,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -4026,9 +4026,9 @@
             "id": "5abe8d08-c925-4de8-a63f-da87ed9d0c4f",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4038,9 +4038,9 @@
             "id": "cc779e63-ab85-43b2-a03a-bc8a48642d5c",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4050,9 +4050,9 @@
             "id": "1071a1e2-078b-4485-84bf-4eb99291f3df",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4062,9 +4062,9 @@
             "id": "1256bfcc-2e83-4cb7-b40c-4c5732509517",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4074,9 +4074,9 @@
             "id": "f7086a8a-d065-462c-97e1-cdaa1c51c277",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4086,9 +4086,9 @@
             "id": "d143cbf6-6d6a-40f0-b302-cf43d3589581",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4098,9 +4098,9 @@
             "id": "f8b40981-3069-4156-9b79-e990501f48b1",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4110,9 +4110,9 @@
             "id": "0d884dea-04eb-4c98-856a-0ded3e0bb869",
             "season": 0,
             "day": 41,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         }
     ],
     [
@@ -4124,9 +4124,9 @@
             "id": "fd351895-e9e9-4253-980b-7c3641d64ac0",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4136,9 +4136,9 @@
             "id": "ad9e12f0-76b6-4d05-a4d5-6eb1d6d3eede",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4148,9 +4148,9 @@
             "id": "1a9bf6be-9b0d-46c8-94dd-d0c401e6c718",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -4160,9 +4160,9 @@
             "id": "86a86bd0-5ceb-42c4-8536-1570eb432795",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4172,9 +4172,9 @@
             "id": "de9424ea-5d96-4b3c-89c8-8f808012ec88",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4184,9 +4184,9 @@
             "id": "f59f84f1-dadc-4d10-b41e-aae871b0d192",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4196,9 +4196,9 @@
             "id": "057a9ad1-462a-4698-b9db-500f32946c43",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4208,9 +4208,9 @@
             "id": "1179dff9-0cf6-4a5f-a059-ad6f7794a83f",
             "season": 0,
             "day": 42,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -4222,9 +4222,9 @@
             "id": "5bce2049-166b-426b-a001-29e962cd2900",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4234,9 +4234,9 @@
             "id": "b0360c92-e6ca-4e29-b2ba-6e8433bceb49",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4246,9 +4246,9 @@
             "id": "9932fa60-4d27-413b-9c4d-649086763e6f",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4258,9 +4258,9 @@
             "id": "3f988758-c771-4f9f-b028-5d76a69f4080",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4270,9 +4270,9 @@
             "id": "242bdb19-f8d7-4b96-a25b-51238a0ce6a3",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4282,9 +4282,9 @@
             "id": "64a61cac-91be-4067-bc56-b2e1a1bba20d",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4294,9 +4294,9 @@
             "id": "6ceb07c5-6cb9-4bab-8bac-884208e74489",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4306,9 +4306,9 @@
             "id": "f959bf38-310e-465b-934a-75ffcbe5e127",
             "season": 0,
             "day": 43,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         }
     ],
     [
@@ -4320,9 +4320,9 @@
             "id": "6993a460-09ee-4fec-a141-5da0e7d73bed",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4332,9 +4332,9 @@
             "id": "bff15a52-e216-439f-9d2d-7366546ff244",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4344,9 +4344,9 @@
             "id": "9097f598-5973-4494-939c-24fce5ac2e2c",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4356,9 +4356,9 @@
             "id": "c931dc7e-3266-4863-b53b-94a5a81912e0",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4368,9 +4368,9 @@
             "id": "0d9585c5-16af-49f5-9d1f-802528a2664e",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4380,9 +4380,9 @@
             "id": "4c180224-d7e0-4fc2-bfe2-bd6f7773dc95",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4392,9 +4392,9 @@
             "id": "5ff79a92-f429-4064-aa41-5da7b1fa6e97",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4404,9 +4404,9 @@
             "id": "901ba549-05ef-4f4d-94cd-c0fb9896982f",
             "season": 0,
             "day": 44,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -4418,9 +4418,9 @@
             "id": "b3829294-605c-434a-992d-f081aafbc61f",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4430,9 +4430,9 @@
             "id": "47d52436-b1ab-472c-95d4-7eaaadac696d",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -4442,9 +4442,9 @@
             "id": "7807c5ea-2ccb-4920-9856-aaab1f431762",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4454,9 +4454,9 @@
             "id": "0b2971ea-0eb8-41ee-90c0-acb961f79a6c",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4466,9 +4466,9 @@
             "id": "4b4091ed-d905-421c-b6a5-4e1c523d6954",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4478,9 +4478,9 @@
             "id": "170ec233-6b18-46b5-9aa6-707dd13997b3",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4490,9 +4490,9 @@
             "id": "28d15160-2aae-4304-80d3-da18d9530dcc",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4502,9 +4502,9 @@
             "id": "cf13ddbc-ae1b-4e4f-a983-de825d845543",
             "season": 0,
             "day": 45,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         }
     ],
     [
@@ -4516,9 +4516,9 @@
             "id": "1ff5c79a-7728-4f98-b583-a7cd7cff4231",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4528,9 +4528,9 @@
             "id": "9d949f96-b52e-44e4-b3a1-433a45db3439",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -4540,9 +4540,9 @@
             "id": "fe54202d-9314-471d-bf77-8e5b7a992fdc",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4552,9 +4552,9 @@
             "id": "b1879d53-9299-418b-bde0-94274c849cbf",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4564,9 +4564,9 @@
             "id": "20b390d0-8d47-4b26-9c2c-7013f2f19d4e",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4576,9 +4576,9 @@
             "id": "ad45c27e-281a-4e67-9537-a0b5d3685f03",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4588,9 +4588,9 @@
             "id": "f8ddb0b6-5e2d-453e-8c49-d51d8afd541e",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4600,9 +4600,9 @@
             "id": "b026fe9d-e8e1-42b0-a78c-c3868046a58f",
             "season": 0,
             "day": 46,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -4614,9 +4614,9 @@
             "id": "d2f78e54-16c2-4d84-8bcd-451622412497",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4626,9 +4626,9 @@
             "id": "fcd78e96-c828-454e-ab52-7a9281658ed1",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4638,9 +4638,9 @@
             "id": "62e1eefa-612a-4ab1-8328-0b1b6df16ff2",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4650,9 +4650,9 @@
             "id": "8e6dc498-c504-4aca-a4c6-f07a59491e55",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4662,9 +4662,9 @@
             "id": "030f7d61-b9c6-4f9f-9fe7-7997724a2ef7",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4674,9 +4674,9 @@
             "id": "f30dfa4a-7392-48fc-ab48-6b523332dfbe",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4686,9 +4686,9 @@
             "id": "d0027901-625d-4d83-a1b0-aa8adaf62e70",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4698,9 +4698,9 @@
             "id": "176881e2-e53c-43f3-b9c1-85ba54a4b0f8",
             "season": 0,
             "day": 47,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         }
     ],
     [
@@ -4712,9 +4712,9 @@
             "id": "f557ec7c-191a-407b-9e42-4661c180fa69",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "eightpi"
+            "patternName": "eightpi",
+            "isPostseason": false
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4724,9 +4724,9 @@
             "id": "e11b3ded-f555-4fbd-8e49-51065c1f7bf9",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twoacorn"
+            "patternName": "twoacorn",
+            "isPostseason": false
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4736,9 +4736,9 @@
             "id": "c1f215c9-a0d5-4196-b662-38202018c93a",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "fourrabbits"
+            "patternName": "fourrabbits",
+            "isPostseason": false
         },
         {
             "team1Name": "Baltimore Texas",
@@ -4748,9 +4748,9 @@
             "id": "50a4a1b8-23ce-4039-bc56-51ba78661e4b",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Cold League",
-            "patternName": "twomultum"
+            "patternName": "twomultum",
+            "isPostseason": false
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4760,9 +4760,9 @@
             "id": "deb5fc3c-c75a-4b3c-bdd0-e5a503ce9ef3",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "random"
+            "patternName": "random",
+            "isPostseason": false
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4772,9 +4772,9 @@
             "id": "0a057ad8-25fd-4a21-8ece-5b8813fe5b17",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "twospaceshipgenerators"
+            "patternName": "twospaceshipgenerators",
+            "isPostseason": false
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4784,9 +4784,9 @@
             "id": "7151aecc-abaa-4de3-8ac6-1ef3bf152904",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "timebomb"
+            "patternName": "timebomb",
+            "isPostseason": false
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4796,9 +4796,9 @@
             "id": "f2c25d2a-1506-45e4-9d25-bac460b74a80",
             "season": 0,
             "day": 48,
-            "isPlayoffs": false,
             "league": "Hot League",
-            "patternName": "eightr"
+            "patternName": "eightr",
+            "isPostseason": false
         }
     ]
 ]
