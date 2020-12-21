@@ -8,7 +8,7 @@
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 1, Cold League Division Series 1",
                 "id": "56ae6552-4fa6-4b0a-ac19-41b2fa3321f8",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Cold League",
@@ -17,7 +17,7 @@
                 "patternName": "twoacorn",
                 "description": "Game 1, Cold League Division Series 2",
                 "id": "c2315769-681f-451f-a135-5e01653bd867",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -26,7 +26,7 @@
                 "patternName": "eightpi",
                 "description": "Game 1, Hot League Division Series 1",
                 "id": "62eab77d-d18e-4266-becb-a09ef4ced7d2",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -35,7 +35,7 @@
                 "patternName": "fourrabbits",
                 "description": "Game 1, Hot League Division Series 2",
                 "id": "0de5f808-6e36-4a26-b8a6-c8d90d159df8",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -46,7 +46,7 @@
                 "patternName": "fourrabbits",
                 "description": "Game 2, Cold League Division Series 1",
                 "id": "e2bc3f87-f93c-4e08-ab89-ca50a1ec05dc",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Cold League",
@@ -55,7 +55,7 @@
                 "patternName": "eightpi",
                 "description": "Game 2, Cold League Division Series 2",
                 "id": "30b0404d-76b1-4ba9-a2e0-867390165741",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -64,7 +64,7 @@
                 "patternName": "random",
                 "description": "Game 2, Hot League Division Series 1",
                 "id": "59423fe7-3218-43f4-8ccb-acb3a96dea4a",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -73,7 +73,7 @@
                 "patternName": "twoacorn",
                 "description": "Game 2, Hot League Division Series 2",
                 "id": "690132e2-b46d-430e-9381-565bb5dc1207",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -84,7 +84,7 @@
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 3, Cold League Division Series 1",
                 "id": "25544a22-3050-40e7-8983-b313fad45d2b",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Cold League",
@@ -93,7 +93,7 @@
                 "patternName": "twomultum",
                 "description": "Game 3, Cold League Division Series 2",
                 "id": "7ca2064f-6da7-4caa-98c3-f6a189cada73",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -102,7 +102,7 @@
                 "patternName": "fourrabbits",
                 "description": "Game 3, Hot League Division Series 1",
                 "id": "b755d40c-1254-46ae-9877-b977febb3d87",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -111,7 +111,7 @@
                 "patternName": "random",
                 "description": "Game 3, Hot League Division Series 2",
                 "id": "967bc095-cdfe-4d55-8cd5-67967b2e8180",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -122,7 +122,7 @@
                 "patternName": "eightpi",
                 "description": "Game 4, Cold League Division Series 1",
                 "id": "0487ff94-5c37-4ce1-be5c-84dccd5ac032",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Cold League",
@@ -131,7 +131,7 @@
                 "patternName": "twoacorn",
                 "description": "Game 4, Cold League Division Series 2",
                 "id": "67375e5b-7c32-4d07-9453-28c2c12ee1b2",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -140,7 +140,7 @@
                 "patternName": "timebomb",
                 "description": "Game 4, Hot League Division Series 1",
                 "id": "7796a6f9-2042-485f-8fdb-53039b10af16",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -149,7 +149,7 @@
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 4, Hot League Division Series 2",
                 "id": "4836a967-784b-4a95-b368-65869556f34f",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -160,7 +160,7 @@
                 "patternName": "eightpi",
                 "description": "Game 5, Cold League Division Series 1",
                 "id": "5c25621b-83dd-4342-aca0-c6fbc6a1b77c",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Cold League",
@@ -169,7 +169,7 @@
                 "patternName": "random",
                 "description": "Game 5, Cold League Division Series 2",
                 "id": "4f2d9a69-c3fc-4e5f-87b5-15b604888079",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -178,7 +178,7 @@
                 "patternName": "twomultum",
                 "description": "Game 5, Hot League Division Series 1",
                 "id": "210eedf5-4641-497f-bea1-99a521b4e382",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "league": "Hot League",
@@ -187,7 +187,7 @@
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 5, Hot League Division Series 2",
                 "id": "0cc0c4ec-1bbb-4db5-97d5-bb38fcbb1936",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ]
     ],
@@ -200,7 +200,7 @@
                 "league": "Cold League",
                 "description": "Game 1, Cold League Championship Series",
                 "id": "a7675501-6f38-41e0-bb74-653426d5fd27",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "team1Name": "Top Seed",
@@ -209,7 +209,7 @@
                 "league": "Hot League",
                 "description": "Game 1, Hot League Championship Series",
                 "id": "20bb1de7-3fef-4585-ab58-1cc3452bc84d",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -220,7 +220,7 @@
                 "league": "Cold League",
                 "description": "Game 2, Cold League Championship Series",
                 "id": "83cd8e10-a4ac-4c5e-90de-c27f9c7dc5b3",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "team1Name": "Top Seed",
@@ -229,7 +229,7 @@
                 "league": "Hot League",
                 "description": "Game 2, Hot League Championship Series",
                 "id": "00c863b6-9edd-4495-bc83-9835bd250d26",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -240,7 +240,7 @@
                 "league": "Cold League",
                 "description": "Game 3, Cold League Championship Series",
                 "id": "58523074-f9cc-4135-b1c8-2763f58f81c9",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "team1Name": "Bottom Seed",
@@ -249,7 +249,7 @@
                 "league": "Hot League",
                 "description": "Game 3, Hot League Championship Series",
                 "id": "7977ec39-3855-4bf0-904d-b51be521f478",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -260,7 +260,7 @@
                 "league": "Cold League",
                 "description": "Game 4, Cold League Championship Series",
                 "id": "20a0da3e-f7de-443e-94db-f8a715453b82",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "team1Name": "Bottom Seed",
@@ -269,7 +269,7 @@
                 "league": "Hot League",
                 "description": "Game 4, Hot League Championship Series",
                 "id": "7407f991-f58e-4842-ac30-e1d6fbec477a",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -280,7 +280,7 @@
                 "league": "Cold League",
                 "description": "Game 5, Cold League Championship Series",
                 "id": "b5f2ba5e-7b98-483c-92b7-64fb6a232f6a",
-                "isPlayoffs": true
+                "isPostseason": true
             },
             {
                 "team1Name": "Top Seed",
@@ -289,7 +289,7 @@
                 "league": "Hot League",
                 "description": "Game 5, Hot League Championship Series",
                 "id": "c8d66362-894a-4c97-8040-c7a859ed7326",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ]
     ],
@@ -301,7 +301,7 @@
                 "patternName": "fourrabbits",
                 "description": "Game 1, World Series",
                 "id": "fbcb61bb-a88d-4654-a084-374e85c166e6",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -311,7 +311,7 @@
                 "patternName": "twoacorn",
                 "description": "Game 2, World Series",
                 "id": "34638fcd-9261-4d20-a71f-355223deb7e9",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -321,7 +321,7 @@
                 "patternName": "random",
                 "description": "Game 3, World Series",
                 "id": "d0fa4a34-6e25-419e-a46b-3d32964c6603",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -331,7 +331,7 @@
                 "patternName": "timebomb",
                 "description": "Game 4, World Series",
                 "id": "6c4eca0e-539c-40a8-8868-1ebebe819c3c",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -341,7 +341,7 @@
                 "patternName": "timebomb",
                 "description": "Game 5, World Series",
                 "id": "22cade15-4e32-4e83-915f-ccb681513a26",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -351,7 +351,7 @@
                 "patternName": "timebomb",
                 "description": "Game 6, World Series",
                 "id": "7e431356-1f78-4fd8-b50a-406587a0e6bf",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ],
         [
@@ -361,7 +361,7 @@
                 "patternName": "twomultum",
                 "description": "Game 7, World Series",
                 "id": "36cefa2e-3081-4f6f-a479-37843ef51c23",
-                "isPlayoffs": true
+                "isPostseason": true
             }
         ]
     ]
