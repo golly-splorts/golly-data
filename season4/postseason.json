@@ -10,7 +10,6 @@
                 "day": 49,
                 "season": 4,
                 "id": "a45973fc-d7e2-45d4-b97e-ab77001148fc",
-                "isPlayoffs": true,
                 "description": "Game 1, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -56,7 +55,6 @@
                 "day": 49,
                 "season": 4,
                 "id": "8cdd0ef4-ba87-4aaa-a0e5-f9a0d08902bb",
-                "isPlayoffs": true,
                 "description": "Game 1, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -102,7 +100,6 @@
                 "day": 49,
                 "season": 4,
                 "id": "79dd1c5b-e8a6-4341-9079-5a6721dfe25a",
-                "isPlayoffs": true,
                 "description": "Game 1, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -148,7 +145,6 @@
                 "day": 49,
                 "season": 4,
                 "id": "ee39acdd-c1e2-4221-bf09-342dbc887c88",
-                "isPlayoffs": true,
                 "description": "Game 1, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -196,7 +192,6 @@
                 "day": 50,
                 "season": 4,
                 "id": "321790cd-0965-49c5-85c7-51efb381cf4e",
-                "isPlayoffs": true,
                 "description": "Game 2, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -242,7 +237,6 @@
                 "day": 50,
                 "season": 4,
                 "id": "f66e98b0-141c-40fc-9c4b-0855c2e19272",
-                "isPlayoffs": true,
                 "description": "Game 2, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -288,7 +282,6 @@
                 "day": 50,
                 "season": 4,
                 "id": "3522875f-5a96-4e58-99f3-275c53dc6291",
-                "isPlayoffs": true,
                 "description": "Game 2, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -334,7 +327,6 @@
                 "day": 50,
                 "season": 4,
                 "id": "75644fb6-4d6b-47b6-9bec-c796ff080a29",
-                "isPlayoffs": true,
                 "description": "Game 2, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -382,7 +374,6 @@
                 "day": 51,
                 "season": 4,
                 "id": "a646d3a2-7e9a-4592-a2ff-c74d763befba",
-                "isPlayoffs": true,
                 "description": "Game 3, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -428,7 +419,6 @@
                 "day": 51,
                 "season": 4,
                 "id": "f48955b9-924e-40c9-80fb-00eeb3063759",
-                "isPlayoffs": true,
                 "description": "Game 3, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -474,7 +464,6 @@
                 "day": 51,
                 "season": 4,
                 "id": "9b96e624-9f9d-4ef6-9ce2-7ffb78bbac78",
-                "isPlayoffs": true,
                 "description": "Game 3, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -520,7 +509,6 @@
                 "day": 51,
                 "season": 4,
                 "id": "9aac091e-93bf-4b23-9b47-be2ddd775b7a",
-                "isPlayoffs": true,
                 "description": "Game 3, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -568,7 +556,6 @@
                 "day": 52,
                 "season": 4,
                 "id": "9a56406d-8f38-439e-a2ec-18822e626f1f",
-                "isPlayoffs": true,
                 "description": "Game 4, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -614,7 +601,6 @@
                 "day": 52,
                 "season": 4,
                 "id": "26443c23-3b75-49cd-b2e9-28745842164f",
-                "isPlayoffs": true,
                 "description": "Game 4, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -660,7 +646,6 @@
                 "day": 52,
                 "season": 4,
                 "id": "3278e6e7-d544-458a-8599-44e0b2906537",
-                "isPlayoffs": true,
                 "description": "Game 4, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -708,7 +693,6 @@
                 "day": 53,
                 "season": 4,
                 "id": "b7a8ba5e-a4e3-49de-9fff-c47f06f71946",
-                "isPlayoffs": true,
                 "description": "Game 5, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -754,7 +738,6 @@
                 "day": 53,
                 "season": 4,
                 "id": "13a9bf05-c2d4-4afb-9c87-9cee51c61c9d",
-                "isPlayoffs": true,
                 "description": "Game 5, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -800,7 +783,6 @@
                 "day": 53,
                 "season": 4,
                 "id": "bf47f4cf-6e37-4c0f-a762-97144fbae761",
-                "isPlayoffs": true,
                 "description": "Game 5, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -884,8 +866,7 @@
                 },
                 "team1Score": 201,
                 "team2Score": 44,
-                "generations": 1534,
-                "isPlayoffs": true
+                "generations": 1534
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -930,8 +911,7 @@
                 },
                 "team1Score": 452,
                 "team2Score": 0,
-                "generations": 3373,
-                "isPlayoffs": true
+                "generations": 3373
             }
         ],
         [
@@ -978,8 +958,7 @@
                 },
                 "team1Score": 171,
                 "team2Score": 7,
-                "generations": 1800,
-                "isPlayoffs": true
+                "generations": 1800
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -1024,8 +1003,7 @@
                 },
                 "team1Score": 192,
                 "team2Score": 65,
-                "generations": 1964,
-                "isPlayoffs": true
+                "generations": 1964
             }
         ],
         [
@@ -1072,8 +1050,7 @@
                 },
                 "team1Score": 82,
                 "team2Score": 41,
-                "generations": 1596,
-                "isPlayoffs": true
+                "generations": 1596
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1118,8 +1095,7 @@
                 },
                 "team1Score": 237,
                 "team2Score": 33,
-                "generations": 2716,
-                "isPlayoffs": true
+                "generations": 2716
             }
         ],
         [
@@ -1166,8 +1142,7 @@
                 },
                 "team1Score": 59,
                 "team2Score": 170,
-                "generations": 1221,
-                "isPlayoffs": true
+                "generations": 1221
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1212,8 +1187,7 @@
                 },
                 "team1Score": 186,
                 "team2Score": 10,
-                "generations": 1687,
-                "isPlayoffs": true
+                "generations": 1687
             }
         ],
         [
@@ -1260,8 +1234,7 @@
                 },
                 "team1Score": 125,
                 "team2Score": 49,
-                "generations": 3319,
-                "isPlayoffs": true
+                "generations": 3319
             }
         ]
     ],
@@ -1309,8 +1282,7 @@
                 },
                 "team1Score": 42,
                 "team2Score": 257,
-                "generations": 3179,
-                "isPlayoffs": true
+                "generations": 3179
             }
         ],
         [
@@ -1356,8 +1328,7 @@
                 },
                 "team1Score": 317,
                 "team2Score": 27,
-                "generations": 1191,
-                "isPlayoffs": true
+                "generations": 1191
             }
         ],
         [
@@ -1403,8 +1374,7 @@
                 },
                 "team1Score": 170,
                 "team2Score": 61,
-                "generations": 1773,
-                "isPlayoffs": true
+                "generations": 1773
             }
         ],
         [
@@ -1450,8 +1420,7 @@
                 },
                 "team1Score": 201,
                 "team2Score": 94,
-                "generations": 2668,
-                "isPlayoffs": true
+                "generations": 2668
             }
         ],
         [
@@ -1497,8 +1466,7 @@
                 },
                 "team1Score": 157,
                 "team2Score": 27,
-                "generations": 1425,
-                "isPlayoffs": true
+                "generations": 1425
             }
         ]
     ]
