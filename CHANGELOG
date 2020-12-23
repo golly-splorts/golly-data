@@ -1,8 +1,9 @@
 Version 3.0
 
 * Data set in use for Season 3
-* Expanded verification script
+* Expanded validation script
 * Fixed a bug in all postseason data where "season" field was always 0
+* Added a new version of Season 3 with modified Rule 6.2
 
 Version 2.0
 
