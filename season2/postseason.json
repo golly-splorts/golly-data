@@ -42,9 +42,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 7,
-                "team2Score": 9,
-                "generations": 103
+                "team1Score": 126,
+                "team2Score": 57,
+                "generations": 672
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -87,9 +87,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 6,
-                "team2Score": 4,
-                "generations": 101
+                "team1Score": 3,
+                "team2Score": 207,
+                "generations": 1018
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -132,9 +132,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 2,
-                "team2Score": 4,
-                "generations": 108
+                "team1Score": 103,
+                "team2Score": 6,
+                "generations": 1252
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -177,9 +177,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 1,
-                "team2Score": 4,
-                "generations": 108
+                "team1Score": 247,
+                "team2Score": 6,
+                "generations": 1662
             }
         ],
         [
@@ -224,9 +224,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 4,
-                "team2Score": 2,
-                "generations": 107
+                "team1Score": 158,
+                "team2Score": 101,
+                "generations": 827
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -269,9 +269,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 2,
-                "team2Score": 5,
-                "generations": 108
+                "team1Score": 152,
+                "team2Score": 141,
+                "generations": 1583
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -314,9 +314,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 9,
-                "team2Score": 7,
-                "generations": 101
+                "team1Score": 93,
+                "team2Score": 19,
+                "generations": 1416
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -359,9 +359,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 3,
-                "team2Score": 2,
-                "generations": 106
+                "team1Score": 209,
+                "team2Score": 3,
+                "generations": 1381
             }
         ],
         [
@@ -406,9 +406,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 2,
-                "team2Score": 5,
-                "generations": 101
+                "team1Score": 144,
+                "team2Score": 132,
+                "generations": 1491
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -451,9 +451,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 1,
-                "team2Score": 3,
-                "generations": 102
+                "team1Score": 134,
+                "team2Score": 30,
+                "generations": 577
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -496,9 +496,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 2,
-                "team2Score": 6,
-                "generations": 101
+                "team1Score": 245,
+                "team2Score": 53,
+                "generations": 2507
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -541,9 +541,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 6,
-                "team2Score": 7,
-                "generations": 109
+                "team1Score": 96,
+                "team2Score": 61,
+                "generations": 821
             }
         ],
         [
@@ -588,9 +588,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 4,
-                "team2Score": 3,
-                "generations": 105
+                "team1Score": 218,
+                "team2Score": 176,
+                "generations": 2576
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -633,9 +633,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 5,
-                "team2Score": 8,
-                "generations": 109
+                "team1Score": 111,
+                "team2Score": 60,
+                "generations": 983
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -678,9 +678,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 6,
-                "team2Score": 9,
-                "generations": 103
+                "team1Score": 170,
+                "team2Score": 152,
+                "generations": 2780
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -723,9 +723,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 8,
-                "team2Score": 5,
-                "generations": 103
+                "team1Score": 538,
+                "team2Score": 0,
+                "generations": 1231
             }
         ],
         [
@@ -770,9 +770,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 7,
+                "team1Score": 431,
                 "team2Score": 3,
-                "generations": 102
+                "generations": 2107
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -815,9 +815,54 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 3,
-                "team2Score": 8,
-                "generations": 109
+                "team1Score": 76,
+                "team2Score": 3,
+                "generations": 854
+            },
+            {
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Orlando Business Majors",
+                "team1Color": "#9963ab",
+                "team2Color": "#0dab76",
+                "league": "Hot League",
+                "day": 53,
+                "season": 2,
+                "id": "a6fbbf8f-0596-4e43-bbee-c8490a195c67",
+                "description": "Game 5, Hot League Division Series 1",
+                "isPostseason": true,
+                "team1PostseasonWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "map": {
+                    "patternName": "twomultum",
+                    "mapName": "Underground Cave Complex",
+                    "mapZone1Name": "Haunted Cave",
+                    "mapZone2Name": "Rainbow Cave",
+                    "mapZone3Name": "Spider Cave",
+                    "mapZone4Name": "Underwater Cave",
+                    "initialConditions1": "[{\"64\":[67,68,69]},{\"65\":[66,69]},{\"66\":[65]},{\"67\":[64]}]",
+                    "initialConditions2": "[{\"29\":[54]},{\"30\":[55]},{\"31\":[56,59]},{\"32\":[57,58,59]}]",
+                    "url": "?s1=[{\"64\":[67,68,69]},{\"65\":[66,69]},{\"66\":[65]},{\"67\":[64]}]&s2=[{\"29\":[54]},{\"30\":[55]},{\"31\":[56,59]},{\"32\":[57,58,59]}]",
+                    "rows": 100,
+                    "columns": 120,
+                    "cellSize": 7
+                },
+                "team1Score": 148,
+                "team2Score": 28,
+                "generations": 1769
             }
         ]
     ],
@@ -825,9 +870,9 @@
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#f08700",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "league": "Cold League",
                 "day": 54,
                 "season": 2,
@@ -864,15 +909,15 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 8,
-                "team2Score": 6,
-                "generations": 107
+                "team1Score": 56,
+                "team2Score": 142,
+                "generations": 2652
             },
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Atlanta Glitter Sharks",
+                "team2Name": "San Francisco Boat Shoes",
                 "team1Color": "#9963ab",
-                "team2Color": "#697a21",
+                "team2Color": "#e7d7c1",
                 "league": "Hot League",
                 "day": 54,
                 "season": 2,
@@ -910,16 +955,16 @@
                     "cellSize": 7
                 },
                 "team1Score": 4,
-                "team2Score": 5,
-                "generations": 102
+                "team2Score": 69,
+                "generations": 813
             }
         ],
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#f08700",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "league": "Cold League",
                 "day": 55,
                 "season": 2,
@@ -956,15 +1001,15 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 4,
-                "team2Score": 8,
-                "generations": 106
+                "team1Score": 46,
+                "team2Score": 6,
+                "generations": 698
             },
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Atlanta Glitter Sharks",
+                "team2Name": "San Francisco Boat Shoes",
                 "team1Color": "#9963ab",
-                "team2Color": "#697a21",
+                "team2Color": "#e7d7c1",
                 "league": "Hot League",
                 "day": 55,
                 "season": 2,
@@ -1001,16 +1046,16 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 5,
-                "team2Score": 3,
-                "generations": 102
+                "team1Score": 213,
+                "team2Score": 69,
+                "generations": 1744
             }
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
+                "team1Name": "Elko Astronauts",
                 "team2Name": "San Diego Balloon Animals",
-                "team1Color": "#f2c57c",
+                "team1Color": "#a0e7e5",
                 "team2Color": "#f08700",
                 "league": "Cold League",
                 "day": 56,
@@ -1048,14 +1093,14 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 7,
-                "team2Score": 5,
-                "generations": 109
+                "team1Score": 161,
+                "team2Score": 22,
+                "generations": 1250
             },
             {
-                "team1Name": "Atlanta Glitter Sharks",
+                "team1Name": "San Francisco Boat Shoes",
                 "team2Name": "Detroit Grape Chews",
-                "team1Color": "#697a21",
+                "team1Color": "#e7d7c1",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
                 "day": 56,
@@ -1093,16 +1138,16 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 6,
-                "team2Score": 7,
-                "generations": 104
+                "team1Score": 206,
+                "team2Score": 12,
+                "generations": 1843
             }
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
+                "team1Name": "Elko Astronauts",
                 "team2Name": "San Diego Balloon Animals",
-                "team1Color": "#f2c57c",
+                "team1Color": "#a0e7e5",
                 "team2Color": "#f08700",
                 "league": "Cold League",
                 "day": 57,
@@ -1140,14 +1185,14 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 1,
-                "team2Score": 7,
-                "generations": 104
+                "team1Score": 64,
+                "team2Score": 39,
+                "generations": 1086
             },
             {
-                "team1Name": "Atlanta Glitter Sharks",
+                "team1Name": "San Francisco Boat Shoes",
                 "team2Name": "Detroit Grape Chews",
-                "team1Color": "#697a21",
+                "team1Color": "#e7d7c1",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
                 "day": 57,
@@ -1185,17 +1230,17 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 6,
-                "team2Score": 4,
-                "generations": 107
+                "team1Score": 196,
+                "team2Score": 144,
+                "generations": 1296
             }
         ],
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#f08700",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "league": "Cold League",
                 "day": 58,
                 "season": 2,
@@ -1232,15 +1277,15 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 3,
-                "team2Score": 6,
-                "generations": 108
+                "team1Score": 66,
+                "team2Score": 110,
+                "generations": 840
             },
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Atlanta Glitter Sharks",
+                "team2Name": "San Francisco Boat Shoes",
                 "team1Color": "#9963ab",
-                "team2Color": "#697a21",
+                "team2Color": "#e7d7c1",
                 "league": "Hot League",
                 "day": 58,
                 "season": 2,
@@ -1277,9 +1322,9 @@
                     "columns": 120,
                     "cellSize": 7
                 },
-                "team1Score": 5,
-                "team2Score": 1,
-                "generations": 103
+                "team1Score": 335,
+                "team2Score": 39,
+                "generations": 1923
             }
         ]
     ],
@@ -1287,9 +1332,9 @@
         [
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#9963ab",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "day": 59,
                 "season": 2,
                 "id": "275f2e3c-4387-4d35-bc5e-a10d80ed9702",
@@ -1333,9 +1378,9 @@
         [
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#9963ab",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "day": 60,
                 "season": 2,
                 "id": "6cf2f196-1715-4258-89ca-5bdcf70b0e03",
@@ -1378,9 +1423,9 @@
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
+                "team1Name": "Elko Astronauts",
                 "team2Name": "Detroit Grape Chews",
-                "team1Color": "#f2c57c",
+                "team1Color": "#a0e7e5",
                 "team2Color": "#9963ab",
                 "day": 61,
                 "season": 2,
@@ -1424,9 +1469,9 @@
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
+                "team1Name": "Elko Astronauts",
                 "team2Name": "Detroit Grape Chews",
-                "team1Color": "#f2c57c",
+                "team1Color": "#a0e7e5",
                 "team2Color": "#9963ab",
                 "day": 62,
                 "season": 2,
@@ -1470,9 +1515,9 @@
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
+                "team1Name": "Elko Astronauts",
                 "team2Name": "Detroit Grape Chews",
-                "team1Color": "#f2c57c",
+                "team1Color": "#a0e7e5",
                 "team2Color": "#9963ab",
                 "day": 63,
                 "season": 2,
@@ -1517,9 +1562,9 @@
         [
             {
                 "team1Name": "Detroit Grape Chews",
-                "team2Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
                 "team1Color": "#9963ab",
-                "team2Color": "#f2c57c",
+                "team2Color": "#a0e7e5",
                 "day": 64,
                 "season": 2,
                 "id": "a6fbbf8f-0596-4e43-bbee-c8490a195c67",
