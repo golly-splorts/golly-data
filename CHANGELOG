@@ -1,3 +1,10 @@
+Version 4.0
+
+* Data set in use for Season 4
+* Season 4 implements a change in the game backend that leads to different game results
+* Game outcomes from Seasons 1-3 require (slightly different) simulator rules from Seasons 4+
+* Team color for Delaware Corporate Shells was modified from #a0e7e5 (same as Elko Astronauts) to #a0e7e8
+
 Version 3.0
 
 * Data set in use for Season 3
