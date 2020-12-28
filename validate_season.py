@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 3
+NSEASONS = 4
 for iseason in range(NSEASONS):
     seasondir = "season%d"%(iseason)
 
