@@ -152,7 +152,7 @@
             "id": "d840c5e5-ec15-4e93-845d-054b5a238a67",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 0,
@@ -443,7 +443,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 0,
                 1
@@ -840,7 +840,7 @@
             "id": "a0680b5e-3a4c-4a64-9016-7af8d6931cbe",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 1,
@@ -1131,7 +1131,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 2,
                 1
@@ -1420,7 +1420,7 @@
             "id": "ad039119-a080-4c6a-b6cf-dbab504152db",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 1,
@@ -1711,7 +1711,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 3,
                 2
@@ -1892,7 +1892,7 @@
             "id": "02a1ad88-5b12-42f1-a9ce-357d7fdcbbbb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 3,
@@ -2183,7 +2183,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 4,
                 3
@@ -2580,7 +2580,7 @@
             "id": "70ab2796-0953-410a-a049-525d1e5e7863",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 5,
@@ -2871,7 +2871,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 5,
                 4
@@ -3088,7 +3088,7 @@
             "id": "d0e60f01-2bd5-4781-af64-cc5abfd1b128",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 5,
@@ -3379,7 +3379,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 6,
                 5
@@ -3704,7 +3704,7 @@
             "id": "dfd91aca-d896-405b-92e6-932b4eadf8a6",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 6,
@@ -3995,7 +3995,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 5,
                 8
@@ -4320,7 +4320,7 @@
             "id": "3a74e012-f9dc-4be6-9536-057dd2dc5523",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 8,
@@ -4611,7 +4611,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 7,
                 8
@@ -4792,7 +4792,7 @@
             "id": "770e944d-67d8-416e-b597-6a43e16fde91",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 9,
@@ -5083,7 +5083,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 8,
                 9
@@ -5408,7 +5408,7 @@
             "id": "dc6c0932-70ae-4e56-baaf-b4d2ade03e52",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 10,
@@ -5699,7 +5699,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 10,
                 9
@@ -5952,7 +5952,7 @@
             "id": "8d97a240-24fc-4934-9ace-320085e07f7d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 10,
@@ -6243,7 +6243,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 12,
                 9
@@ -6532,7 +6532,7 @@
             "id": "3c01714a-8af7-4d6c-bfd7-57d92ceae83e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 11,
@@ -6823,7 +6823,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 9,
                 14
@@ -7220,7 +7220,7 @@
             "id": "63c1da8a-2074-4fb4-ac4e-7497c9a9d4aa",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 11,
@@ -7511,7 +7511,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 10,
                 15
@@ -7728,7 +7728,7 @@
             "id": "d0d67124-03cb-4709-ae77-837289584364",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 12,
@@ -8019,7 +8019,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 11,
                 16
@@ -8273,7 +8273,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 11
@@ -8562,7 +8562,7 @@
             "id": "b16dd0a8-cf9a-49f5-9a00-d201429ca88d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 14,
@@ -8888,7 +8888,7 @@
             "id": "d25cb5e1-ec1e-444a-aec7-f9f38df27776",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 15,
@@ -9179,7 +9179,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 14
@@ -9468,7 +9468,7 @@
             "id": "633ad0b2-b641-4023-8068-8c33f2599534",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 16,
@@ -9759,7 +9759,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 18,
                 15
@@ -10049,7 +10049,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 12,
                 22
@@ -10338,7 +10338,7 @@
             "id": "1105218c-23b0-43e5-95cc-10079db5d64e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
                 18,
@@ -10629,7 +10629,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 19,
                 17
@@ -10918,7 +10918,7 @@
             "id": "042253bf-1e62-4c96-ba4f-0c5383775319",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 19,
@@ -11173,7 +11173,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 22,
                 16
@@ -11462,7 +11462,7 @@
             "id": "bcb8b751-3f1a-4eb9-930e-a14b1a6256cb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 19,
@@ -11753,7 +11753,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 21,
                 19
@@ -12042,7 +12042,7 @@
             "id": "766909b5-503c-4b2d-98b3-0cb39497ab4d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 20,
@@ -12332,7 +12332,7 @@
             "id": "15a765a4-5cae-42cc-8600-c4b0c02316bd",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 21,
@@ -12623,7 +12623,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 25,
                 18
@@ -12949,7 +12949,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 22,
                 22
@@ -13238,7 +13238,7 @@
             "id": "af896fa9-33ad-4d53-9cd3-4abcb5e57f77",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 21,
@@ -13528,7 +13528,7 @@
             "id": "5da68e25-468c-42f4-ad26-c04d061ba197",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 21,
@@ -13819,7 +13819,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 27,
                 20
@@ -14181,7 +14181,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 28,
                 20
