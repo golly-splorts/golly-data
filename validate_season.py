@@ -7,10 +7,18 @@ for iseason in range(NSEASONS):
     seasondir = "season%d"%(iseason)
 
 
+
+
     #####################
     # load team data
 
     teamsfile = os.path.join(seasondir, 'teams.json')
+
+    print("***************************")
+    print(f"Now checking {teamsfile}")
+
+    if not os.path.exists(teamsfile):
+        raise Exception(f"Error: missing file: {teamsfile}")
 
     with open(teamsfile, 'r') as f:
         teams = json.load(f)
@@ -155,6 +163,9 @@ for iseason in range(NSEASONS):
     print("***************************")
     print(f"Now checking {schedfile}")
 
+    if not os.path.exists(schedfile):
+        raise Exception(f"Error: missing file: {schedfile}")
+
     with open(schedfile, 'r') as f:
         sched = json.load(f)
 
@@ -190,6 +201,9 @@ for iseason in range(NSEASONS):
 
     print("***************************")
     print(f"Now checking {seasonfile}")
+
+    if not os.path.exists(seasonfile):
+        raise Exception(f"Error: missing file: {seasonfile}")
 
     with open(seasonfile, 'r') as f:
         season = json.load(f)
@@ -230,6 +244,9 @@ for iseason in range(NSEASONS):
     print("***************************")
     print(f"Now checking {bracketfile}")
 
+    if not os.path.exists(bracketfile):
+        raise Exception(f"Error: missing file: {bracketfile}")
+
     with open(bracketfile, 'r') as f:
         bracket = json.load(f)
 
@@ -258,6 +275,9 @@ for iseason in range(NSEASONS):
 
     print("***************************")
     print(f"Now checking {postseasonfile}")
+
+    if not os.path.exists(postseasonfile):
+        raise Exception(f"Error: missing file: {postseasonfile}")
 
     postseason_team_names = set()
     with open(postseasonfile, 'r') as f:
