@@ -34,7 +34,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -131,7 +131,7 @@
             "id": "7b6800c5-9574-44a0-8b39-9f65c812744d",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -206,7 +206,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -303,7 +303,7 @@
             "id": "5cb07d40-bda2-4076-aa28-afe981ebda72",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -426,7 +426,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -523,7 +523,7 @@
             "id": "c9d462c2-f72b-4841-a984-ec8fd6c76913",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -610,7 +610,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -707,7 +707,7 @@
             "id": "10f26af1-604c-4295-8c25-27ee2d173ed1",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -903,7 +903,7 @@
             "id": "82ecfb9e-6d8f-46bd-ac53-4ab47f930df6",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1014,7 +1014,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1111,7 +1111,7 @@
             "id": "c2e84c77-ea16-42f9-a19c-da6a5b9761ce",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1222,7 +1222,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1319,7 +1319,7 @@
             "id": "e20a652a-d2cc-47ca-9497-f7a1afdc4a91",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -1418,7 +1418,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1515,7 +1515,7 @@
             "id": "5611bae6-a90f-405b-a9c5-9171e28cc51b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1578,7 +1578,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1675,7 +1675,7 @@
             "id": "0cc82cf6-b52d-4eb6-bb46-6c4dcee1486b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -1810,7 +1810,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1907,7 +1907,7 @@
             "id": "85ed3c03-ff43-45cb-860c-95ee3a4cd1db",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1982,7 +1982,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2079,7 +2079,7 @@
             "id": "e9767c7f-a00a-4393-9eb2-cb3bc85a8912",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -2202,7 +2202,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2299,7 +2299,7 @@
             "id": "aaef1684-fd69-42f8-9e13-0c66d59dcca9",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -2374,7 +2374,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2471,7 +2471,7 @@
             "id": "d452fa27-fe64-4a79-8832-f71b8d344e97",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -2594,7 +2594,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2691,7 +2691,7 @@
             "id": "746626f1-954c-446a-ae18-6ba44df5e7cc",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -2790,7 +2790,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2887,7 +2887,7 @@
             "id": "b75af1a2-54cf-4ba5-8503-b8c602a81f98",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -2986,7 +2986,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3083,7 +3083,7 @@
             "id": "829af671-956c-4e4e-ac57-aecc98350027",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e"
         },
         {
@@ -3181,7 +3181,7 @@
             "id": "e82a485d-9ca2-4631-aaef-f87c640ae2b0",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3280,7 +3280,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3377,7 +3377,7 @@
             "id": "9f11a769-7c86-4364-be21-aa6a5de16d79",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e"
         },
         {
@@ -3476,7 +3476,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3573,7 +3573,7 @@
             "id": "2d511643-6faf-4461-ac84-b2318e7f8a51",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3672,7 +3672,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3757,7 +3757,7 @@
             "id": "de40618b-3608-4764-ad0d-6edaed6b7af9",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3856,7 +3856,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3954,7 +3954,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -4051,7 +4051,7 @@
             "id": "c330c143-991f-449e-9d7b-67646911898f",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -4149,7 +4149,7 @@
             "id": "225f0755-d803-4245-9708-479f4c5caf2c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -4248,7 +4248,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -4345,7 +4345,7 @@
             "id": "6df77ab5-ee6d-43c5-ae3c-c2abcfd35060",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -4444,7 +4444,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4554,7 +4554,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4651,7 +4651,7 @@
             "id": "a45917a4-cc73-4735-ae56-409188511a49",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e"
         },
         {
@@ -4750,7 +4750,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Sacramento Boot Lickers",

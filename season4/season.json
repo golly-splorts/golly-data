@@ -81,7 +81,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 0,
                 0
@@ -370,7 +370,7 @@
             "id": "7b6800c5-9574-44a0-8b39-9f65c812744d",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 1,
@@ -589,7 +589,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 2,
                 0
@@ -878,7 +878,7 @@
             "id": "5cb07d40-bda2-4076-aa28-afe981ebda72",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 2,
@@ -1241,7 +1241,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 4,
                 0
@@ -1530,7 +1530,7 @@
             "id": "c9d462c2-f72b-4841-a984-ec8fd6c76913",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 4,
@@ -1785,7 +1785,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 4,
                 2
@@ -2074,7 +2074,7 @@
             "id": "10f26af1-604c-4295-8c25-27ee2d173ed1",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 4,
@@ -2365,7 +2365,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 5,
                 3
@@ -2654,7 +2654,7 @@
             "id": "82ecfb9e-6d8f-46bd-ac53-4ab47f930df6",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 5,
@@ -2981,7 +2981,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 6,
                 4
@@ -3270,7 +3270,7 @@
             "id": "c2e84c77-ea16-42f9-a19c-da6a5b9761ce",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 6,
@@ -3597,7 +3597,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 8,
                 4
@@ -3886,7 +3886,7 @@
             "id": "e20a652a-d2cc-47ca-9497-f7a1afdc4a91",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 8,
@@ -4177,7 +4177,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 8,
                 6
@@ -4466,7 +4466,7 @@
             "id": "5611bae6-a90f-405b-a9c5-9171e28cc51b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 9,
@@ -4649,7 +4649,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 6,
                 10
@@ -4938,7 +4938,7 @@
             "id": "0cc82cf6-b52d-4eb6-bb46-6c4dcee1486b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 10,
@@ -5337,7 +5337,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 10,
                 8
@@ -5626,7 +5626,7 @@
             "id": "85ed3c03-ff43-45cb-860c-95ee3a4cd1db",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 11,
@@ -5845,7 +5845,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 11,
                 9
@@ -6134,7 +6134,7 @@
             "id": "e9767c7f-a00a-4393-9eb2-cb3bc85a8912",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 12,
@@ -6497,7 +6497,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 10,
                 12
@@ -6786,7 +6786,7 @@
             "id": "aaef1684-fd69-42f8-9e13-0c66d59dcca9",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 13,
@@ -7005,7 +7005,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 14,
                 10
@@ -7294,7 +7294,7 @@
             "id": "d452fa27-fe64-4a79-8832-f71b8d344e97",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 13,
@@ -7657,7 +7657,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 14,
                 12
@@ -7946,7 +7946,7 @@
             "id": "746626f1-954c-446a-ae18-6ba44df5e7cc",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 14,
@@ -8237,7 +8237,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 10,
                 18
@@ -8526,7 +8526,7 @@
             "id": "b75af1a2-54cf-4ba5-8503-b8c602a81f98",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 16,
@@ -8817,7 +8817,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 19,
                 11
@@ -9106,7 +9106,7 @@
             "id": "829af671-956c-4e4e-ac57-aecc98350027",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e",
             "team1WinLoss": [
                 18,
@@ -9396,7 +9396,7 @@
             "id": "e82a485d-9ca2-4631-aaef-f87c640ae2b0",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 18,
@@ -9687,7 +9687,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 14,
                 19
@@ -9976,7 +9976,7 @@
             "id": "9f11a769-7c86-4364-be21-aa6a5de16d79",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e",
             "team1WinLoss": [
                 20,
@@ -10267,7 +10267,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 20,
                 15
@@ -10556,7 +10556,7 @@
             "id": "2d511643-6faf-4461-ac84-b2318e7f8a51",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 22,
@@ -10847,7 +10847,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 16,
                 21
@@ -11100,7 +11100,7 @@
             "id": "de40618b-3608-4764-ad0d-6edaed6b7af9",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 23,
@@ -11391,7 +11391,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 17,
                 22
@@ -11681,7 +11681,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 15,
                 25
@@ -11970,7 +11970,7 @@
             "id": "c330c143-991f-449e-9d7b-67646911898f",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 25,
@@ -12260,7 +12260,7 @@
             "id": "225f0755-d803-4245-9708-479f4c5caf2c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 25,
@@ -12551,7 +12551,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 18,
                 25
@@ -12840,7 +12840,7 @@
             "id": "6df77ab5-ee6d-43c5-ae3c-c2abcfd35060",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 25,
@@ -13131,7 +13131,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 18,
                 27
@@ -13457,7 +13457,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 26,
                 20
@@ -13746,7 +13746,7 @@
             "id": "a45917a4-cc73-4735-ae56-409188511a49",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e",
             "team1WinLoss": [
                 27,
@@ -14037,7 +14037,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 20,
                 28

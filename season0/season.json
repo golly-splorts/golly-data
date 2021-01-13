@@ -116,7 +116,7 @@
             "id": "ebef9dfd-6e63-46f3-beaf-acba56f359af",
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 0,
                 0
@@ -405,7 +405,7 @@
             "day": 1,
             "id": "b548912d-2a7c-493b-a7fc-b2247897624a",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 0,
@@ -695,7 +695,7 @@
             "day": 2,
             "id": "af07dd7e-2ced-4127-8c44-a67733cb5a95",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 0,
@@ -986,7 +986,7 @@
             "id": "a6606ea0-1adf-4252-b8ed-54d529d7379c",
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 1,
                 2
@@ -1168,7 +1168,7 @@
             "id": "8ce6ea23-aaa1-47a3-be47-8b65a896700d",
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 2,
                 2
@@ -1457,7 +1457,7 @@
             "day": 5,
             "id": "24e84f7c-76a4-4894-a730-3dbfea66b72e",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 1,
@@ -1784,7 +1784,7 @@
             "id": "aaf7a264-0933-44ad-ad5a-801f49f3dfe9",
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 3,
                 3
@@ -2073,7 +2073,7 @@
             "day": 7,
             "id": "b17aa94a-226d-4345-a8d0-f4f141b7871b",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 2,
@@ -2435,7 +2435,7 @@
             "day": 8,
             "id": "f15f499c-943e-4a03-9082-1294cf40ead4",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 3,
@@ -2726,7 +2726,7 @@
             "id": "5f203e80-194a-4805-85d1-3b6b89df0a72",
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 4,
                 5
@@ -3015,7 +3015,7 @@
             "day": 10,
             "id": "db6d1c35-152a-403f-8e58-bf8decb1d3e1",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 5,
@@ -3306,7 +3306,7 @@
             "id": "c52ceaa0-6df5-4e69-af41-c66a95b8f415",
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 6,
                 5
@@ -3595,7 +3595,7 @@
             "day": 12,
             "id": "55354f1b-2527-479b-8229-65d5fc767df9",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 6,
@@ -3886,7 +3886,7 @@
             "id": "44f063c6-9ec7-45ca-8ea9-f97bf86a5802",
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 5,
                 8
@@ -4175,7 +4175,7 @@
             "day": 14,
             "id": "f708ab2d-fa46-4965-a695-0b2ef19d38a6",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 7,
@@ -4466,7 +4466,7 @@
             "id": "e47f772c-a4fd-48c6-bb41-e5d121e9f502",
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 7,
                 8
@@ -4755,7 +4755,7 @@
             "day": 16,
             "id": "8e0011c2-a6c3-41b7-b63c-18e93347b457",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 7,
@@ -5046,7 +5046,7 @@
             "id": "55973ce9-c170-4e52-ac3f-96e341c44f7b",
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 11,
                 6
@@ -5300,7 +5300,7 @@
             "id": "837ee074-ea23-43e5-805c-fb66052bfa60",
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 11,
                 7
@@ -5589,7 +5589,7 @@
             "day": 19,
             "id": "60085684-7c01-4543-bc5d-6dc593d42d8e",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 9,
@@ -5915,7 +5915,7 @@
             "day": 20,
             "id": "2a65279c-258a-47f7-ab36-78d4529cfc9d",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 10,
@@ -6206,7 +6206,7 @@
             "id": "45cb80b7-5d0a-4a3f-9fdd-323db392bc30",
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 10,
                 11
@@ -6495,7 +6495,7 @@
             "day": 22,
             "id": "a5629c3b-1dee-4856-ab06-5ec21f5b1b03",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 11,
@@ -6786,7 +6786,7 @@
             "id": "0606d3a5-7d1f-4eea-b334-ee94d4cd21a6",
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 14,
                 9
@@ -7040,7 +7040,7 @@
             "id": "34c1b366-8464-4fb0-9db7-a24ebd72a91a",
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 14,
                 10
@@ -7329,7 +7329,7 @@
             "day": 25,
             "id": "9d177a01-2c49-4d34-b0cf-c38032bcb1f8",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215",
             "team1WinLoss": [
                 13,
@@ -7655,7 +7655,7 @@
             "day": 26,
             "id": "af07cd24-764d-4450-922f-3142024dcfea",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 14,
@@ -7946,7 +7946,7 @@
             "id": "132b3e6a-ad2b-482a-bf19-3d68b2517b58",
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 12,
                 15
@@ -8163,7 +8163,7 @@
             "day": 28,
             "id": "34a21fa7-1739-4c36-a0c9-28c17c204ebf",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 15,
@@ -8454,7 +8454,7 @@
             "id": "1bfcfd96-9296-4aa3-83a6-5aeda584798c",
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 13,
                 16
@@ -8707,7 +8707,7 @@
             "day": 30,
             "id": "43ab3b53-666e-49ac-8910-95e4843e7f21",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 16,
@@ -8998,7 +8998,7 @@
             "id": "f380e149-13cc-4ad0-af20-8b7940344a7b",
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 15,
                 16
@@ -9323,7 +9323,7 @@
             "day": 32,
             "id": "ea8513a3-4c37-4ecb-8c91-fb3abae8ad16",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 17,
@@ -9614,7 +9614,7 @@
             "id": "1a48c0cf-bf4f-463d-813d-a1969f0fb35d",
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 15,
                 18
@@ -9868,7 +9868,7 @@
             "id": "96fbbe96-1f06-4066-a1db-7e3a81c08843",
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 16,
                 18
@@ -10157,7 +10157,7 @@
             "day": 35,
             "id": "d101c919-9721-45fe-89b2-22189d9f61e2",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e",
             "team1WinLoss": [
                 18,
@@ -10447,7 +10447,7 @@
             "day": 36,
             "id": "766d6a6e-b7f3-4453-a6c0-868c14737226",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 19,
@@ -10738,7 +10738,7 @@
             "id": "859806f8-4dc8-4e1a-807b-63aa8d582551",
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 19,
                 18
@@ -11063,7 +11063,7 @@
             "day": 38,
             "id": "a4627369-1a05-4aeb-9384-0353a51cfd58",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 20,
@@ -11354,7 +11354,7 @@
             "id": "e5b90d63-d4f8-4ed5-b1d7-ede984eb15a6",
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 20,
                 19
@@ -11644,7 +11644,7 @@
             "id": "202ba7ae-d781-4e1c-afc2-afd5ea613c1e",
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 19,
                 21
@@ -11933,7 +11933,7 @@
             "day": 41,
             "id": "cc779e63-ab85-43b2-a03a-bc8a48642d5c",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 21,
@@ -12223,7 +12223,7 @@
             "day": 42,
             "id": "ad9e12f0-76b6-4d05-a4d5-6eb1d6d3eede",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700",
             "team1WinLoss": [
                 21,
@@ -12514,7 +12514,7 @@
             "id": "b0360c92-e6ca-4e29-b2ba-6e8433bceb49",
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 23,
                 20
@@ -12768,7 +12768,7 @@
             "id": "6993a460-09ee-4fec-a141-5da0e7d73bed",
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 22,
                 22
@@ -13057,7 +13057,7 @@
             "day": 45,
             "id": "b3829294-605c-434a-992d-f081aafbc61f",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 22,
@@ -13348,7 +13348,7 @@
             "id": "1ff5c79a-7728-4f98-b583-a7cd7cff4231",
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 23,
                 23
@@ -13637,7 +13637,7 @@
             "day": 47,
             "id": "d2f78e54-16c2-4d84-8bcd-451622412497",
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 23,
@@ -14036,7 +14036,7 @@
             "id": "50a4a1b8-23ce-4039-bc56-51ba78661e4b",
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000",
+            "team2Color": "#BB0000",
             "team1WinLoss": [
                 23,
                 25
