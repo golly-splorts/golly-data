@@ -1203,7 +1203,7 @@
                 "day": 59,
                 "season": 4,
                 "id": "ce6e61d2-4987-4e8e-8767-7dd3653eb88d",
-                "description": "Game 1, World Series",
+                "description": "Game 1, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     6,
@@ -1249,7 +1249,7 @@
                 "day": 60,
                 "season": 4,
                 "id": "85c60713-274f-4923-845a-894281204dcc",
-                "description": "Game 2, World Series",
+                "description": "Game 2, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     6,
@@ -1295,7 +1295,7 @@
                 "day": 61,
                 "season": 4,
                 "id": "edcd407d-ef65-44dc-84fa-a898b75183b3",
-                "description": "Game 3, World Series",
+                "description": "Game 3, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     8,
@@ -1341,7 +1341,7 @@
                 "day": 62,
                 "season": 4,
                 "id": "9242f42f-6021-42b3-bb0e-f528605a0424",
-                "description": "Game 4, World Series",
+                "description": "Game 4, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     8,
@@ -1387,7 +1387,7 @@
                 "day": 63,
                 "season": 4,
                 "id": "254242c4-6272-483b-8819-bda3fb62de7d",
-                "description": "Game 5, World Series",
+                "description": "Game 5, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     8,
@@ -1433,7 +1433,7 @@
                 "day": 64,
                 "season": 4,
                 "id": "89943bcb-194f-4fbd-8267-92ce704ef221",
-                "description": "Game 6, World Series",
+                "description": "Game 6, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     9,
