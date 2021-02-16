@@ -21,8 +21,16 @@ for iseason in range(NSEASONS):
 
     teamsfile = os.path.join(seasondir, "teams.json")
 
+    print("***************************")
+    print(f"Now checking {teamsfile}")
+
+    if not os.path.exists(teamsfile):
+        raise Exception(f"Error: missing file: {teamsfile}")
+
     with open(teamsfile, "r") as f:
         teams = json.load(f)
+
+    teams_team_names = sorted([j["teamName"] for j in teams])
 
     # -----------
     # team function defs
@@ -197,6 +205,9 @@ for iseason in range(NSEASONS):
     print("***************************")
     print(f"Now checking {schedfile}")
 
+    if not os.path.exists(schedfile):
+        raise Exception(f"Error: missing file: {schedfile}")
+
     with open(schedfile, "r") as f:
         sched = json.load(f)
 
@@ -217,10 +228,20 @@ for iseason in range(NSEASONS):
             sched_team_names.add(t1)
             sched_team_names.add(t2)
 
+    # schedule.json and teams.json must have the same number of teams
     if len(sched_team_names) != len(teams):
         raise Exception(
             f"Error: number of teams found in schedule was {len(sched_team_names)}, number of teams is {len(teams)}"
         )
+
+    # schedule.json and teams.json must have exactly the same team names
+    diff1 = set(sched_team_names) - set(teams_team_names)
+    diff2 = set(teams_team_names) - set(sched_team_names)
+    if len(diff1) > 0 or len(diff2) > 0:
+        err = "Error: mismatch in teams.json and schedule.json team names:\n"
+        err += f"schedule.json team names: {', '.join(sched_team_names)}\n"
+        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        raise Exception(err)
 
     for team in teams:
         if team["teamName"] not in sched_team_names:
@@ -235,6 +256,9 @@ for iseason in range(NSEASONS):
 
     print("***************************")
     print(f"Now checking {seasonfile}")
+
+    if not os.path.exists(seasonfile):
+        raise Exception(f"Error: missing file: {seasonfile}")
 
     with open(seasonfile, "r") as f:
         season = json.load(f)
@@ -260,10 +284,20 @@ for iseason in range(NSEASONS):
             season_team_names.add(t1)
             season_team_names.add(t2)
 
+    # season.json and teams.json must have the same number of teams
     if len(season_team_names) != len(teams):
         raise Exception(
             f"Error: number of teams found in season was {len(season_team_names)}, number of teams is {len(teams)}"
         )
+
+    # season.json and teams.json must have exactly the same team names
+    diff1 = set(season_team_names) - set(teams_team_names)
+    diff2 = set(teams_team_names) - set(season_team_names)
+    if len(diff1) > 0 or len(diff2) > 0:
+        err = "Error: mismatch in teams.json and season.json team names:\n"
+        err += f"season.json team names: {', '.join(season_team_names)}\n"
+        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        raise Exception(err)
 
     for team in teams:
         if team["teamName"] not in season_team_names:
@@ -272,19 +306,62 @@ for iseason in range(NSEASONS):
             )
 
     # -----------
+    # seed
+    seedfile = os.path.join(seasondir, "seed.json")
+
+    print("***************************")
+    print(f"Now checking {seedfile}")
+
+    if not os.path.exists(seedfile):
+        raise Exception(f"Error: missing file: {seedfile}")
+
+    with open(seedfile, "r") as f:
+        seed = json.load(f)
+
+    seed_team_names = set()
+    for league in seed:
+        seed_list = seed[league]
+        if len(seed_list) != 4:
+            raise Exception(
+                f"Error: seed list for {league} is {len(seed_list)}, should be 4"
+            )
+        for t in seed_list:
+            seed_team_names.add(t)
+
+    # seed.json must have fewer teams than teams.json
+    if len(seed_team_names) >= len(teams):
+        raise Exception(
+            f"Error: seed.json has too many teams: {len(seed_team_names)} should be <= {len(teams)}"
+        )
+
+    # seed.json teams must be a subset of teams.json teams
+    if not set(seed_team_names).issubset(teams_team_names):
+        err = "Error: mismatch in teams.json and seed.json team names:\n"
+        err += f"seed.json team names: {', '.join(seed_team_names)}\n"
+        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        raise Exception(err)
+
+    # -----------
     # bracket
     bracketfile = os.path.join(seasondir, "bracket.json")
 
     print("***************************")
     print(f"Now checking {bracketfile}")
 
+    if not os.path.exists(bracketfile):
+        raise Exception(f"Error: missing file: {bracketfile}")
+
     with open(bracketfile, "r") as f:
         bracket = json.load(f)
 
+    bracket_team_names = set()
     for series in bracket:
         miniseason = bracket[series]
         for iday, day in enumerate(miniseason):
             check_bracket_day(day, series)
+            for game in day:
+                bracket_team_names.add(game["team1Name"])
+                bracket_team_names.add(game["team2Name"])
 
     # Verify series are the correct lengths
     ldslen = len(bracket["LDS"])
@@ -305,6 +382,23 @@ for iseason in range(NSEASONS):
             f"Error: postseason WS length is invalid: {wslen} games, should be 7"
         )
 
+    # bracket.json must have fewer teams than teams.json
+    if len(bracket_team_names) >= len(teams):
+        raise Exception(
+            f"Error: bracket.json has too many teams: {len(bracket_team_names)} should be <= {len(teams)}"
+        )
+
+    # bracket.json teams must be a subset of teams.json teams
+    ignore_list = ["Top Seed", "Bottom Seed", "Cold League", "Hot League"]
+    ignore_list = set(ignore_list)
+    bracket_team_names = bracket_team_names - ignore_list
+
+    if not set(bracket_team_names).issubset(teams_team_names):
+        err = "Error: mismatch in teams.json and bracket.json team names:\n"
+        err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
+        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        raise Exception(err)
+
     # -----------
     # postseason
 
@@ -312,6 +406,9 @@ for iseason in range(NSEASONS):
 
     print("***************************")
     print(f"Now checking {postseasonfile}")
+
+    if not os.path.exists(postseasonfile):
+        raise Exception(f"Error: missing file: {postseasonfile}")
 
     postseason_team_names = set()
     with open(postseasonfile, "r") as f:
@@ -363,6 +460,21 @@ for iseason in range(NSEASONS):
     wslen = len(postseason["WS"])
     if wslen > 7 or wslen < 4:
         raise Exception(f"Error: postseason WS length is invalid: {wslen} games")
+
+    # postseason.json must have fewer teams than postseason.json
+    if len(postseason_team_names) >= len(teams):
+        raise Exception(
+            f"Error: postseason.json has too many teams: {len(postseason_team_names)} should be <= {len(teams)}"
+        )
+
+    # postseason.json must have same number of teams as bracket.json
+    pbeqlen = len(postseason_team_names) != len(bracket_team_names)
+    pbeq = sorted(list(postseason_team_names)) != sorted(list(bracket_team_names))
+    if pbeqlen or pbeq:
+        err = "Error: mismatch in postseason.json and bracket.json team names:\n"
+        err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
+        err += f"postseason.json team names: {', '.join(postseason_team_names)}\n"
+        raise Exception(err)
 
 
 print("***************************")
