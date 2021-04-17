@@ -911,10 +911,10 @@
         ],
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Ft. Worth Piano Tuners",
-                "team1Abbr": "BTX",
-                "team2Abbr": "FWPT",
+                "team1Name": "Ft. Worth Piano Tuners",
+                "team2Name": "Baltimore Texas",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX",
                 "league": "Cold League",
                 "season": 18,
                 "description": "Game 3, Cold League Championship Series",
@@ -958,10 +958,10 @@
                 ]
             },
             {
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Detroit Grape Chews",
-                "team1Abbr": "AA",
-                "team2Abbr": "DET",
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Alewife Arsonists",
+                "team1Abbr": "DET",
+                "team2Abbr": "AA",
                 "league": "Hot League",
                 "season": 18,
                 "description": "Game 3, Hot League Championship Series",
@@ -984,8 +984,8 @@
                 "team1Score": 32,
                 "team2Score": 153,
                 "generations": 1122,
-                "team1Color": "#ff1717",
-                "team2Color": "#9963ab",
+                "team1Color": "#9963ab",
+                "team2Color": "#ff1717",
                 "day": 56,
                 "team1PostseasonWinLoss": [
                     5,
@@ -1007,10 +1007,10 @@
         ],
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Ft. Worth Piano Tuners",
-                "team1Abbr": "BTX",
-                "team2Abbr": "FWPT",
+                "team1Name": "Ft. Worth Piano Tuners",
+                "team2Name": "Baltimore Texas",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX",
                 "league": "Cold League",
                 "season": 18,
                 "description": "Game 4, Cold League Championship Series",
@@ -1033,8 +1033,8 @@
                 "team1Score": 212,
                 "team2Score": 99,
                 "generations": 1558,
-                "team1Color": "#3e92cc",
-                "team2Color": "#ef6f6c",
+                "team1Color": "#ef6f6c",
+                "team2Color": "#3e92cc",
                 "day": 57,
                 "team1PostseasonWinLoss": [
                     4,
@@ -1054,10 +1054,10 @@
                 ]
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Alewife Arsonists",
-                "team1Abbr": "DET",
-                "team2Abbr": "AA",
+                "team1Name": "Alewife Arsonists",
+                "team2Name": "Detroit Grape Chews",
+                "team1Abbr": "AA",
+                "team2Abbr": "DET",
                 "league": "Hot League",
                 "season": 18,
                 "description": "Game 4, Hot League Championship Series",
@@ -1080,22 +1080,22 @@
                 "team1Score": 151,
                 "team2Score": 174,
                 "generations": 1218,
-                "team1Color": "#9963ab",
-                "team2Color": "#ff1717",
+                "team1Color": "#ff1717",
+                "team2Color": "#9963ab",
                 "day": 57,
-                "team1PostseasonWinLoss": [
+                "team2PostseasonWinLoss": [
                     5,
                     1
                 ],
-                "team2PostseasonWinLoss": [
+                "team1PostseasonWinLoss": [
                     4,
                     2
                 ],
-                "team1SeriesWinLoss": [
+                "team2SeriesWinLoss": [
                     2,
                     1
                 ],
-                "team2SeriesWinLoss": [
+                "team1SeriesWinLoss": [
                     1,
                     2
                 ]
@@ -1103,10 +1103,10 @@
         ],
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Baltimore Texas",
-                "team1Abbr": "FWPT",
-                "team2Abbr": "BTX",
+                "team1Name": "Baltimore Texas",
+                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT",
                 "league": "Cold League",
                 "season": 18,
                 "description": "Game 5, Cold League Championship Series",
@@ -1129,8 +1129,8 @@
                 "team1Score": 112,
                 "team2Score": 231,
                 "generations": 1797,
-                "team1Color": "#ef6f6c",
-                "team2Color": "#3e92cc",
+                "team1Color": "#3e92cc",
+                "team2Color": "#ef6f6c",
                 "day": 58,
                 "team1PostseasonWinLoss": [
                     5,
@@ -1150,10 +1150,10 @@
                 ]
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Alewife Arsonists",
-                "team1Abbr": "DET",
-                "team2Abbr": "AA",
+                "team1Name": "Alewife Arsonists",
+                "team2Name": "Detroit Grape Chews",
+                "team1Abbr": "AA",
+                "team2Abbr": "DET",
                 "league": "Hot League",
                 "season": 18,
                 "description": "Game 5, Hot League Championship Series",
@@ -1176,8 +1176,8 @@
                 "team1Score": 89,
                 "team2Score": 83,
                 "generations": 1354,
-                "team1Color": "#9963ab",
-                "team2Color": "#ff1717",
+                "team1Color": "#ff1717",
+                "team2Color": "#9963ab",
                 "day": 58,
                 "team1PostseasonWinLoss": [
                     5,
