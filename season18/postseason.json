@@ -937,8 +937,8 @@
                 "team1Score": 222,
                 "team2Score": 86,
                 "generations": 1601,
-                "team1Color": "#3e92cc",
-                "team2Color": "#ef6f6c",
+                "team1Color": "#ef6f6c",
+                "team2Color": "#3e92cc",
                 "day": 56,
                 "team1PostseasonWinLoss": [
                     3,
