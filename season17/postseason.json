@@ -52,7 +52,7 @@
                 "league": "Cold League",
                 "season": 17,
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Salt lake Turbulence",
+                "team2Name": "Salt Lake Turbulence",
                 "team1Abbr": "SDBA",
                 "team2Abbr": "SLC",
                 "description": "Game 1, Cold League Division Series 2",
@@ -242,7 +242,7 @@
                 "league": "Cold League",
                 "season": 17,
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Salt lake Turbulence",
+                "team2Name": "Salt Lake Turbulence",
                 "team1Abbr": "SDBA",
                 "team2Abbr": "SLC",
                 "description": "Game 2, Cold League Division Series 2",
@@ -431,7 +431,7 @@
             {
                 "league": "Cold League",
                 "season": 17,
-                "team1Name": "Salt lake Turbulence",
+                "team1Name": "Salt Lake Turbulence",
                 "team2Name": "San Diego Balloon Animals",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SDBA",
@@ -621,7 +621,7 @@
             {
                 "league": "Cold League",
                 "season": 17,
-                "team1Name": "Salt lake Turbulence",
+                "team1Name": "Salt Lake Turbulence",
                 "team2Name": "San Diego Balloon Animals",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SDBA",
@@ -814,7 +814,7 @@
         [
             {
                 "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Salt lake Turbulence",
+                "team2Name": "Salt Lake Turbulence",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -910,7 +910,7 @@
         [
             {
                 "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Salt lake Turbulence",
+                "team2Name": "Salt Lake Turbulence",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -1005,7 +1005,7 @@
         ],
         [
             {
-                "team1Name": "Salt lake Turbulence",
+                "team1Name": "Salt Lake Turbulence",
                 "team2Name": "Long Beach Flightless Birds",
                 "team1Abbr": "SLC",
                 "team2Abbr": "LBFB",
@@ -1101,7 +1101,7 @@
         ],
         [
             {
-                "team1Name": "Salt lake Turbulence",
+                "team1Name": "Salt Lake Turbulence",
                 "team2Name": "Long Beach Flightless Birds",
                 "team1Abbr": "SLC",
                 "team2Abbr": "LBFB",
@@ -1198,7 +1198,7 @@
         [
             {
                 "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Salt lake Turbulence",
+                "team2Name": "Salt Lake Turbulence",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
