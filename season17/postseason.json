@@ -145,7 +145,7 @@
             {
                 "league": "Hot League",
                 "season": 17,
-                "team1Name": "Baltimore Boogers",
+                "team1Name": "Boylston Boogers",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
@@ -335,7 +335,7 @@
             {
                 "league": "Hot League",
                 "season": 17,
-                "team1Name": "Baltimore Boogers",
+                "team1Name": "Boylston Boogers",
                 "team2Name": "Sugar Grove Eavesdroppers",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
@@ -526,7 +526,7 @@
                 "league": "Hot League",
                 "season": 17,
                 "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Baltimore Boogers",
+                "team2Name": "Boylston Boogers",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "description": "Game 3, Hot League Division Series 2",
@@ -716,7 +716,7 @@
                 "league": "Hot League",
                 "season": 17,
                 "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Baltimore Boogers",
+                "team2Name": "Boylston Boogers",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "description": "Game 4, Hot League Division Series 2",
@@ -861,7 +861,7 @@
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Baltimore Boogers",
+                "team2Name": "Boylston Boogers",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -957,7 +957,7 @@
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Baltimore Boogers",
+                "team2Name": "Boylston Boogers",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -1052,7 +1052,7 @@
                 ]
             },
             {
-                "team1Name": "Baltimore Boogers",
+                "team1Name": "Boylston Boogers",
                 "team2Name": "San Francisco Boat Shoes",
                 "team1Abbr": "BB",
                 "team2Abbr": "SFBS",
@@ -1148,7 +1148,7 @@
                 ]
             },
             {
-                "team1Name": "Baltimore Boogers",
+                "team1Name": "Boylston Boogers",
                 "team2Name": "San Francisco Boat Shoes",
                 "team1Abbr": "BB",
                 "team2Abbr": "SFBS",
@@ -1245,7 +1245,7 @@
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Baltimore Boogers",
+                "team2Name": "Boylston Boogers",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "BB",
                 "league": "Hot League",
