@@ -44,7 +44,9 @@
                 },
                 "team1Score": 32,
                 "team2Score": 88,
-                "generations": 1122
+                "generations": 1122,
+                "team1Abbr": "TB",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 157,
                 "team2Score": 148,
-                "generations": 1246
+                "generations": 1246,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 161,
                 "team2Score": 104,
-                "generations": 2456
+                "generations": 2456,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 127,
-                "generations": 2048
+                "generations": 2048,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 39,
                 "team2Score": 141,
-                "generations": 1596
+                "generations": 1596,
+                "team1Abbr": "TB",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 102,
                 "team2Score": 209,
-                "generations": 1893
+                "generations": 1893,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 96,
                 "team2Score": 79,
-                "generations": 1923
+                "generations": 1923,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 126,
                 "team2Score": 173,
-                "generations": 3201
+                "generations": 3201,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 71,
                 "team2Score": 165,
-                "generations": 1016
+                "generations": 1016,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Seattle Sneakers",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 56,
                 "team2Score": 101,
-                "generations": 1641
+                "generations": 1641,
+                "team1Abbr": "SS",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 39,
                 "team2Score": 384,
-                "generations": 1082
+                "generations": 1082,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 103,
                 "team2Score": 122,
-                "generations": 1250
+                "generations": 1250,
+                "team1Abbr": "DECO",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 120,
                 "team2Score": 167,
-                "generations": 1190
+                "generations": 1190,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Seattle Sneakers",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 24,
                 "team2Score": 136,
-                "generations": 1311
+                "generations": 1311,
+                "team1Abbr": "SS",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 15,
                 "team2Score": 268,
-                "generations": 4405
+                "generations": 4405,
+                "team1Abbr": "DECO",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -727,7 +757,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 120,
-                "generations": 1765
+                "generations": 1765,
+                "team1Abbr": "TB",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 21,
                 "team2Score": 110,
-                "generations": 1065
+                "generations": 1065,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO"
             }
         ]
     ],
@@ -821,7 +855,9 @@
                 },
                 "team1Score": 189,
                 "team2Score": 41,
-                "generations": 2000
+                "generations": 2000,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 258,
                 "team2Score": 150,
-                "generations": 2337
+                "generations": 2337,
+                "team1Abbr": "AA",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -913,7 +951,9 @@
                 },
                 "team1Score": 104,
                 "team2Score": 80,
-                "generations": 1032
+                "generations": 1032,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 63,
                 "team2Score": 139,
-                "generations": 1975
+                "generations": 1975,
+                "team1Abbr": "AA",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -1005,7 +1047,9 @@
                 },
                 "team1Score": 55,
                 "team2Score": 96,
-                "generations": 2029
+                "generations": 2029,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Delaware Corporate Shells",
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 263,
                 "team2Score": 55,
-                "generations": 1428
+                "generations": 1428,
+                "team1Abbr": "DECO",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1097,7 +1143,9 @@
                 },
                 "team1Score": 299,
                 "team2Score": 52,
-                "generations": 6906
+                "generations": 6906,
+                "team1Abbr": "DECO",
+                "team2Abbr": "AA"
             }
         ]
     ],
@@ -1145,7 +1193,9 @@
                 },
                 "team1Score": 20,
                 "team2Score": 171,
-                "generations": 1195
+                "generations": 1195,
+                "team1Abbr": "DECO",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1191,7 +1241,9 @@
                 },
                 "team1Score": 158,
                 "team2Score": 156,
-                "generations": 2030
+                "generations": 2030,
+                "team1Abbr": "DECO",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1237,7 +1289,9 @@
                 },
                 "team1Score": 76,
                 "team2Score": 178,
-                "generations": 1835
+                "generations": 1835,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -1283,7 +1337,9 @@
                 },
                 "team1Score": 80,
                 "team2Score": 89,
-                "generations": 1541
+                "generations": 1541,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -1329,7 +1385,9 @@
                 },
                 "team1Score": 34,
                 "team2Score": 317,
-                "generations": 5306
+                "generations": 5306,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "DECO"
             }
         ]
     ]

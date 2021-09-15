@@ -44,7 +44,9 @@
                 },
                 "team1Score": 76,
                 "team2Score": 178,
-                "generations": 1835
+                "generations": 1835,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 89,
                 "team2Score": 209,
-                "generations": 1887
+                "generations": 1887,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 85,
                 "team2Score": 272,
-                "generations": 2241
+                "generations": 2241,
+                "team1Abbr": "SAC",
+                "team2Abbr": "ATL"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 150,
                 "team2Score": 94,
-                "generations": 2889
+                "generations": 2889,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 110,
                 "team2Score": 64,
-                "generations": 1251
+                "generations": 1251,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 197,
                 "team2Score": 141,
-                "generations": 7349
+                "generations": 7349,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 21,
                 "team2Score": 100,
-                "generations": 1332
+                "generations": 1332,
+                "team1Abbr": "SAC",
+                "team2Abbr": "ATL"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 88,
                 "team2Score": 108,
-                "generations": 1161
+                "generations": 1161,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 174,
                 "team2Score": 69,
-                "generations": 1274
+                "generations": 1274,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Seattle Sneakers",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 155,
                 "team2Score": 138,
-                "generations": 1323
+                "generations": 1323,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 67,
                 "team2Score": 253,
-                "generations": 3107
+                "generations": 3107,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 21,
                 "team2Score": 199,
-                "generations": 1700
+                "generations": 1700,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 41,
                 "team2Score": 178,
-                "generations": 1980
+                "generations": 1980,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Seattle Sneakers",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 88,
-                "generations": 1982
+                "generations": 1982,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 49,
                 "team2Score": 176,
-                "generations": 1539
+                "generations": 1539,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 109,
                 "team2Score": 124,
-                "generations": 1062
+                "generations": 1062,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 115,
                 "team2Score": 154,
-                "generations": 1619
+                "generations": 1619,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 248,
                 "team2Score": 100,
-                "generations": 1996
+                "generations": 1996,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -862,7 +898,9 @@
                 },
                 "team1Score": 68,
                 "team2Score": 48,
-                "generations": 1380
+                "generations": 1380,
+                "team1Abbr": "SAC",
+                "team2Abbr": "ATL"
             }
         ]
     ],
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 22,
                 "team2Score": 236,
-                "generations": 2071
+                "generations": 2071,
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -956,7 +996,9 @@
                 },
                 "team1Score": 74,
                 "team2Score": 205,
-                "generations": 2319
+                "generations": 2319,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 84,
                 "team2Score": 189,
-                "generations": 2878
+                "generations": 2878,
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1048,7 +1092,9 @@
                 },
                 "team1Score": 210,
                 "team2Score": 132,
-                "generations": 3064
+                "generations": 3064,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 163,
                 "team2Score": 54,
-                "generations": 1435
+                "generations": 1435,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1140,7 +1188,9 @@
                 },
                 "team1Score": 87,
                 "team2Score": 118,
-                "generations": 1310
+                "generations": 1310,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1187,7 +1237,9 @@
                 },
                 "team1Score": 160,
                 "team2Score": 78,
-                "generations": 1319
+                "generations": 1319,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1234,7 +1286,9 @@
                 },
                 "team1Score": 250,
                 "team2Score": 31,
-                "generations": 2280
+                "generations": 2280,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ]
     ],
@@ -1282,7 +1336,9 @@
                 },
                 "team1Score": 14,
                 "team2Score": 301,
-                "generations": 2496
+                "generations": 2496,
+                "team1Abbr": "SAC",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1328,7 +1384,9 @@
                 },
                 "team1Score": 159,
                 "team2Score": 135,
-                "generations": 1972
+                "generations": 1972,
+                "team1Abbr": "SAC",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1374,7 +1432,9 @@
                 },
                 "team1Score": 59,
                 "team2Score": 127,
-                "generations": 2356
+                "generations": 2356,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1420,7 +1480,9 @@
                 },
                 "team1Score": 131,
                 "team2Score": 109,
-                "generations": 1743
+                "generations": 1743,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1466,7 +1528,9 @@
                 },
                 "team1Score": 36,
                 "team2Score": 317,
-                "generations": 3594
+                "generations": 3594,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1512,7 +1576,9 @@
                 },
                 "team1Score": 185,
                 "team2Score": 133,
-                "generations": 1360
+                "generations": 1360,
+                "team1Abbr": "SAC",
+                "team2Abbr": "LBFB"
             }
         ]
     ]

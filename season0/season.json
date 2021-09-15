@@ -34,7 +34,9 @@
             "team1Score": 171,
             "team2Score": 49,
             "generations": 1106,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -70,7 +72,9 @@
             "team1Score": 138,
             "team2Score": 82,
             "generations": 1405,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -106,7 +110,9 @@
             "team1Score": 330,
             "team2Score": 38,
             "generations": 2076,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -142,7 +148,9 @@
             "team1Score": 174,
             "team2Score": 119,
             "generations": 1141,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -178,7 +186,9 @@
             "team1Score": 104,
             "team2Score": 16,
             "generations": 1868,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -214,7 +224,9 @@
             "team1Score": 164,
             "team2Score": 123,
             "generations": 1305,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -250,7 +262,9 @@
             "team1Score": 133,
             "team2Score": 26,
             "generations": 1089,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -286,7 +300,9 @@
             "team1Score": 99,
             "team2Score": 68,
             "generations": 1052,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -324,7 +340,9 @@
             "team1Score": 111,
             "team2Score": 106,
             "generations": 1221,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -360,7 +378,9 @@
             "team1Score": 162,
             "team2Score": 130,
             "generations": 1881,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -396,7 +416,9 @@
             "team1Score": 299,
             "team2Score": 16,
             "generations": 1334,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -432,7 +454,9 @@
             "team1Score": 85,
             "team2Score": 198,
             "generations": 2823,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -468,7 +492,9 @@
             "team1Score": 108,
             "team2Score": 6,
             "generations": 1309,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -504,7 +530,9 @@
             "team1Score": 238,
             "team2Score": 54,
             "generations": 3047,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -540,7 +568,9 @@
             "team1Score": 198,
             "team2Score": 11,
             "generations": 2007,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -576,7 +606,9 @@
             "team1Score": 181,
             "team2Score": 9,
             "generations": 1510,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -614,7 +646,9 @@
             "team1Score": 163,
             "team2Score": 95,
             "generations": 1001,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -650,7 +684,9 @@
             "team1Score": 84,
             "team2Score": 92,
             "generations": 2533,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -686,7 +722,9 @@
             "team1Score": 116,
             "team2Score": 118,
             "generations": 1648,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -722,7 +760,9 @@
             "team1Score": 191,
             "team2Score": 125,
             "generations": 2512,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -758,7 +798,9 @@
             "team1Score": 230,
             "team2Score": 36,
             "generations": 2763,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -794,7 +836,9 @@
             "team1Score": 115,
             "team2Score": 66,
             "generations": 2405,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -830,7 +874,9 @@
             "team1Score": 126,
             "team2Score": 140,
             "generations": 1570,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -866,7 +912,9 @@
             "team1Score": 235,
             "team2Score": 4,
             "generations": 2621,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -904,7 +952,9 @@
             "team1Score": 219,
             "team2Score": 74,
             "generations": 3580,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -940,7 +990,9 @@
             "team1Score": 167,
             "team2Score": 86,
             "generations": 1234,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -976,7 +1028,9 @@
             "team1Score": 243,
             "team2Score": 72,
             "generations": 2020,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -1012,7 +1066,9 @@
             "team1Score": 229,
             "team2Score": 30,
             "generations": 1436,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1048,7 +1104,9 @@
             "team1Score": 27,
             "team2Score": 102,
             "generations": 1282,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1084,7 +1142,9 @@
             "team1Score": 307,
             "team2Score": 8,
             "generations": 2557,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1120,7 +1180,9 @@
             "team1Score": 103,
             "team2Score": 113,
             "generations": 1608,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1156,7 +1218,9 @@
             "team1Score": 256,
             "team2Score": 22,
             "generations": 1513,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             "team1Score": 299,
             "team2Score": 21,
             "generations": 1152,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1230,7 +1296,9 @@
             "team1Score": 226,
             "team2Score": 72,
             "generations": 1609,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1266,7 +1334,9 @@
             "team1Score": 131,
             "team2Score": 99,
             "generations": 1572,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1302,7 +1372,9 @@
             "team1Score": 93,
             "team2Score": 154,
             "generations": 1484,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1338,7 +1410,9 @@
             "team1Score": 113,
             "team2Score": 68,
             "generations": 1289,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1374,7 +1448,9 @@
             "team1Score": 99,
             "team2Score": 54,
             "generations": 1472,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1410,7 +1486,9 @@
             "team1Score": 235,
             "team2Score": 6,
             "generations": 2227,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1446,7 +1524,9 @@
             "team1Score": 170,
             "team2Score": 71,
             "generations": 1419,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             "team1Score": 261,
             "team2Score": 61,
             "generations": 1138,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1520,7 +1602,9 @@
             "team1Score": 194,
             "team2Score": 43,
             "generations": 2417,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1556,7 +1640,9 @@
             "team1Score": 230,
             "team2Score": 123,
             "generations": 2199,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1592,7 +1678,9 @@
             "team1Score": 176,
             "team2Score": 46,
             "generations": 1603,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1628,7 +1716,9 @@
             "team1Score": 259,
             "team2Score": 36,
             "generations": 1200,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1664,7 +1754,9 @@
             "team1Score": 158,
             "team2Score": 156,
             "generations": 1929,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1700,7 +1792,9 @@
             "team1Score": 107,
             "team2Score": 111,
             "generations": 1516,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1736,7 +1830,9 @@
             "team1Score": 159,
             "team2Score": 142,
             "generations": 1470,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             "team1Score": 52,
             "team2Score": 129,
             "generations": 2048,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1810,7 +1908,9 @@
             "team1Score": 171,
             "team2Score": 61,
             "generations": 2203,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1846,7 +1946,9 @@
             "team1Score": 45,
             "team2Score": 180,
             "generations": 1566,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1882,7 +1984,9 @@
             "team1Score": 358,
             "team2Score": 3,
             "generations": 1864,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1918,7 +2022,9 @@
             "team1Score": 90,
             "team2Score": 21,
             "generations": 1165,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1954,7 +2060,9 @@
             "team1Score": 55,
             "team2Score": 163,
             "generations": 1697,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1990,7 +2098,9 @@
             "team1Score": 158,
             "team2Score": 102,
             "generations": 1386,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2026,7 +2136,9 @@
             "team1Score": 13,
             "team2Score": 171,
             "generations": 1256,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             "team1Score": 105,
             "team2Score": 149,
             "generations": 1222,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2100,7 +2214,9 @@
             "team1Score": 182,
             "team2Score": 113,
             "generations": 2213,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2136,7 +2252,9 @@
             "team1Score": 240,
             "team2Score": 28,
             "generations": 2401,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2172,7 +2290,9 @@
             "team1Score": 748,
             "team2Score": 0,
             "generations": 1153,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2208,7 +2328,9 @@
             "team1Score": 100,
             "team2Score": 25,
             "generations": 1527,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2244,7 +2366,9 @@
             "team1Score": 114,
             "team2Score": 95,
             "generations": 1357,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2280,7 +2404,9 @@
             "team1Score": 176,
             "team2Score": 111,
             "generations": 1449,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2316,7 +2442,9 @@
             "team1Score": 224,
             "team2Score": 36,
             "generations": 1906,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             "team1Score": 59,
             "team2Score": 272,
             "generations": 1938,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2390,7 +2520,9 @@
             "team1Score": 223,
             "team2Score": 33,
             "generations": 2213,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2426,7 +2558,9 @@
             "team1Score": 113,
             "team2Score": 70,
             "generations": 1108,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2462,7 +2596,9 @@
             "team1Score": 148,
             "team2Score": 24,
             "generations": 1312,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2498,7 +2634,9 @@
             "team1Score": 216,
             "team2Score": 56,
             "generations": 2103,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2534,7 +2672,9 @@
             "team1Score": 180,
             "team2Score": 130,
             "generations": 3262,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2570,7 +2710,9 @@
             "team1Score": 296,
             "team2Score": 13,
             "generations": 1971,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2606,7 +2748,9 @@
             "team1Score": 262,
             "team2Score": 3,
             "generations": 2004,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             "team1Score": 197,
             "team2Score": 81,
             "generations": 1641,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2680,7 +2826,9 @@
             "team1Score": 154,
             "team2Score": 153,
             "generations": 1785,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -2716,7 +2864,9 @@
             "team1Score": 63,
             "team2Score": 121,
             "generations": 1496,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2752,7 +2902,9 @@
             "team1Score": 34,
             "team2Score": 182,
             "generations": 1650,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2788,7 +2940,9 @@
             "team1Score": 85,
             "team2Score": 105,
             "generations": 1257,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2824,7 +2978,9 @@
             "team1Score": 112,
             "team2Score": 106,
             "generations": 1311,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2860,7 +3016,9 @@
             "team1Score": 308,
             "team2Score": 37,
             "generations": 3312,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2896,7 +3054,9 @@
             "team1Score": 83,
             "team2Score": 114,
             "generations": 2108,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             "team1Score": 82,
             "team2Score": 22,
             "generations": 1068,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2970,7 +3132,9 @@
             "team1Score": 79,
             "team2Score": 195,
             "generations": 1538,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3006,7 +3170,9 @@
             "team1Score": 59,
             "team2Score": 225,
             "generations": 2565,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3042,7 +3208,9 @@
             "team1Score": 168,
             "team2Score": 106,
             "generations": 2045,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3078,7 +3246,9 @@
             "team1Score": 810,
             "team2Score": 0,
             "generations": 1284,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3114,7 +3284,9 @@
             "team1Score": 192,
             "team2Score": 6,
             "generations": 1472,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3150,7 +3322,9 @@
             "team1Score": 281,
             "team2Score": 96,
             "generations": 3281,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3186,7 +3360,9 @@
             "team1Score": 180,
             "team2Score": 28,
             "generations": 2309,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             "team1Score": 46,
             "team2Score": 6,
             "generations": 1162,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3260,7 +3438,9 @@
             "team1Score": 135,
             "team2Score": 238,
             "generations": 2160,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3296,7 +3476,9 @@
             "team1Score": 72,
             "team2Score": 60,
             "generations": 1224,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3332,7 +3514,9 @@
             "team1Score": 182,
             "team2Score": 98,
             "generations": 3125,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3368,7 +3552,9 @@
             "team1Score": 305,
             "team2Score": 27,
             "generations": 1916,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3404,7 +3590,9 @@
             "team1Score": 168,
             "team2Score": 108,
             "generations": 2408,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3440,7 +3628,9 @@
             "team1Score": 60,
             "team2Score": 200,
             "generations": 1300,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3476,7 +3666,9 @@
             "team1Score": 81,
             "team2Score": 152,
             "generations": 1370,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             "team1Score": 266,
             "team2Score": 44,
             "generations": 2073,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -3550,7 +3744,9 @@
             "team1Score": 125,
             "team2Score": 146,
             "generations": 1834,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3586,7 +3782,9 @@
             "team1Score": 131,
             "team2Score": 17,
             "generations": 1554,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3622,7 +3820,9 @@
             "team1Score": 132,
             "team2Score": 70,
             "generations": 1107,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3658,7 +3858,9 @@
             "team1Score": 86,
             "team2Score": 93,
             "generations": 1345,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3694,7 +3896,9 @@
             "team1Score": 159,
             "team2Score": 112,
             "generations": 1934,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3730,7 +3934,9 @@
             "team1Score": 186,
             "team2Score": 2,
             "generations": 2810,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3766,7 +3972,9 @@
             "team1Score": 53,
             "team2Score": 100,
             "generations": 1094,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             "team1Score": 305,
             "team2Score": 16,
             "generations": 2488,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3840,7 +4050,9 @@
             "team1Score": 129,
             "team2Score": 79,
             "generations": 1353,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3876,7 +4088,9 @@
             "team1Score": 322,
             "team2Score": 11,
             "generations": 2071,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3912,7 +4126,9 @@
             "team1Score": 117,
             "team2Score": 73,
             "generations": 1922,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3948,7 +4164,9 @@
             "team1Score": 82,
             "team2Score": 55,
             "generations": 1111,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3984,7 +4202,9 @@
             "team1Score": 347,
             "team2Score": 31,
             "generations": 2088,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4020,7 +4240,9 @@
             "team1Score": 167,
             "team2Score": 13,
             "generations": 1997,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4056,7 +4278,9 @@
             "team1Score": 72,
             "team2Score": 34,
             "generations": 1182,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             "team1Score": 93,
             "team2Score": 82,
             "generations": 1617,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -4130,7 +4356,9 @@
             "team1Score": 343,
             "team2Score": 60,
             "generations": 2039,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4166,7 +4394,9 @@
             "team1Score": 168,
             "team2Score": 109,
             "generations": 1561,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4202,7 +4432,9 @@
             "team1Score": 7,
             "team2Score": 196,
             "generations": 1955,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4238,7 +4470,9 @@
             "team1Score": 151,
             "team2Score": 36,
             "generations": 1488,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4274,7 +4508,9 @@
             "team1Score": 113,
             "team2Score": 45,
             "generations": 1980,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4310,7 +4546,9 @@
             "team1Score": 267,
             "team2Score": 41,
             "generations": 3189,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4346,7 +4584,9 @@
             "team1Score": 158,
             "team2Score": 10,
             "generations": 1955,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             "team1Score": 173,
             "team2Score": 97,
             "generations": 1659,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4420,7 +4662,9 @@
             "team1Score": 263,
             "team2Score": 44,
             "generations": 1850,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -4456,7 +4700,9 @@
             "team1Score": 175,
             "team2Score": 96,
             "generations": 1309,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4492,7 +4738,9 @@
             "team1Score": 236,
             "team2Score": 19,
             "generations": 3733,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4528,7 +4776,9 @@
             "team1Score": 152,
             "team2Score": 64,
             "generations": 1378,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4564,7 +4814,9 @@
             "team1Score": 169,
             "team2Score": 81,
             "generations": 1225,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4600,7 +4852,9 @@
             "team1Score": 228,
             "team2Score": 57,
             "generations": 2621,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4636,7 +4890,9 @@
             "team1Score": 43,
             "team2Score": 7,
             "generations": 1082,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             "team1Score": 206,
             "team2Score": 33,
             "generations": 2273,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -4710,7 +4968,9 @@
             "team1Score": 111,
             "team2Score": 193,
             "generations": 2005,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4746,7 +5006,9 @@
             "team1Score": 83,
             "team2Score": 49,
             "generations": 1148,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4782,7 +5044,9 @@
             "team1Score": 192,
             "team2Score": 36,
             "generations": 2402,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4818,7 +5082,9 @@
             "team1Score": 39,
             "team2Score": 78,
             "generations": 1059,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4854,7 +5120,9 @@
             "team1Score": 106,
             "team2Score": 96,
             "generations": 1891,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4890,7 +5158,9 @@
             "team1Score": 194,
             "team2Score": 60,
             "generations": 1539,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4926,7 +5196,9 @@
             "team1Score": 335,
             "team2Score": 7,
             "generations": 2550,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             "team1Score": 115,
             "team2Score": 136,
             "generations": 1791,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -5000,7 +5274,9 @@
             "team1Score": 272,
             "team2Score": 19,
             "generations": 2227,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5036,7 +5312,9 @@
             "team1Score": 132,
             "team2Score": 89,
             "generations": 1216,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -5072,7 +5350,9 @@
             "team1Score": 100,
             "team2Score": 176,
             "generations": 2447,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5108,7 +5388,9 @@
             "team1Score": 220,
             "team2Score": 29,
             "generations": 1631,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5144,7 +5426,9 @@
             "team1Score": 167,
             "team2Score": 135,
             "generations": 2224,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5180,7 +5464,9 @@
             "team1Score": 147,
             "team2Score": 28,
             "generations": 1142,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5216,7 +5502,9 @@
             "team1Score": 301,
             "team2Score": 9,
             "generations": 1723,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             "team1Score": 318,
             "team2Score": 46,
             "generations": 3256,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5290,7 +5580,9 @@
             "team1Score": 81,
             "team2Score": 120,
             "generations": 1037,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -5326,7 +5618,9 @@
             "team1Score": 316,
             "team2Score": 2,
             "generations": 1232,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5362,7 +5656,9 @@
             "team1Score": 137,
             "team2Score": 75,
             "generations": 2727,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5398,7 +5694,9 @@
             "team1Score": 145,
             "team2Score": 107,
             "generations": 2024,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5434,7 +5732,9 @@
             "team1Score": 203,
             "team2Score": 82,
             "generations": 2056,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5470,7 +5770,9 @@
             "team1Score": 137,
             "team2Score": 64,
             "generations": 1515,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5506,7 +5808,9 @@
             "team1Score": 173,
             "team2Score": 11,
             "generations": 1759,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             "team1Score": 164,
             "team2Score": 58,
             "generations": 1425,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5580,7 +5886,9 @@
             "team1Score": 212,
             "team2Score": 188,
             "generations": 2953,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5616,7 +5924,9 @@
             "team1Score": 277,
             "team2Score": 22,
             "generations": 1717,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5652,7 +5962,9 @@
             "team1Score": 142,
             "team2Score": 57,
             "generations": 1695,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5688,7 +6000,9 @@
             "team1Score": 212,
             "team2Score": 77,
             "generations": 1641,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5724,7 +6038,9 @@
             "team1Score": 322,
             "team2Score": 0,
             "generations": 1672,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5760,7 +6076,9 @@
             "team1Score": 207,
             "team2Score": 41,
             "generations": 1255,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5796,7 +6114,9 @@
             "team1Score": 161,
             "team2Score": 88,
             "generations": 1685,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             "team1Score": 225,
             "team2Score": 13,
             "generations": 2083,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -5870,7 +6192,9 @@
             "team1Score": 302,
             "team2Score": 51,
             "generations": 1148,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5906,7 +6230,9 @@
             "team1Score": 80,
             "team2Score": 209,
             "generations": 1630,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -5942,7 +6268,9 @@
             "team1Score": 207,
             "team2Score": 92,
             "generations": 3220,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5978,7 +6306,9 @@
             "team1Score": 205,
             "team2Score": 92,
             "generations": 1253,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6014,7 +6344,9 @@
             "team1Score": 155,
             "team2Score": 26,
             "generations": 1231,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6050,7 +6382,9 @@
             "team1Score": 93,
             "team2Score": 65,
             "generations": 1863,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6086,7 +6420,9 @@
             "team1Score": 121,
             "team2Score": 87,
             "generations": 2048,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             "team1Score": 160,
             "team2Score": 153,
             "generations": 1632,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6160,7 +6498,9 @@
             "team1Score": 265,
             "team2Score": 71,
             "generations": 1502,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -6196,7 +6536,9 @@
             "team1Score": 138,
             "team2Score": 66,
             "generations": 1348,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6232,7 +6574,9 @@
             "team1Score": 219,
             "team2Score": 77,
             "generations": 1945,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6268,7 +6612,9 @@
             "team1Score": 151,
             "team2Score": 129,
             "generations": 3549,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6304,7 +6650,9 @@
             "team1Score": 150,
             "team2Score": 71,
             "generations": 1128,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6340,7 +6688,9 @@
             "team1Score": 134,
             "team2Score": 41,
             "generations": 1283,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6376,7 +6726,9 @@
             "team1Score": 101,
             "team2Score": 54,
             "generations": 1641,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             "team1Score": 184,
             "team2Score": 24,
             "generations": 1004,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -6450,7 +6804,9 @@
             "team1Score": 148,
             "team2Score": 132,
             "generations": 2478,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6486,7 +6842,9 @@
             "team1Score": 281,
             "team2Score": 37,
             "generations": 1592,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6522,7 +6880,9 @@
             "team1Score": 154,
             "team2Score": 134,
             "generations": 1155,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6558,7 +6918,9 @@
             "team1Score": 331,
             "team2Score": 2,
             "generations": 1146,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6594,7 +6956,9 @@
             "team1Score": 88,
             "team2Score": 129,
             "generations": 1903,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6630,7 +6994,9 @@
             "team1Score": 62,
             "team2Score": 83,
             "generations": 1034,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6666,7 +7032,9 @@
             "team1Score": 107,
             "team2Score": 48,
             "generations": 1306,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             "team1Score": 93,
             "team2Score": 210,
             "generations": 1358,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -6740,7 +7110,9 @@
             "team1Score": 125,
             "team2Score": 99,
             "generations": 1495,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6776,7 +7148,9 @@
             "team1Score": 426,
             "team2Score": 14,
             "generations": 1633,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -6812,7 +7186,9 @@
             "team1Score": 86,
             "team2Score": 174,
             "generations": 2171,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6848,7 +7224,9 @@
             "team1Score": 122,
             "team2Score": 32,
             "generations": 1584,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6884,7 +7262,9 @@
             "team1Score": 117,
             "team2Score": 63,
             "generations": 1293,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6920,7 +7300,9 @@
             "team1Score": 117,
             "team2Score": 98,
             "generations": 1585,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6956,7 +7338,9 @@
             "team1Score": 111,
             "team2Score": 49,
             "generations": 1642,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             "team1Score": 160,
             "team2Score": 177,
             "generations": 2121,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7030,7 +7416,9 @@
             "team1Score": 229,
             "team2Score": 0,
             "generations": 1178,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -7066,7 +7454,9 @@
             "team1Score": 161,
             "team2Score": 16,
             "generations": 2029,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7102,7 +7492,9 @@
             "team1Score": 271,
             "team2Score": 19,
             "generations": 2227,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7138,7 +7530,9 @@
             "team1Score": 179,
             "team2Score": 54,
             "generations": 1124,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7174,7 +7568,9 @@
             "team1Score": 332,
             "team2Score": 11,
             "generations": 2171,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7210,7 +7606,9 @@
             "team1Score": 142,
             "team2Score": 85,
             "generations": 2156,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7246,7 +7644,9 @@
             "team1Score": 205,
             "team2Score": 55,
             "generations": 2118,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             "team1Score": 135,
             "team2Score": 91,
             "generations": 1036,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7320,7 +7722,9 @@
             "team1Score": 61,
             "team2Score": 128,
             "generations": 1036,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7356,7 +7760,9 @@
             "team1Score": 141,
             "team2Score": 52,
             "generations": 1144,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -7392,7 +7798,9 @@
             "team1Score": 146,
             "team2Score": 70,
             "generations": 1457,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7428,7 +7836,9 @@
             "team1Score": 121,
             "team2Score": 88,
             "generations": 1489,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7464,7 +7874,9 @@
             "team1Score": 263,
             "team2Score": 26,
             "generations": 1485,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7500,7 +7912,9 @@
             "team1Score": 176,
             "team2Score": 23,
             "generations": 1777,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7536,7 +7950,9 @@
             "team1Score": 136,
             "team2Score": 109,
             "generations": 1634,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             "team1Score": 175,
             "team2Score": 61,
             "generations": 2343,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -7610,7 +8028,9 @@
             "team1Score": 596,
             "team2Score": 0,
             "generations": 1578,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7646,7 +8066,9 @@
             "team1Score": 257,
             "team2Score": 61,
             "generations": 1605,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7682,7 +8104,9 @@
             "team1Score": 260,
             "team2Score": 66,
             "generations": 2204,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7718,7 +8142,9 @@
             "team1Score": 71,
             "team2Score": 63,
             "generations": 1042,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7754,7 +8180,9 @@
             "team1Score": 98,
             "team2Score": 13,
             "generations": 1255,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7790,7 +8218,9 @@
             "team1Score": 263,
             "team2Score": 58,
             "generations": 1859,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7826,7 +8256,9 @@
             "team1Score": 314,
             "team2Score": 11,
             "generations": 3872,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             "team1Score": 164,
             "team2Score": 145,
             "generations": 1121,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7900,7 +8334,9 @@
             "team1Score": 610,
             "team2Score": 0,
             "generations": 1099,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -7936,7 +8372,9 @@
             "team1Score": 132,
             "team2Score": 123,
             "generations": 2781,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7972,7 +8410,9 @@
             "team1Score": 348,
             "team2Score": 35,
             "generations": 1153,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8008,7 +8448,9 @@
             "team1Score": 41,
             "team2Score": 101,
             "generations": 1667,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8044,7 +8486,9 @@
             "team1Score": 55,
             "team2Score": 36,
             "generations": 1211,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8080,7 +8524,9 @@
             "team1Score": 104,
             "team2Score": 80,
             "generations": 1071,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8116,7 +8562,9 @@
             "team1Score": 163,
             "team2Score": 177,
             "generations": 3178,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             "team1Score": 184,
             "team2Score": 16,
             "generations": 1858,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8190,7 +8640,9 @@
             "team1Score": 339,
             "team2Score": 23,
             "generations": 1165,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8226,7 +8678,9 @@
             "team1Score": 139,
             "team2Score": 58,
             "generations": 1242,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -8262,7 +8716,9 @@
             "team1Score": 192,
             "team2Score": 123,
             "generations": 2255,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8298,7 +8754,9 @@
             "team1Score": 78,
             "team2Score": 30,
             "generations": 1197,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8334,7 +8792,9 @@
             "team1Score": 105,
             "team2Score": 115,
             "generations": 1967,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8370,7 +8830,9 @@
             "team1Score": 216,
             "team2Score": 71,
             "generations": 1992,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8406,7 +8868,9 @@
             "team1Score": 248,
             "team2Score": 37,
             "generations": 3616,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             "team1Score": 54,
             "team2Score": 121,
             "generations": 1694,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8480,7 +8946,9 @@
             "team1Score": 295,
             "team2Score": 58,
             "generations": 1449,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -8516,7 +8984,9 @@
             "team1Score": 21,
             "team2Score": 283,
             "generations": 4654,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -8552,7 +9022,9 @@
             "team1Score": 191,
             "team2Score": 36,
             "generations": 1458,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8588,7 +9060,9 @@
             "team1Score": 78,
             "team2Score": 85,
             "generations": 1308,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8624,7 +9098,9 @@
             "team1Score": 238,
             "team2Score": 24,
             "generations": 2324,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8660,7 +9136,9 @@
             "team1Score": 173,
             "team2Score": 92,
             "generations": 2447,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8696,7 +9174,9 @@
             "team1Score": 168,
             "team2Score": 99,
             "generations": 1644,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             "team1Score": 107,
             "team2Score": 203,
             "generations": 2804,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8770,7 +9252,9 @@
             "team1Score": 97,
             "team2Score": 90,
             "generations": 1241,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -8806,7 +9290,9 @@
             "team1Score": 103,
             "team2Score": 108,
             "generations": 1357,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8842,7 +9328,9 @@
             "team1Score": 195,
             "team2Score": 120,
             "generations": 1925,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8878,7 +9366,9 @@
             "team1Score": 132,
             "team2Score": 110,
             "generations": 1674,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8914,7 +9404,9 @@
             "team1Score": 62,
             "team2Score": 138,
             "generations": 2751,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8950,7 +9442,9 @@
             "team1Score": 320,
             "team2Score": 1,
             "generations": 3792,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8986,7 +9480,9 @@
             "team1Score": 215,
             "team2Score": 45,
             "generations": 2016,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             "team1Score": 90,
             "team2Score": 305,
             "generations": 1238,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9060,7 +9558,9 @@
             "team1Score": 69,
             "team2Score": 248,
             "generations": 2679,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9096,7 +9596,9 @@
             "team1Score": 61,
             "team2Score": 147,
             "generations": 1534,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -9132,7 +9634,9 @@
             "team1Score": 73,
             "team2Score": 157,
             "generations": 2772,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9168,7 +9672,9 @@
             "team1Score": 138,
             "team2Score": 17,
             "generations": 1376,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9204,7 +9710,9 @@
             "team1Score": 367,
             "team2Score": 0,
             "generations": 1270,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9240,7 +9748,9 @@
             "team1Score": 293,
             "team2Score": 70,
             "generations": 2018,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9276,7 +9786,9 @@
             "team1Score": 90,
             "team2Score": 173,
             "generations": 2610,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             "team1Score": 92,
             "team2Score": 106,
             "generations": 1840,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -9350,7 +9864,9 @@
             "team1Score": 80,
             "team2Score": 58,
             "generations": 1466,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9386,7 +9902,9 @@
             "team1Score": 158,
             "team2Score": 78,
             "generations": 1624,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -9422,7 +9940,9 @@
             "team1Score": 265,
             "team2Score": 80,
             "generations": 2124,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9458,7 +9978,9 @@
             "team1Score": 558,
             "team2Score": 0,
             "generations": 2594,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9494,7 +10016,9 @@
             "team1Score": 128,
             "team2Score": 144,
             "generations": 2533,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9530,7 +10054,9 @@
             "team1Score": 142,
             "team2Score": 12,
             "generations": 1707,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -9566,7 +10092,9 @@
             "team1Score": 145,
             "team2Score": 109,
             "generations": 1711,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             "team1Score": 172,
             "team2Score": 32,
             "generations": 1667,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -9640,7 +10170,9 @@
             "team1Score": 117,
             "team2Score": 28,
             "generations": 1059,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -9676,7 +10208,9 @@
             "team1Score": 23,
             "team2Score": 232,
             "generations": 2975,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -9712,7 +10246,9 @@
             "team1Score": 286,
             "team2Score": 7,
             "generations": 2701,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9748,7 +10284,9 @@
             "team1Score": 258,
             "team2Score": 29,
             "generations": 3676,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9784,7 +10322,9 @@
             "team1Score": 118,
             "team2Score": 104,
             "generations": 1528,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9820,7 +10360,9 @@
             "team1Score": 314,
             "team2Score": 27,
             "generations": 3468,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9856,7 +10398,9 @@
             "team1Score": 112,
             "team2Score": 86,
             "generations": 1575,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             "team1Score": 177,
             "team2Score": 142,
             "generations": 3368,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9930,7 +10476,9 @@
             "team1Score": 339,
             "team2Score": 29,
             "generations": 2601,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -9966,7 +10514,9 @@
             "team1Score": 227,
             "team2Score": 97,
             "generations": 2329,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -10002,7 +10552,9 @@
             "team1Score": 199,
             "team2Score": 18,
             "generations": 2611,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10038,7 +10590,9 @@
             "team1Score": 147,
             "team2Score": 50,
             "generations": 1480,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10074,7 +10628,9 @@
             "team1Score": 232,
             "team2Score": 19,
             "generations": 3659,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10110,7 +10666,9 @@
             "team1Score": 85,
             "team2Score": 53,
             "generations": 1355,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10146,7 +10704,9 @@
             "team1Score": 184,
             "team2Score": 99,
             "generations": 1388,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             "team1Score": 139,
             "team2Score": 58,
             "generations": 1935,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -10220,7 +10782,9 @@
             "team1Score": 556,
             "team2Score": 0,
             "generations": 1208,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -10256,7 +10820,9 @@
             "team1Score": 77,
             "team2Score": 137,
             "generations": 1363,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -10292,7 +10858,9 @@
             "team1Score": 209,
             "team2Score": 15,
             "generations": 1172,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10328,7 +10896,9 @@
             "team1Score": 74,
             "team2Score": 102,
             "generations": 1103,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -10364,7 +10934,9 @@
             "team1Score": 59,
             "team2Score": 109,
             "generations": 1036,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10400,7 +10972,9 @@
             "team1Score": 329,
             "team2Score": 17,
             "generations": 4676,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10436,7 +11010,9 @@
             "team1Score": 247,
             "team2Score": 43,
             "generations": 2521,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             "team1Score": 235,
             "team2Score": 7,
             "generations": 2286,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -10510,7 +11088,9 @@
             "team1Score": 262,
             "team2Score": 23,
             "generations": 2621,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -10546,7 +11126,9 @@
             "team1Score": 218,
             "team2Score": 70,
             "generations": 2064,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -10582,7 +11164,9 @@
             "team1Score": 85,
             "team2Score": 2,
             "generations": 1345,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10618,7 +11202,9 @@
             "team1Score": 314,
             "team2Score": 62,
             "generations": 2363,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10654,7 +11240,9 @@
             "team1Score": 154,
             "team2Score": 46,
             "generations": 1531,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10690,7 +11278,9 @@
             "team1Score": 143,
             "team2Score": 65,
             "generations": 1130,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10726,7 +11316,9 @@
             "team1Score": 116,
             "team2Score": 102,
             "generations": 1542,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             "team1Score": 117,
             "team2Score": 25,
             "generations": 2245,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -10800,7 +11394,9 @@
             "team1Score": 321,
             "team2Score": 29,
             "generations": 3241,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -10836,7 +11432,9 @@
             "team1Score": 141,
             "team2Score": 108,
             "generations": 1295,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -10872,7 +11470,9 @@
             "team1Score": 127,
             "team2Score": 21,
             "generations": 2109,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10908,7 +11508,9 @@
             "team1Score": 243,
             "team2Score": 39,
             "generations": 1684,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -10944,7 +11546,9 @@
             "team1Score": 116,
             "team2Score": 78,
             "generations": 1456,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10980,7 +11584,9 @@
             "team1Score": 107,
             "team2Score": 62,
             "generations": 1023,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11016,7 +11622,9 @@
             "team1Score": 255,
             "team2Score": 151,
             "generations": 2838,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             "team1Score": 260,
             "team2Score": 70,
             "generations": 1452,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11090,7 +11700,9 @@
             "team1Score": 539,
             "team2Score": 0,
             "generations": 1291,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -11126,7 +11738,9 @@
             "team1Score": 104,
             "team2Score": 175,
             "generations": 3706,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -11162,7 +11776,9 @@
             "team1Score": 471,
             "team2Score": 0,
             "generations": 1051,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -11198,7 +11814,9 @@
             "team1Score": 152,
             "team2Score": 58,
             "generations": 1783,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -11234,7 +11852,9 @@
             "team1Score": 66,
             "team2Score": 156,
             "generations": 1079,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11270,7 +11890,9 @@
             "team1Score": 235,
             "team2Score": 29,
             "generations": 2836,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11306,7 +11928,9 @@
             "team1Score": 152,
             "team2Score": 125,
             "generations": 5506,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             "team1Score": 221,
             "team2Score": 81,
             "generations": 3160,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -11380,7 +12006,9 @@
             "team1Score": 312,
             "team2Score": 33,
             "generations": 1090,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -11416,7 +12044,9 @@
             "team1Score": 170,
             "team2Score": 91,
             "generations": 2401,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -11452,7 +12082,9 @@
             "team1Score": 93,
             "team2Score": 25,
             "generations": 1101,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -11488,7 +12120,9 @@
             "team1Score": 51,
             "team2Score": 138,
             "generations": 1215,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11524,7 +12158,9 @@
             "team1Score": 168,
             "team2Score": 64,
             "generations": 1958,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -11560,7 +12196,9 @@
             "team1Score": 170,
             "team2Score": 99,
             "generations": 1804,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -11596,7 +12234,9 @@
             "team1Score": 159,
             "team2Score": 112,
             "generations": 1934,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             "team1Score": 138,
             "team2Score": 75,
             "generations": 1317,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -11670,7 +12312,9 @@
             "team1Score": 239,
             "team2Score": 129,
             "generations": 1529,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -11706,7 +12350,9 @@
             "team1Score": 162,
             "team2Score": 114,
             "generations": 1575,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -11742,7 +12388,9 @@
             "team1Score": 106,
             "team2Score": 101,
             "generations": 1297,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -11778,7 +12426,9 @@
             "team1Score": 65,
             "team2Score": 89,
             "generations": 1058,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -11814,7 +12464,9 @@
             "team1Score": 125,
             "team2Score": 99,
             "generations": 1820,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -11850,7 +12502,9 @@
             "team1Score": 300,
             "team2Score": 10,
             "generations": 1221,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11886,7 +12540,9 @@
             "team1Score": 150,
             "team2Score": 86,
             "generations": 1394,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             "team1Score": 70,
             "team2Score": 142,
             "generations": 1410,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11960,7 +12618,9 @@
             "team1Score": 77,
             "team2Score": 167,
             "generations": 1954,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -11996,7 +12656,9 @@
             "team1Score": 78,
             "team2Score": 215,
             "generations": 1794,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -12032,7 +12694,9 @@
             "team1Score": 72,
             "team2Score": 165,
             "generations": 1789,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -12068,7 +12732,9 @@
             "team1Score": 121,
             "team2Score": 91,
             "generations": 1644,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12104,7 +12770,9 @@
             "team1Score": 244,
             "team2Score": 24,
             "generations": 1868,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -12140,7 +12808,9 @@
             "team1Score": 271,
             "team2Score": 52,
             "generations": 1374,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -12176,7 +12846,9 @@
             "team1Score": 132,
             "team2Score": 169,
             "generations": 4909,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             "team1Score": 251,
             "team2Score": 14,
             "generations": 3064,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -12250,7 +12924,9 @@
             "team1Score": 216,
             "team2Score": 6,
             "generations": 2252,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -12286,7 +12962,9 @@
             "team1Score": 69,
             "team2Score": 150,
             "generations": 1614,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -12322,7 +13000,9 @@
             "team1Score": 219,
             "team2Score": 46,
             "generations": 1871,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12358,7 +13038,9 @@
             "team1Score": 138,
             "team2Score": 75,
             "generations": 1317,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12394,7 +13076,9 @@
             "team1Score": 181,
             "team2Score": 24,
             "generations": 1349,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12430,7 +13114,9 @@
             "team1Score": 133,
             "team2Score": 62,
             "generations": 1967,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -12466,7 +13152,9 @@
             "team1Score": 175,
             "team2Score": 127,
             "generations": 1239,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             "team1Score": 544,
             "team2Score": 0,
             "generations": 1058,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12540,7 +13230,9 @@
             "team1Score": 177,
             "team2Score": 67,
             "generations": 1833,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -12576,7 +13268,9 @@
             "team1Score": 183,
             "team2Score": 12,
             "generations": 1279,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -12612,7 +13306,9 @@
             "team1Score": 87,
             "team2Score": 143,
             "generations": 1658,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -12648,7 +13344,9 @@
             "team1Score": 64,
             "team2Score": 266,
             "generations": 1765,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -12684,7 +13382,9 @@
             "team1Score": 126,
             "team2Score": 23,
             "generations": 1628,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -12720,7 +13420,9 @@
             "team1Score": 231,
             "team2Score": 73,
             "generations": 1729,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -12756,7 +13458,9 @@
             "team1Score": 141,
             "team2Score": 97,
             "generations": 1036,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             "team1Score": 160,
             "team2Score": 51,
             "generations": 2153,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12830,7 +13536,9 @@
             "team1Score": 315,
             "team2Score": 6,
             "generations": 1827,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -12866,7 +13574,9 @@
             "team1Score": 111,
             "team2Score": 66,
             "generations": 1046,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -12902,7 +13612,9 @@
             "team1Score": 231,
             "team2Score": 4,
             "generations": 2662,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12938,7 +13650,9 @@
             "team1Score": 119,
             "team2Score": 12,
             "generations": 1046,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12974,7 +13688,9 @@
             "team1Score": 51,
             "team2Score": 169,
             "generations": 3678,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -13010,7 +13726,9 @@
             "team1Score": 208,
             "team2Score": 40,
             "generations": 2629,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -13046,7 +13764,9 @@
             "team1Score": 203,
             "team2Score": 46,
             "generations": 2883,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             "team1Score": 186,
             "team2Score": 67,
             "generations": 1611,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -13120,7 +13842,9 @@
             "team1Score": 373,
             "team2Score": 3,
             "generations": 2279,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -13156,7 +13880,9 @@
             "team1Score": 142,
             "team2Score": 147,
             "generations": 1223,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -13192,7 +13918,9 @@
             "team1Score": 77,
             "team2Score": 15,
             "generations": 1098,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -13228,7 +13956,9 @@
             "team1Score": 127,
             "team2Score": 38,
             "generations": 1497,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13264,7 +13994,9 @@
             "team1Score": 126,
             "team2Score": 150,
             "generations": 2450,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -13300,7 +14032,9 @@
             "team1Score": 85,
             "team2Score": 49,
             "generations": 1469,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13336,7 +14070,9 @@
             "team1Score": 195,
             "team2Score": 53,
             "generations": 1995,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             "team1Score": 138,
             "team2Score": 75,
             "generations": 1317,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -13410,7 +14148,9 @@
             "team1Score": 282,
             "team2Score": 12,
             "generations": 2748,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -13446,7 +14186,9 @@
             "team1Score": 147,
             "team2Score": 126,
             "generations": 1512,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -13482,7 +14224,9 @@
             "team1Score": 201,
             "team2Score": 83,
             "generations": 1703,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13518,7 +14262,9 @@
             "team1Score": 7,
             "team2Score": 106,
             "generations": 1308,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -13554,7 +14300,9 @@
             "team1Score": 159,
             "team2Score": 143,
             "generations": 1435,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13590,7 +14338,9 @@
             "team1Score": 99,
             "team2Score": 140,
             "generations": 1372,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -13626,7 +14376,9 @@
             "team1Score": 167,
             "team2Score": 0,
             "generations": 1062,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             "team1Score": 82,
             "team2Score": 41,
             "generations": 1596,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -13700,7 +14454,9 @@
             "team1Score": 378,
             "team2Score": 19,
             "generations": 1054,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -13736,7 +14492,9 @@
             "team1Score": 102,
             "team2Score": 80,
             "generations": 1798,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -13772,7 +14530,9 @@
             "team1Score": 239,
             "team2Score": 66,
             "generations": 1941,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -13808,7 +14568,9 @@
             "team1Score": 152,
             "team2Score": 16,
             "generations": 2366,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -13844,7 +14606,9 @@
             "team1Score": 130,
             "team2Score": 102,
             "generations": 1204,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -13880,7 +14644,9 @@
             "team1Score": 94,
             "team2Score": 201,
             "generations": 1362,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -13916,7 +14682,9 @@
             "team1Score": 117,
             "team2Score": 129,
             "generations": 2623,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             "team1Score": 153,
             "team2Score": 81,
             "generations": 1432,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -13990,7 +14760,9 @@
             "team1Score": 55,
             "team2Score": 165,
             "generations": 1697,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -14026,7 +14798,9 @@
             "team1Score": 289,
             "team2Score": 3,
             "generations": 1657,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -14062,7 +14836,9 @@
             "team1Score": 89,
             "team2Score": 216,
             "generations": 2263,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -14098,7 +14874,9 @@
             "team1Score": 406,
             "team2Score": 12,
             "generations": 3854,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -14134,7 +14912,9 @@
             "team1Score": 162,
             "team2Score": 54,
             "generations": 1994,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -14170,7 +14950,9 @@
             "team1Score": 199,
             "team2Score": 142,
             "generations": 1121,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -14206,7 +14988,9 @@
             "team1Score": 55,
             "team2Score": 244,
             "generations": 1696,
-            "isPostseason": false
+            "isPostseason": false,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ]
 ]

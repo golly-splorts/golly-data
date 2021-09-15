@@ -44,7 +44,9 @@
                 },
                 "team1Score": 111,
                 "team2Score": 179,
-                "generations": 1626
+                "generations": 1626,
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 98,
                 "team2Score": 39,
-                "generations": 1075
+                "generations": 1075,
+                "team1Abbr": "EA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 121,
                 "team2Score": 122,
-                "generations": 1118
+                "generations": 1118,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 227,
                 "team2Score": 7,
-                "generations": 1663
+                "generations": 1663,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 151,
                 "team2Score": 173,
-                "generations": 2699
+                "generations": 2699,
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 124,
                 "team2Score": 146,
-                "generations": 1975
+                "generations": 1975,
+                "team1Abbr": "EA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 274,
                 "team2Score": 106,
-                "generations": 3575
+                "generations": 3575,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 140,
                 "team2Score": 60,
-                "generations": 1303
+                "generations": 1303,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 44,
                 "team2Score": 104,
-                "generations": 1162
+                "generations": 1162,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 39,
                 "team2Score": 80,
-                "generations": 1076
+                "generations": 1076,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 225,
                 "team2Score": 42,
-                "generations": 1257
+                "generations": 1257,
+                "team1Abbr": "DET",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 129,
                 "team2Score": 105,
-                "generations": 1314
+                "generations": 1314,
+                "team1Abbr": "SAC",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 95,
                 "team2Score": 50,
-                "generations": 1929
+                "generations": 1929,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 109,
                 "team2Score": 111,
-                "generations": 1805
+                "generations": 1805,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 68,
                 "team2Score": 132,
-                "generations": 1639
+                "generations": 1639,
+                "team1Abbr": "DET",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 224,
                 "team2Score": 25,
-                "generations": 5003
+                "generations": 5003,
+                "team1Abbr": "SAC",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 313,
                 "team2Score": 13,
-                "generations": 3849
+                "generations": 3849,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 153,
                 "team2Score": 208,
-                "generations": 2394
+                "generations": 2394,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SAC"
             }
         ]
     ],
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 208,
                 "team2Score": 106,
-                "generations": 2356
+                "generations": 2356,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 77,
                 "team2Score": 23,
-                "generations": 1019
+                "generations": 1019,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 139,
                 "team2Score": 225,
-                "generations": 2416
+                "generations": 2416,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 142,
                 "team2Score": 132,
-                "generations": 3771
+                "generations": 3771,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 208,
                 "team2Score": 162,
-                "generations": 2429
+                "generations": 2429,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 19,
                 "team2Score": 86,
-                "generations": 1151
+                "generations": 1151,
+                "team1Abbr": "SAC",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1142,7 +1190,9 @@
                 },
                 "team1Score": 85,
                 "team2Score": 103,
-                "generations": 1134
+                "generations": 1134,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1189,7 +1239,9 @@
                 },
                 "team1Score": 155,
                 "team2Score": 105,
-                "generations": 2465
+                "generations": 2465,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             }
         ]
     ],
@@ -1237,7 +1289,9 @@
                 },
                 "team1Score": 18,
                 "team2Score": 82,
-                "generations": 1062
+                "generations": 1062,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1283,7 +1337,9 @@
                 },
                 "team1Score": 97,
                 "team2Score": 228,
-                "generations": 2487
+                "generations": 2487,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1329,7 +1385,9 @@
                 },
                 "team1Score": 69,
                 "team2Score": 127,
-                "generations": 1848
+                "generations": 1848,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1375,7 +1433,9 @@
                 },
                 "team1Score": 48,
                 "team2Score": 71,
-                "generations": 1241
+                "generations": 1241,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1421,7 +1481,9 @@
                 },
                 "team1Score": 162,
                 "team2Score": 193,
-                "generations": 1395
+                "generations": 1395,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1467,7 +1529,9 @@
                 },
                 "team1Score": 296,
                 "team2Score": 39,
-                "generations": 3008
+                "generations": 3008,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ]
     ]

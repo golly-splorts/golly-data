@@ -45,7 +45,9 @@
                 },
                 "team1Score": 139,
                 "team2Score": 44,
-                "generations": 2076
+                "generations": 2076,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -91,7 +93,9 @@
                 },
                 "team1Score": 111,
                 "team2Score": 242,
-                "generations": 7753
+                "generations": 7753,
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -137,7 +141,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 138,
-                "generations": 1682
+                "generations": 1682,
+                "team1Abbr": "AA",
+                "team2Abbr": "BB"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -183,7 +189,9 @@
                 },
                 "team1Score": 140,
                 "team2Score": 185,
-                "generations": 1859
+                "generations": 1859,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -231,7 +239,9 @@
                 },
                 "team1Score": 183,
                 "team2Score": 193,
-                "generations": 7182
+                "generations": 7182,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -277,7 +287,9 @@
                 },
                 "team1Score": 67,
                 "team2Score": 327,
-                "generations": 2466
+                "generations": 2466,
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -323,7 +335,9 @@
                 },
                 "team1Score": 157,
                 "team2Score": 149,
-                "generations": 2021
+                "generations": 2021,
+                "team1Abbr": "AA",
+                "team2Abbr": "BB"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -369,7 +383,9 @@
                 },
                 "team1Score": 113,
                 "team2Score": 36,
-                "generations": 1290
+                "generations": 1290,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -417,7 +433,9 @@
                 },
                 "team1Score": 6,
                 "team2Score": 130,
-                "generations": 1090
+                "generations": 1090,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Ft. Worth Piano Tuners",
@@ -463,7 +481,9 @@
                 },
                 "team1Score": 42,
                 "team2Score": 313,
-                "generations": 3311
+                "generations": 3311,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Boylston Boogers",
@@ -509,7 +529,9 @@
                 },
                 "team1Score": 72,
                 "team2Score": 130,
-                "generations": 1687
+                "generations": 1687,
+                "team1Abbr": "BB",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -555,7 +577,9 @@
                 },
                 "team1Score": 40,
                 "team2Score": 130,
-                "generations": 1491
+                "generations": 1491,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -603,7 +627,9 @@
                 },
                 "team1Score": 214,
                 "team2Score": 115,
-                "generations": 2929
+                "generations": 2929,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Ft. Worth Piano Tuners",
@@ -649,7 +675,9 @@
                 },
                 "team1Score": 85,
                 "team2Score": 236,
-                "generations": 2247
+                "generations": 2247,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Boylston Boogers",
@@ -695,7 +723,9 @@
                 },
                 "team1Score": 228,
                 "team2Score": 148,
-                "generations": 1956
+                "generations": 1956,
+                "team1Abbr": "BB",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -741,7 +771,9 @@
                 },
                 "team1Score": 193,
                 "team2Score": 79,
-                "generations": 2394
+                "generations": 2394,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -789,7 +821,9 @@
                 },
                 "team1Score": 138,
                 "team2Score": 82,
-                "generations": 1648
+                "generations": 1648,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Baltimore Texas",
@@ -835,7 +869,9 @@
                 },
                 "team1Score": 101,
                 "team2Score": 122,
-                "generations": 1027
+                "generations": 1027,
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -881,7 +917,9 @@
                 },
                 "team1Score": 98,
                 "team2Score": 150,
-                "generations": 1846
+                "generations": 1846,
+                "team1Abbr": "AA",
+                "team2Abbr": "BB"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -927,7 +965,9 @@
                 },
                 "team1Score": 159,
                 "team2Score": 139,
-                "generations": 2178
+                "generations": 2178,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ]
     ],
@@ -977,7 +1017,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 172,
-                "generations": 3118
+                "generations": 3118,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1023,7 +1065,9 @@
                 },
                 "team1Score": 117,
                 "team2Score": 38,
-                "generations": 1376
+                "generations": 1376,
+                "team1Abbr": "SAC",
+                "team2Abbr": "BB"
             }
         ],
         [
@@ -1071,7 +1115,9 @@
                 },
                 "team1Score": 72,
                 "team2Score": 107,
-                "generations": 1491
+                "generations": 1491,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1117,7 +1163,9 @@
                 },
                 "team1Score": 109,
                 "team2Score": 199,
-                "generations": 1747
+                "generations": 1747,
+                "team1Abbr": "SAC",
+                "team2Abbr": "BB"
             }
         ],
         [
@@ -1165,7 +1213,9 @@
                 },
                 "team1Score": 22,
                 "team2Score": 63,
-                "generations": 1285
+                "generations": 1285,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Boylston Boogers",
@@ -1211,7 +1261,9 @@
                 },
                 "team1Score": 108,
                 "team2Score": 114,
-                "generations": 1552
+                "generations": 1552,
+                "team1Abbr": "BB",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1259,7 +1311,9 @@
                 },
                 "team1Score": 267,
                 "team2Score": 43,
-                "generations": 1282
+                "generations": 1282,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Boylston Boogers",
@@ -1305,7 +1359,9 @@
                 },
                 "team1Score": 105,
                 "team2Score": 223,
-                "generations": 2249
+                "generations": 2249,
+                "team1Abbr": "BB",
+                "team2Abbr": "SAC"
             }
         ]
     ],
@@ -1354,7 +1410,9 @@
                 },
                 "team1Score": 201,
                 "team2Score": 104,
-                "generations": 1940
+                "generations": 1940,
+                "team1Abbr": "SAC",
+                "team2Abbr": "FWPT"
             }
         ],
         [
@@ -1401,7 +1459,9 @@
                 },
                 "team1Score": 200,
                 "team2Score": 61,
-                "generations": 2418
+                "generations": 2418,
+                "team1Abbr": "SAC",
+                "team2Abbr": "FWPT"
             }
         ],
         [
@@ -1448,7 +1508,9 @@
                 },
                 "team1Score": 72,
                 "team2Score": 168,
-                "generations": 1667
+                "generations": 1667,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1495,7 +1557,9 @@
                 },
                 "team1Score": 62,
                 "team2Score": 214,
-                "generations": 1361
+                "generations": 1361,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "SAC"
             }
         ]
     ]

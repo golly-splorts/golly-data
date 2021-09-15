@@ -34,7 +34,9 @@
             },
             "team1Score": 267,
             "team2Score": 46,
-            "generations": 3506
+            "generations": 3506,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -70,7 +72,9 @@
             },
             "team1Score": 78,
             "team2Score": 307,
-            "generations": 2088
+            "generations": 2088,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -106,7 +110,9 @@
             },
             "team1Score": 32,
             "team2Score": 181,
-            "generations": 2474
+            "generations": 2474,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -142,7 +148,9 @@
             },
             "team1Score": 254,
             "team2Score": 30,
-            "generations": 2049
+            "generations": 2049,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -178,7 +186,9 @@
             },
             "team1Score": 300,
             "team2Score": 9,
-            "generations": 1113
+            "generations": 1113,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -214,7 +224,9 @@
             },
             "team1Score": 264,
             "team2Score": 39,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -250,7 +262,9 @@
             },
             "team1Score": 71,
             "team2Score": 119,
-            "generations": 1724
+            "generations": 1724,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -286,7 +300,9 @@
             },
             "team1Score": 178,
             "team2Score": 74,
-            "generations": 1696
+            "generations": 1696,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 120,
             "team2Score": 61,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -360,7 +378,9 @@
             },
             "team1Score": 61,
             "team2Score": 12,
-            "generations": 1092
+            "generations": 1092,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -396,7 +416,9 @@
             },
             "team1Score": 41,
             "team2Score": 148,
-            "generations": 1205
+            "generations": 1205,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -432,7 +454,9 @@
             },
             "team1Score": 291,
             "team2Score": 8,
-            "generations": 2059
+            "generations": 2059,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -468,7 +492,9 @@
             },
             "team1Score": 241,
             "team2Score": 93,
-            "generations": 1476
+            "generations": 1476,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -504,7 +530,9 @@
             },
             "team1Score": 95,
             "team2Score": 69,
-            "generations": 1746
+            "generations": 1746,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -540,7 +568,9 @@
             },
             "team1Score": 136,
             "team2Score": 131,
-            "generations": 1106
+            "generations": 1106,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -576,7 +606,9 @@
             },
             "team1Score": 77,
             "team2Score": 257,
-            "generations": 1842
+            "generations": 1842,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 341,
             "team2Score": 35,
-            "generations": 2074
+            "generations": 2074,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -650,7 +684,9 @@
             },
             "team1Score": 232,
             "team2Score": 35,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -686,7 +722,9 @@
             },
             "team1Score": 129,
             "team2Score": 98,
-            "generations": 2217
+            "generations": 2217,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -722,7 +760,9 @@
             },
             "team1Score": 89,
             "team2Score": 123,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -758,7 +798,9 @@
             },
             "team1Score": 241,
             "team2Score": 54,
-            "generations": 2939
+            "generations": 2939,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -794,7 +836,9 @@
             },
             "team1Score": 155,
             "team2Score": 64,
-            "generations": 1439
+            "generations": 1439,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -830,7 +874,9 @@
             },
             "team1Score": 186,
             "team2Score": 51,
-            "generations": 1038
+            "generations": 1038,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -866,7 +912,9 @@
             },
             "team1Score": 271,
             "team2Score": 15,
-            "generations": 2748
+            "generations": 2748,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 120,
             "team2Score": 36,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -940,7 +990,9 @@
             },
             "team1Score": 416,
             "team2Score": 45,
-            "generations": 4006
+            "generations": 4006,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 148,
             "team2Score": 78,
-            "generations": 1780
+            "generations": 1780,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 183,
             "team2Score": 153,
-            "generations": 1718
+            "generations": 1718,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 127,
             "team2Score": 0,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 80,
             "team2Score": 142,
-            "generations": 1278
+            "generations": 1278,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 114,
             "team2Score": 75,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 338,
             "team2Score": 4,
-            "generations": 2356
+            "generations": 2356,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 174,
             "team2Score": 30,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 237,
             "team2Score": 40,
-            "generations": 2982
+            "generations": 2982,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 116,
             "team2Score": 98,
-            "generations": 2340
+            "generations": 2340,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 285,
             "team2Score": 51,
-            "generations": 2435
+            "generations": 2435,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 18,
             "team2Score": 43,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 256,
             "team2Score": 35,
-            "generations": 2444
+            "generations": 2444,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 131,
             "team2Score": 25,
-            "generations": 1772
+            "generations": 1772,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 149,
             "team2Score": 60,
-            "generations": 3097
+            "generations": 3097,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 130,
             "team2Score": 60,
-            "generations": 1125
+            "generations": 1125,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 167,
             "team2Score": 118,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 309,
             "team2Score": 7,
-            "generations": 2596
+            "generations": 2596,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 156,
             "team2Score": 18,
-            "generations": 1388
+            "generations": 1388,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 177,
             "team2Score": 19,
-            "generations": 2446
+            "generations": 2446,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 152,
             "team2Score": 14,
-            "generations": 1946
+            "generations": 1946,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 108,
             "team2Score": 130,
-            "generations": 1829
+            "generations": 1829,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 349,
             "team2Score": 25,
-            "generations": 2088
+            "generations": 2088,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 280,
             "team2Score": 69,
-            "generations": 2035
+            "generations": 2035,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 112,
             "team2Score": 92,
-            "generations": 1369
+            "generations": 1369,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 200,
             "team2Score": 86,
-            "generations": 3389
+            "generations": 3389,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 192,
             "team2Score": 58,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 104,
             "team2Score": 67,
-            "generations": 1068
+            "generations": 1068,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 208,
             "team2Score": 12,
-            "generations": 1454
+            "generations": 1454,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 120,
             "team2Score": 103,
-            "generations": 1724
+            "generations": 1724,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 190,
             "team2Score": 3,
-            "generations": 1906
+            "generations": 1906,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 112,
             "team2Score": 153,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 224,
             "team2Score": 78,
-            "generations": 1084
+            "generations": 1084,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 256,
             "team2Score": 22,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 264,
             "team2Score": 5,
-            "generations": 2315
+            "generations": 2315,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 138,
             "team2Score": 18,
-            "generations": 1479
+            "generations": 1479,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 170,
             "team2Score": 175,
-            "generations": 2116
+            "generations": 2116,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 69,
             "team2Score": 72,
-            "generations": 1055
+            "generations": 1055,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 111,
             "team2Score": 56,
-            "generations": 1023
+            "generations": 1023,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 196,
             "team2Score": 152,
-            "generations": 2653
+            "generations": 2653,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 282,
             "team2Score": 80,
-            "generations": 1870
+            "generations": 1870,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 83,
             "team2Score": 41,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 162,
             "team2Score": 97,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 108,
             "team2Score": 136,
-            "generations": 1581
+            "generations": 1581,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 122,
             "team2Score": 125,
-            "generations": 1635
+            "generations": 1635,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 150,
             "team2Score": 8,
-            "generations": 1235
+            "generations": 1235,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 283,
             "team2Score": 9,
-            "generations": 2548
+            "generations": 2548,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 357,
             "team2Score": 96,
-            "generations": 4152
+            "generations": 4152,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 120,
             "team2Score": 36,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 273,
             "team2Score": 30,
-            "generations": 1864
+            "generations": 1864,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 224,
             "team2Score": 20,
-            "generations": 2751
+            "generations": 2751,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 602,
             "team2Score": 0,
-            "generations": 1913
+            "generations": 1913,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 95,
             "team2Score": 67,
-            "generations": 1285
+            "generations": 1285,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 179,
             "team2Score": 42,
-            "generations": 1925
+            "generations": 1925,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 283,
             "team2Score": 32,
-            "generations": 5035
+            "generations": 5035,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 191,
             "team2Score": 94,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 80,
             "team2Score": 152,
-            "generations": 1502
+            "generations": 1502,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 122,
             "team2Score": 87,
-            "generations": 1085
+            "generations": 1085,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 395,
             "team2Score": 0,
-            "generations": 1305
+            "generations": 1305,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 295,
             "team2Score": 32,
-            "generations": 1135
+            "generations": 1135,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 113,
             "team2Score": 86,
-            "generations": 1519
+            "generations": 1519,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 460,
             "team2Score": 0,
-            "generations": 1423
+            "generations": 1423,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 55,
             "team2Score": 163,
-            "generations": 1697
+            "generations": 1697,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 218,
             "team2Score": 66,
-            "generations": 1314
+            "generations": 1314,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 161,
             "team2Score": 32,
-            "generations": 1369
+            "generations": 1369,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 157,
             "team2Score": 30,
-            "generations": 1473
+            "generations": 1473,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 307,
             "team2Score": 33,
-            "generations": 1199
+            "generations": 1199,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 330,
             "team2Score": 7,
-            "generations": 6215
+            "generations": 6215,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 131,
             "team2Score": 51,
-            "generations": 1370
+            "generations": 1370,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 97,
             "team2Score": 81,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 94,
             "team2Score": 73,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 125,
             "team2Score": 52,
-            "generations": 1063
+            "generations": 1063,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 116,
             "team2Score": 115,
-            "generations": 2576
+            "generations": 2576,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 125,
             "team2Score": 16,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 306,
             "team2Score": 0,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 371,
             "team2Score": 73,
-            "generations": 2390
+            "generations": 2390,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 285,
             "team2Score": 13,
-            "generations": 1600
+            "generations": 1600,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 322,
             "team2Score": 19,
-            "generations": 2093
+            "generations": 2093,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 244,
             "team2Score": 51,
-            "generations": 6227
+            "generations": 6227,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 206,
             "team2Score": 60,
-            "generations": 2915
+            "generations": 2915,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 146,
             "team2Score": 63,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 27,
             "team2Score": 85,
-            "generations": 2059
+            "generations": 2059,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 148,
             "team2Score": 93,
-            "generations": 1148
+            "generations": 1148,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 279,
             "team2Score": 31,
-            "generations": 1370
+            "generations": 1370,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 94,
             "team2Score": 182,
-            "generations": 1528
+            "generations": 1528,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 123,
             "team2Score": 88,
-            "generations": 1166
+            "generations": 1166,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 270,
             "team2Score": 58,
-            "generations": 3908
+            "generations": 3908,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 162,
             "team2Score": 123,
-            "generations": 1272
+            "generations": 1272,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 126,
             "team2Score": 164,
-            "generations": 1747
+            "generations": 1747,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 192,
             "team2Score": 15,
-            "generations": 2144
+            "generations": 2144,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 256,
             "team2Score": 7,
-            "generations": 2303
+            "generations": 2303,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 183,
             "team2Score": 108,
-            "generations": 1575
+            "generations": 1575,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 77,
             "team2Score": 2,
-            "generations": 1332
+            "generations": 1332,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 90,
             "team2Score": 128,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 276,
             "team2Score": 122,
-            "generations": 1334
+            "generations": 1334,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 87,
             "team2Score": 113,
-            "generations": 1619
+            "generations": 1619,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 124,
             "team2Score": 94,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 92,
             "team2Score": 82,
-            "generations": 2729
+            "generations": 2729,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 175,
             "team2Score": 101,
-            "generations": 2814
+            "generations": 2814,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 12,
             "team2Score": 75,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 203,
             "team2Score": 49,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 281,
             "team2Score": 43,
-            "generations": 1111
+            "generations": 1111,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 93,
             "team2Score": 107,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 121,
             "team2Score": 150,
-            "generations": 1645
+            "generations": 1645,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 120,
             "team2Score": 61,
-            "generations": 1798
+            "generations": 1798,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 132,
             "team2Score": 33,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 343,
             "team2Score": 7,
-            "generations": 1569
+            "generations": 1569,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 56,
             "team2Score": 198,
-            "generations": 3444
+            "generations": 3444,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 120,
             "team2Score": 68,
-            "generations": 1189
+            "generations": 1189,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 140,
             "team2Score": 68,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 131,
             "team2Score": 89,
-            "generations": 1179
+            "generations": 1179,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 151,
             "team2Score": 177,
-            "generations": 2877
+            "generations": 2877,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 72,
             "team2Score": 60,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 257,
             "team2Score": 58,
-            "generations": 1331
+            "generations": 1331,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 190,
             "team2Score": 24,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 35,
             "team2Score": 14,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 86,
             "team2Score": 11,
-            "generations": 1287
+            "generations": 1287,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 276,
             "team2Score": 42,
-            "generations": 2213
+            "generations": 2213,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 79,
             "team2Score": 184,
-            "generations": 2277
+            "generations": 2277,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 123,
             "team2Score": 43,
-            "generations": 1259
+            "generations": 1259,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 232,
             "team2Score": 45,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 281,
             "team2Score": 11,
-            "generations": 1773
+            "generations": 1773,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 155,
             "team2Score": 80,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 162,
             "team2Score": 45,
-            "generations": 1147
+            "generations": 1147,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 244,
             "team2Score": 20,
-            "generations": 2401
+            "generations": 2401,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 249,
             "team2Score": 76,
-            "generations": 1940
+            "generations": 1940,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 70,
             "team2Score": 89,
-            "generations": 1003
+            "generations": 1003,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 144,
             "team2Score": 35,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 348,
             "team2Score": 4,
-            "generations": 1053
+            "generations": 1053,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 169,
             "team2Score": 111,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 13,
             "team2Score": 84,
-            "generations": 1082
+            "generations": 1082,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 200,
             "team2Score": 56,
-            "generations": 1249
+            "generations": 1249,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 106,
             "team2Score": 49,
-            "generations": 1013
+            "generations": 1013,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 198,
             "team2Score": 113,
-            "generations": 4553
+            "generations": 4553,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 330,
             "team2Score": 32,
-            "generations": 3897
+            "generations": 3897,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 247,
             "team2Score": 20,
-            "generations": 2012
+            "generations": 2012,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 156,
             "team2Score": 225,
-            "generations": 1785
+            "generations": 1785,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 153,
             "team2Score": 139,
-            "generations": 2605
+            "generations": 2605,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 204,
             "team2Score": 144,
-            "generations": 3963
+            "generations": 3963,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 198,
             "team2Score": 35,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 43,
             "team2Score": 229,
-            "generations": 1461
+            "generations": 1461,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 152,
             "team2Score": 15,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 113,
             "team2Score": 27,
-            "generations": 1376
+            "generations": 1376,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 274,
             "team2Score": 6,
-            "generations": 2639
+            "generations": 2639,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 149,
             "team2Score": 97,
-            "generations": 1618
+            "generations": 1618,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 141,
             "team2Score": 35,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 113,
             "team2Score": 123,
-            "generations": 1734
+            "generations": 1734,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 178,
             "team2Score": 83,
-            "generations": 1268
+            "generations": 1268,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 276,
             "team2Score": 18,
-            "generations": 3332
+            "generations": 3332,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 158,
             "team2Score": 45,
-            "generations": 2806
+            "generations": 2806,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 611,
             "team2Score": 0,
-            "generations": 1161
+            "generations": 1161,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 112,
             "team2Score": 8,
-            "generations": 1420
+            "generations": 1420,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 259,
             "team2Score": 22,
-            "generations": 4069
+            "generations": 4069,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 32,
             "team2Score": 180,
-            "generations": 2051
+            "generations": 2051,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 151,
             "team2Score": 139,
-            "generations": 1875
+            "generations": 1875,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 62,
             "team2Score": 247,
-            "generations": 2307
+            "generations": 2307,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 191,
             "team2Score": 38,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 270,
             "team2Score": 47,
-            "generations": 1314
+            "generations": 1314,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 203,
             "team2Score": 102,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 135,
             "team2Score": 53,
-            "generations": 1730
+            "generations": 1730,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 93,
             "team2Score": 132,
-            "generations": 1167
+            "generations": 1167,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 160,
             "team2Score": 28,
-            "generations": 1248
+            "generations": 1248,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 41,
             "team2Score": 59,
-            "generations": 1507
+            "generations": 1507,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 172,
             "team2Score": 32,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 300,
             "team2Score": 19,
-            "generations": 1206
+            "generations": 1206,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 170,
             "team2Score": 29,
-            "generations": 2341
+            "generations": 2341,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 209,
             "team2Score": 102,
-            "generations": 3155
+            "generations": 3155,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 122,
             "team2Score": 91,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 83,
             "team2Score": 149,
-            "generations": 1626
+            "generations": 1626,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 195,
             "team2Score": 184,
-            "generations": 2191
+            "generations": 2191,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 170,
             "team2Score": 24,
-            "generations": 1277
+            "generations": 1277,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 144,
             "team2Score": 35,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 350,
             "team2Score": 11,
-            "generations": 1554
+            "generations": 1554,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 225,
             "team2Score": 87,
-            "generations": 4160
+            "generations": 4160,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 43,
             "team2Score": 75,
-            "generations": 1169
+            "generations": 1169,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 113,
             "team2Score": 23,
-            "generations": 1170
+            "generations": 1170,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 78,
             "team2Score": 114,
-            "generations": 1214
+            "generations": 1214,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 143,
             "team2Score": 131,
-            "generations": 1432
+            "generations": 1432,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 119,
             "team2Score": 162,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 284,
             "team2Score": 43,
-            "generations": 2097
+            "generations": 2097,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 157,
             "team2Score": 111,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 178,
             "team2Score": 4,
-            "generations": 2192
+            "generations": 2192,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 85,
             "team2Score": 53,
-            "generations": 1355
+            "generations": 1355,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 262,
             "team2Score": 23,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 395,
             "team2Score": 8,
-            "generations": 3232
+            "generations": 3232,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 85,
             "team2Score": 137,
-            "generations": 1443
+            "generations": 1443,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 129,
             "team2Score": 19,
-            "generations": 1875
+            "generations": 1875,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 115,
             "team2Score": 161,
-            "generations": 1938
+            "generations": 1938,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 296,
             "team2Score": 50,
-            "generations": 4221
+            "generations": 4221,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 288,
             "team2Score": 33,
-            "generations": 2773
+            "generations": 2773,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 341,
             "team2Score": 0,
-            "generations": 1287
+            "generations": 1287,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 192,
             "team2Score": 115,
-            "generations": 1127
+            "generations": 1127,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 124,
             "team2Score": 103,
-            "generations": 1015
+            "generations": 1015,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 79,
             "team2Score": 182,
-            "generations": 2161
+            "generations": 2161,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 182,
             "team2Score": 30,
-            "generations": 1503
+            "generations": 1503,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 273,
             "team2Score": 37,
-            "generations": 2181
+            "generations": 2181,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 149,
             "team2Score": 150,
-            "generations": 1830
+            "generations": 1830,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 53,
             "team2Score": 142,
-            "generations": 1938
+            "generations": 1938,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 41,
             "team2Score": 216,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 115,
             "team2Score": 70,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 321,
             "team2Score": 22,
-            "generations": 1661
+            "generations": 1661,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 35,
             "team2Score": 88,
-            "generations": 1192
+            "generations": 1192,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 76,
             "team2Score": 173,
-            "generations": 1300
+            "generations": 1300,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 216,
             "team2Score": 42,
-            "generations": 1392
+            "generations": 1392,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 38,
             "team2Score": 77,
-            "generations": 1148
+            "generations": 1148,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 478,
             "team2Score": 0,
-            "generations": 2987
+            "generations": 2987,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 111,
             "team2Score": 64,
-            "generations": 1835
+            "generations": 1835,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 61,
             "team2Score": 63,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 248,
             "team2Score": 3,
-            "generations": 3774
+            "generations": 3774,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 97,
             "team2Score": 128,
-            "generations": 1694
+            "generations": 1694,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 135,
             "team2Score": 108,
-            "generations": 1253
+            "generations": 1253,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 78,
             "team2Score": 98,
-            "generations": 1108
+            "generations": 1108,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 263,
             "team2Score": 44,
-            "generations": 1387
+            "generations": 1387,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 124,
             "team2Score": 109,
-            "generations": 1564
+            "generations": 1564,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 472,
             "team2Score": 0,
-            "generations": 1979
+            "generations": 1979,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 46,
             "team2Score": 80,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 131,
             "team2Score": 160,
-            "generations": 1851
+            "generations": 1851,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 235,
             "team2Score": 6,
-            "generations": 2146
+            "generations": 2146,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 356,
             "team2Score": 11,
-            "generations": 3668
+            "generations": 3668,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 72,
             "team2Score": 60,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 161,
             "team2Score": 91,
-            "generations": 2586
+            "generations": 2586,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 120,
             "team2Score": 33,
-            "generations": 1918
+            "generations": 1918,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 313,
             "team2Score": 65,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 209,
             "team2Score": 64,
-            "generations": 1945
+            "generations": 1945,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 119,
             "team2Score": 77,
-            "generations": 1258
+            "generations": 1258,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 111,
             "team2Score": 46,
-            "generations": 1107
+            "generations": 1107,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 160,
             "team2Score": 13,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 111,
             "team2Score": 128,
-            "generations": 2912
+            "generations": 2912,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 88,
             "team2Score": 87,
-            "generations": 1081
+            "generations": 1081,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 309,
             "team2Score": 6,
-            "generations": 1165
+            "generations": 1165,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 146,
             "team2Score": 71,
-            "generations": 2511
+            "generations": 2511,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 141,
             "team2Score": 125,
-            "generations": 2262
+            "generations": 2262,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 228,
             "team2Score": 39,
-            "generations": 1599
+            "generations": 1599,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 197,
             "team2Score": 87,
-            "generations": 1456
+            "generations": 1456,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 238,
             "team2Score": 54,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 290,
             "team2Score": 16,
-            "generations": 2564
+            "generations": 2564,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 254,
             "team2Score": 43,
-            "generations": 3189
+            "generations": 3189,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 30,
             "team2Score": 186,
-            "generations": 1897
+            "generations": 1897,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 135,
             "team2Score": 12,
-            "generations": 1161
+            "generations": 1161,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 287,
             "team2Score": 4,
-            "generations": 1293
+            "generations": 1293,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 162,
             "team2Score": 30,
-            "generations": 1231
+            "generations": 1231,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 187,
             "team2Score": 147,
-            "generations": 2573
+            "generations": 2573,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 174,
             "team2Score": 6,
-            "generations": 1792
+            "generations": 1792,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 73,
             "team2Score": 45,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 266,
             "team2Score": 39,
-            "generations": 3265
+            "generations": 3265,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 175,
             "team2Score": 85,
-            "generations": 2019
+            "generations": 2019,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 223,
             "team2Score": 17,
-            "generations": 1890
+            "generations": 1890,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 118,
             "team2Score": 99,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 264,
             "team2Score": 115,
-            "generations": 1221
+            "generations": 1221,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 179,
             "team2Score": 15,
-            "generations": 2678
+            "generations": 2678,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 140,
             "team2Score": 53,
-            "generations": 1098
+            "generations": 1098,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 134,
             "team2Score": 47,
-            "generations": 3562
+            "generations": 3562,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 171,
             "team2Score": 16,
-            "generations": 1316
+            "generations": 1316,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 269,
             "team2Score": 25,
-            "generations": 3284
+            "generations": 3284,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 145,
             "team2Score": 50,
-            "generations": 1957
+            "generations": 1957,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 247,
             "team2Score": 55,
-            "generations": 1012
+            "generations": 1012,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 204,
             "team2Score": 19,
-            "generations": 1822
+            "generations": 1822,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 277,
             "team2Score": 41,
-            "generations": 1833
+            "generations": 1833,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 36,
             "team2Score": 91,
-            "generations": 1335
+            "generations": 1335,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 192,
             "team2Score": 157,
-            "generations": 1955
+            "generations": 1955,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 75,
             "team2Score": 6,
-            "generations": 1016
+            "generations": 1016,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 190,
             "team2Score": 99,
-            "generations": 2575
+            "generations": 2575,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 266,
             "team2Score": 24,
-            "generations": 3314
+            "generations": 3314,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 306,
             "team2Score": 25,
-            "generations": 1375
+            "generations": 1375,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 72,
             "team2Score": 105,
-            "generations": 1389
+            "generations": 1389,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 170,
             "team2Score": 17,
-            "generations": 3335
+            "generations": 3335,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 91,
             "team2Score": 59,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 140,
             "team2Score": 118,
-            "generations": 1552
+            "generations": 1552,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 134,
             "team2Score": 207,
-            "generations": 2532
+            "generations": 2532,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 190,
             "team2Score": 29,
-            "generations": 2268
+            "generations": 2268,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 71,
             "team2Score": 139,
-            "generations": 2199
+            "generations": 2199,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 153,
             "team2Score": 90,
-            "generations": 2838
+            "generations": 2838,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 78,
             "team2Score": 157,
-            "generations": 1197
+            "generations": 1197,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 107,
             "team2Score": 64,
-            "generations": 2341
+            "generations": 2341,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 138,
             "team2Score": 68,
-            "generations": 1203
+            "generations": 1203,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 218,
             "team2Score": 71,
-            "generations": 1988
+            "generations": 1988,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 119,
             "team2Score": 89,
-            "generations": 1325
+            "generations": 1325,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 86,
             "team2Score": 129,
-            "generations": 1265
+            "generations": 1265,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 269,
             "team2Score": 49,
-            "generations": 1036
+            "generations": 1036,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 87,
             "team2Score": 37,
-            "generations": 1606
+            "generations": 1606,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 89,
             "team2Score": 84,
-            "generations": 1002
+            "generations": 1002,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 120,
             "team2Score": 89,
-            "generations": 1387
+            "generations": 1387,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 217,
             "team2Score": 30,
-            "generations": 4699
+            "generations": 4699,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 52,
             "team2Score": 91,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 74,
             "team2Score": 177,
-            "generations": 1341
+            "generations": 1341,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 230,
             "team2Score": 37,
-            "generations": 1950
+            "generations": 1950,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 297,
             "team2Score": 33,
-            "generations": 2368
+            "generations": 2368,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 284,
             "team2Score": 3,
-            "generations": 2005
+            "generations": 2005,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 163,
             "team2Score": 110,
-            "generations": 1833
+            "generations": 1833,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 91,
             "team2Score": 197,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 111,
             "team2Score": 59,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 140,
             "team2Score": 122,
-            "generations": 1763
+            "generations": 1763,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 191,
             "team2Score": 143,
-            "generations": 2199
+            "generations": 2199,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 323,
             "team2Score": 16,
-            "generations": 2613
+            "generations": 2613,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 293,
             "team2Score": 0,
-            "generations": 1258
+            "generations": 1258,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 133,
             "team2Score": 132,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 389,
             "team2Score": 17,
-            "generations": 4540
+            "generations": 4540,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 83,
             "team2Score": 65,
-            "generations": 1546
+            "generations": 1546,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 68,
             "team2Score": 305,
-            "generations": 1816
+            "generations": 1816,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 34,
             "team2Score": 184,
-            "generations": 2039
+            "generations": 2039,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 107,
             "team2Score": 49,
-            "generations": 1657
+            "generations": 1657,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 104,
             "team2Score": 16,
-            "generations": 1269
+            "generations": 1269,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 163,
             "team2Score": 79,
-            "generations": 2322
+            "generations": 2322,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 345,
             "team2Score": 25,
-            "generations": 2232
+            "generations": 2232,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Baltimore Texas",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 141,
             "team2Score": 58,
-            "generations": 1943
+            "generations": 1943,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 11,
             "team2Score": 273,
-            "generations": 3289
+            "generations": 3289,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 96,
             "team2Score": 100,
-            "generations": 1162
+            "generations": 1162,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 119,
             "team2Score": 162,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 71,
             "team2Score": 92,
-            "generations": 1018
+            "generations": 1018,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 317,
             "team2Score": 79,
-            "generations": 1918
+            "generations": 1918,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 102,
             "team2Score": 98,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 109,
             "team2Score": 104,
-            "generations": 1317
+            "generations": 1317,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 51,
             "team2Score": 176,
-            "generations": 1691
+            "generations": 1691,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 47,
             "team2Score": 205,
-            "generations": 1217
+            "generations": 1217,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 100,
             "team2Score": 142,
-            "generations": 2801
+            "generations": 2801,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 63,
             "team2Score": 61,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 295,
             "team2Score": 63,
-            "generations": 1481
+            "generations": 1481,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 141,
             "team2Score": 17,
-            "generations": 1156
+            "generations": 1156,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 189,
             "team2Score": 85,
-            "generations": 3060
+            "generations": 3060,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 291,
             "team2Score": 55,
-            "generations": 1896
+            "generations": 1896,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 87,
             "team2Score": 164,
-            "generations": 1131
+            "generations": 1131,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 164,
             "team2Score": 100,
-            "generations": 1425
+            "generations": 1425,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 103,
             "team2Score": 109,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 256,
             "team2Score": 36,
-            "generations": 1766
+            "generations": 1766,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 415,
             "team2Score": 0,
-            "generations": 1521
+            "generations": 1521,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 316,
             "team2Score": 17,
-            "generations": 4415
+            "generations": 4415,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 60,
             "team2Score": 195,
-            "generations": 2392
+            "generations": 2392,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 292,
             "team2Score": 16,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 150,
             "team2Score": 124,
-            "generations": 1610
+            "generations": 1610,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 160,
             "team2Score": 73,
-            "generations": 1875
+            "generations": 1875,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 100,
             "team2Score": 20,
-            "generations": 1160
+            "generations": 1160,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 194,
             "team2Score": 131,
-            "generations": 2070
+            "generations": 2070,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 231,
             "team2Score": 45,
-            "generations": 3218
+            "generations": 3218,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 270,
             "team2Score": 38,
-            "generations": 1977
+            "generations": 1977,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 60,
             "team2Score": 81,
-            "generations": 1325
+            "generations": 1325,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 140,
             "team2Score": 125,
-            "generations": 1799
+            "generations": 1799,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Long Beach Flightless Birds",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 167,
             "team2Score": 154,
-            "generations": 2699
+            "generations": 2699,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 19,
             "team2Score": 178,
-            "generations": 1544
+            "generations": 1544,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 255,
             "team2Score": 45,
-            "generations": 1575
+            "generations": 1575,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 136,
             "team2Score": 97,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 166,
             "team2Score": 6,
-            "generations": 1618
+            "generations": 1618,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 89,
             "team2Score": 123,
-            "generations": 1487
+            "generations": 1487,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 341,
             "team2Score": 4,
-            "generations": 1342
+            "generations": 1342,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 64,
             "team2Score": 176,
-            "generations": 2644
+            "generations": 2644,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 153,
             "team2Score": 86,
-            "generations": 1477
+            "generations": 1477,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "San Diego Balloon Animals",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 323,
             "team2Score": 44,
-            "generations": 2807
+            "generations": 2807,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ft. Worth Piano Tuners",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 143,
             "team2Score": 9,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 195,
             "team2Score": 121,
-            "generations": 2433
+            "generations": 2433,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 14,
             "team2Score": 219,
-            "generations": 2378
+            "generations": 2378,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 199,
             "team2Score": 31,
-            "generations": 2062
+            "generations": 2062,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 270,
             "team2Score": 38,
-            "generations": 1977
+            "generations": 1977,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 131,
             "team2Score": 79,
-            "generations": 2338
+            "generations": 2338,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 350,
             "team2Score": 10,
-            "generations": 2905
+            "generations": 2905,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 24,
             "team2Score": 73,
-            "generations": 1599
+            "generations": 1599,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Tucson Butchers",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 222,
             "team2Score": 58,
-            "generations": 2306
+            "generations": 2306,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 306,
             "team2Score": 86,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Delaware Corporate Shells",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 220,
             "team2Score": 75,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 273,
             "team2Score": 37,
-            "generations": 2005
+            "generations": 2005,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 141,
             "team2Score": 84,
-            "generations": 1551
+            "generations": 1551,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 59,
             "team2Score": 2,
-            "generations": 1221
+            "generations": 1221,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Seattle Sneakers",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 259,
             "team2Score": 18,
-            "generations": 2055
+            "generations": 2055,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Jersey OSHA Violations",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 729,
             "team2Score": 0,
-            "generations": 2869
+            "generations": 2869,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elko Astronauts",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 59,
             "team2Score": 150,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milwaukee Flamingos",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 124,
             "team2Score": 41,
-            "generations": 2137
+            "generations": 2137,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "San Francisco Boat Shoes",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 121,
             "team2Score": 45,
-            "generations": 1341
+            "generations": 1341,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Detroit Grape Chews",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 330,
             "team2Score": 3,
-            "generations": 5353
+            "generations": 5353,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Atlanta Glitter Sharks",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 51,
             "team2Score": 135,
-            "generations": 1855
+            "generations": 1855,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ]
 ]

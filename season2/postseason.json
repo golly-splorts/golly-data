@@ -44,7 +44,9 @@
                 },
                 "team1Score": 126,
                 "team2Score": 57,
-                "generations": 672
+                "generations": 672,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 3,
                 "team2Score": 207,
-                "generations": 1018
+                "generations": 1018,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 103,
                 "team2Score": 6,
-                "generations": 1252
+                "generations": 1252,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 247,
                 "team2Score": 6,
-                "generations": 1662
+                "generations": 1662,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 158,
                 "team2Score": 101,
-                "generations": 827
+                "generations": 827,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 152,
                 "team2Score": 141,
-                "generations": 1583
+                "generations": 1583,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 93,
                 "team2Score": 19,
-                "generations": 1416
+                "generations": 1416,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 209,
                 "team2Score": 3,
-                "generations": 1381
+                "generations": 1381,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 144,
                 "team2Score": 132,
-                "generations": 1491
+                "generations": 1491,
+                "team1Abbr": "TB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 134,
                 "team2Score": 30,
-                "generations": 577
+                "generations": 577,
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 245,
                 "team2Score": 53,
-                "generations": 2507
+                "generations": 2507,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 96,
                 "team2Score": 61,
-                "generations": 821
+                "generations": 821,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 218,
                 "team2Score": 176,
-                "generations": 2576
+                "generations": 2576,
+                "team1Abbr": "TB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Elko Astronauts",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 111,
                 "team2Score": 60,
-                "generations": 983
+                "generations": 983,
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 152,
-                "generations": 2780
+                "generations": 2780,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Atlanta Glitter Sharks",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 538,
                 "team2Score": 0,
-                "generations": 1231
+                "generations": 1231,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 431,
                 "team2Score": 3,
-                "generations": 2107
+                "generations": 2107,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 76,
                 "team2Score": 3,
-                "generations": 854
+                "generations": 854,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -862,7 +898,9 @@
                 },
                 "team1Score": 148,
                 "team2Score": 28,
-                "generations": 1769
+                "generations": 1769,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             }
         ]
     ],
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 56,
                 "team2Score": 142,
-                "generations": 2652
+                "generations": 2652,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -956,7 +996,9 @@
                 },
                 "team1Score": 4,
                 "team2Score": 69,
-                "generations": 813
+                "generations": 813,
+                "team1Abbr": "DET",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 107,
                 "team2Score": 11,
-                "generations": 1301
+                "generations": 1301,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1048,7 +1092,9 @@
                 },
                 "team1Score": 86,
                 "team2Score": 101,
-                "generations": 1183
+                "generations": 1183,
+                "team1Abbr": "DET",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 233,
                 "team2Score": 58,
-                "generations": 3047
+                "generations": 3047,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1140,7 +1188,9 @@
                 },
                 "team1Score": 102,
                 "team2Score": 123,
-                "generations": 1684
+                "generations": 1684,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1187,7 +1237,9 @@
                 },
                 "team1Score": 150,
                 "team2Score": 69,
-                "generations": 2239
+                "generations": 2239,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "San Francisco Boat Shoes",
@@ -1232,7 +1284,9 @@
                 },
                 "team1Score": 160,
                 "team2Score": 109,
-                "generations": 1561
+                "generations": 1561,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DET"
             }
         ]
     ],
@@ -1280,7 +1334,9 @@
                 },
                 "team1Score": 205,
                 "team2Score": 4,
-                "generations": 1558
+                "generations": 1558,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1326,7 +1382,9 @@
                 },
                 "team1Score": 708,
                 "team2Score": 0,
-                "generations": 2475
+                "generations": 2475,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1372,7 +1430,9 @@
                 },
                 "team1Score": 204,
                 "team2Score": 10,
-                "generations": 1426
+                "generations": 1426,
+                "team1Abbr": "EA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1418,7 +1478,9 @@
                 },
                 "team1Score": 158,
                 "team2Score": 106,
-                "generations": 1176
+                "generations": 1176,
+                "team1Abbr": "EA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1464,7 +1526,9 @@
                 },
                 "team1Score": 322,
                 "team2Score": 0,
-                "generations": 1481
+                "generations": 1481,
+                "team1Abbr": "EA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1510,7 +1574,9 @@
                 },
                 "team1Score": 164,
                 "team2Score": 66,
-                "generations": 2062
+                "generations": 2062,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1556,7 +1622,9 @@
                 },
                 "team1Score": 167,
                 "team2Score": 101,
-                "generations": 2003
+                "generations": 2003,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ]
     ]

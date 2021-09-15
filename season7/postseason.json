@@ -44,7 +44,9 @@
                 },
                 "team1Score": 294,
                 "team2Score": 75,
-                "generations": 3243
+                "generations": 3243,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 82,
-                "generations": 1982
+                "generations": 1982,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 89,
                 "team2Score": 106,
-                "generations": 1131
+                "generations": 1131,
+                "team1Abbr": "DET",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 224,
                 "team2Score": 74,
-                "generations": 3227
+                "generations": 3227,
+                "team1Abbr": "AA",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 147,
                 "team2Score": 75,
-                "generations": 1562
+                "generations": 1562,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 185,
                 "team2Score": 212,
-                "generations": 1148
+                "generations": 1148,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 69,
                 "team2Score": 223,
-                "generations": 1015
+                "generations": 1015,
+                "team1Abbr": "DET",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 138,
                 "team2Score": 61,
-                "generations": 2295
+                "generations": 2295,
+                "team1Abbr": "AA",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 32,
                 "team2Score": 65,
-                "generations": 1833
+                "generations": 1833,
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Seattle Sneakers",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 226,
                 "team2Score": 32,
-                "generations": 2577
+                "generations": 2577,
+                "team1Abbr": "SS",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 79,
                 "team2Score": 163,
-                "generations": 1718
+                "generations": 1718,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 194,
                 "team2Score": 182,
-                "generations": 2334
+                "generations": 2334,
+                "team1Abbr": "ORL",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 158,
                 "team2Score": 181,
-                "generations": 1183
+                "generations": 1183,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 22,
                 "team2Score": 223,
-                "generations": 2734
+                "generations": 2734,
+                "team1Abbr": "ORL",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -682,7 +710,9 @@
                 },
                 "team1Score": 222,
                 "team2Score": 53,
-                "generations": 1838
+                "generations": 1838,
+                "team1Abbr": "DET",
+                "team2Abbr": "MILF"
             }
         ]
     ],
@@ -731,7 +761,9 @@
                 },
                 "team1Score": 135,
                 "team2Score": 79,
-                "generations": 1329
+                "generations": 1329,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -776,7 +808,9 @@
                 },
                 "team1Score": 52,
                 "team2Score": 91,
-                "generations": 1089
+                "generations": 1089,
+                "team1Abbr": "DET",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -823,7 +857,9 @@
                 },
                 "team1Score": 327,
                 "team2Score": 22,
-                "generations": 3737
+                "generations": 3737,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -868,7 +904,9 @@
                 },
                 "team1Score": 87,
                 "team2Score": 104,
-                "generations": 2048
+                "generations": 2048,
+                "team1Abbr": "DET",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -915,7 +953,9 @@
                 },
                 "team1Score": 335,
                 "team2Score": 14,
-                "generations": 3632
+                "generations": 3632,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Alewife Arsonists",
@@ -960,7 +1000,9 @@
                 },
                 "team1Score": 218,
                 "team2Score": 69,
-                "generations": 2198
+                "generations": 2198,
+                "team1Abbr": "AA",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1007,7 +1049,9 @@
                 },
                 "team1Score": 161,
                 "team2Score": 104,
-                "generations": 1895
+                "generations": 1895,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             }
         ],
         [
@@ -1054,7 +1098,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 173,
-                "generations": 1341
+                "generations": 1341,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             }
         ]
     ],
@@ -1102,7 +1148,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 134,
-                "generations": 2049
+                "generations": 2049,
+                "team1Abbr": "AA",
+                "team2Abbr": "SS"
             }
         ],
         [
@@ -1148,7 +1196,9 @@
                 },
                 "team1Score": 117,
                 "team2Score": 89,
-                "generations": 1214
+                "generations": 1214,
+                "team1Abbr": "AA",
+                "team2Abbr": "SS"
             }
         ],
         [
@@ -1194,7 +1244,9 @@
                 },
                 "team1Score": 19,
                 "team2Score": 41,
-                "generations": 1050
+                "generations": 1050,
+                "team1Abbr": "SS",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1240,7 +1292,9 @@
                 },
                 "team1Score": 299,
                 "team2Score": 0,
-                "generations": 1371
+                "generations": 1371,
+                "team1Abbr": "SS",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1286,7 +1340,9 @@
                 },
                 "team1Score": 22,
                 "team2Score": 194,
-                "generations": 2002
+                "generations": 2002,
+                "team1Abbr": "SS",
+                "team2Abbr": "AA"
             }
         ]
     ]
