@@ -9,7 +9,7 @@
                 "league": "Cold League",
                 "day": 49,
                 "season": 2,
-                "id": "b42672bd-67bd-4eef-b4d2-bc716f9f79ea",
+                "gameid": "b42672bd-67bd-4eef-b4d2-bc716f9f79ea",
                 "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -56,7 +56,7 @@
                 "league": "Cold League",
                 "day": 49,
                 "season": 2,
-                "id": "a320d480-ec73-456e-a06e-fca01e3b2748",
+                "gameid": "a320d480-ec73-456e-a06e-fca01e3b2748",
                 "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -103,7 +103,7 @@
                 "league": "Hot League",
                 "day": 49,
                 "season": 2,
-                "id": "26d4ee16-50e6-414e-9c2a-9b6399b7bc8c",
+                "gameid": "26d4ee16-50e6-414e-9c2a-9b6399b7bc8c",
                 "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -150,7 +150,7 @@
                 "league": "Hot League",
                 "day": 49,
                 "season": 2,
-                "id": "90d6ec74-cce6-4df6-8005-d74b5a2eb50f",
+                "gameid": "90d6ec74-cce6-4df6-8005-d74b5a2eb50f",
                 "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -199,7 +199,7 @@
                 "league": "Cold League",
                 "day": 50,
                 "season": 2,
-                "id": "6083f44d-f4e8-4564-917d-1ad55b24d634",
+                "gameid": "6083f44d-f4e8-4564-917d-1ad55b24d634",
                 "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -246,7 +246,7 @@
                 "league": "Cold League",
                 "day": 50,
                 "season": 2,
-                "id": "a36e5d13-84f8-40df-ac28-00bc558eda1e",
+                "gameid": "a36e5d13-84f8-40df-ac28-00bc558eda1e",
                 "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -293,7 +293,7 @@
                 "league": "Hot League",
                 "day": 50,
                 "season": 2,
-                "id": "341103b0-3bbf-4704-a99f-39069450b3ea",
+                "gameid": "341103b0-3bbf-4704-a99f-39069450b3ea",
                 "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -340,7 +340,7 @@
                 "league": "Hot League",
                 "day": 50,
                 "season": 2,
-                "id": "3a3a5cd0-5482-4fc6-9a80-a6319ba1aef8",
+                "gameid": "3a3a5cd0-5482-4fc6-9a80-a6319ba1aef8",
                 "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -389,7 +389,7 @@
                 "league": "Cold League",
                 "day": 51,
                 "season": 2,
-                "id": "78d9cf65-835c-44a6-9f01-6b66ebe877ec",
+                "gameid": "78d9cf65-835c-44a6-9f01-6b66ebe877ec",
                 "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -436,7 +436,7 @@
                 "league": "Cold League",
                 "day": 51,
                 "season": 2,
-                "id": "1aac59c0-2943-4163-9c4f-e27f86d3ae79",
+                "gameid": "1aac59c0-2943-4163-9c4f-e27f86d3ae79",
                 "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -483,7 +483,7 @@
                 "league": "Hot League",
                 "day": 51,
                 "season": 2,
-                "id": "f614a3a4-d286-4b8d-a8b0-977c5606af8f",
+                "gameid": "f614a3a4-d286-4b8d-a8b0-977c5606af8f",
                 "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -530,7 +530,7 @@
                 "league": "Hot League",
                 "day": 51,
                 "season": 2,
-                "id": "242bff47-4b46-4af0-81c0-8c5f04eeb0fe",
+                "gameid": "242bff47-4b46-4af0-81c0-8c5f04eeb0fe",
                 "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -579,7 +579,7 @@
                 "league": "Cold League",
                 "day": 52,
                 "season": 2,
-                "id": "18c8279c-1238-440f-a2b7-46ad974580d1",
+                "gameid": "18c8279c-1238-440f-a2b7-46ad974580d1",
                 "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -626,7 +626,7 @@
                 "league": "Cold League",
                 "day": 52,
                 "season": 2,
-                "id": "2805c322-65d0-4b38-b780-d5d725abc050",
+                "gameid": "2805c322-65d0-4b38-b780-d5d725abc050",
                 "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -673,7 +673,7 @@
                 "league": "Hot League",
                 "day": 52,
                 "season": 2,
-                "id": "490b4813-96f4-4e14-95a3-c67b4194b36d",
+                "gameid": "490b4813-96f4-4e14-95a3-c67b4194b36d",
                 "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -720,7 +720,7 @@
                 "league": "Hot League",
                 "day": 52,
                 "season": 2,
-                "id": "6ed60c08-8472-4b9d-a6f3-b903ba167f13",
+                "gameid": "6ed60c08-8472-4b9d-a6f3-b903ba167f13",
                 "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -769,7 +769,7 @@
                 "league": "Cold League",
                 "day": 53,
                 "season": 2,
-                "id": "be7ae40c-c497-41e8-b05c-03f5665014d1",
+                "gameid": "be7ae40c-c497-41e8-b05c-03f5665014d1",
                 "isPostseason": true,
                 "description": "Game 5, Cold League Division Series 1",
                 "team1PostseasonWinLoss": [
@@ -816,7 +816,7 @@
                 "league": "Hot League",
                 "day": 53,
                 "season": 2,
-                "id": "55f3a014-2250-40ee-9307-7163744b7263",
+                "gameid": "55f3a014-2250-40ee-9307-7163744b7263",
                 "isPostseason": true,
                 "description": "Game 5, Hot League Division Series 2",
                 "team1PostseasonWinLoss": [
@@ -863,7 +863,7 @@
                 "league": "Hot League",
                 "day": 53,
                 "season": 2,
-                "id": "a6fbbf8f-0596-4e43-bbee-c8490a195c67",
+                "gameid": "a6fbbf8f-0596-4e43-bbee-c8490a195c67",
                 "description": "Game 5, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -914,7 +914,7 @@
                 "league": "Cold League",
                 "day": 54,
                 "season": 2,
-                "id": "87f2b094-7fc7-4c2c-ad94-f7824c9f457f",
+                "gameid": "87f2b094-7fc7-4c2c-ad94-f7824c9f457f",
                 "description": "Game 1, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -961,7 +961,7 @@
                 "league": "Hot League",
                 "day": 54,
                 "season": 2,
-                "id": "84d9ed94-c403-4948-9291-9d133f31aa06",
+                "gameid": "84d9ed94-c403-4948-9291-9d133f31aa06",
                 "description": "Game 1, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1010,7 +1010,7 @@
                 "league": "Cold League",
                 "day": 55,
                 "season": 2,
-                "id": "0f660657-bbda-42b9-bf09-0096139a189b",
+                "gameid": "0f660657-bbda-42b9-bf09-0096139a189b",
                 "description": "Game 2, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1057,7 +1057,7 @@
                 "league": "Hot League",
                 "day": 55,
                 "season": 2,
-                "id": "738e6af5-6c5f-4845-90e2-2adbd6fcb736",
+                "gameid": "738e6af5-6c5f-4845-90e2-2adbd6fcb736",
                 "description": "Game 2, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1106,7 +1106,7 @@
                 "league": "Cold League",
                 "day": 56,
                 "season": 2,
-                "id": "d35b6572-65a4-4ca1-ab66-2815a5dbc582",
+                "gameid": "d35b6572-65a4-4ca1-ab66-2815a5dbc582",
                 "description": "Game 3, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1153,7 +1153,7 @@
                 "league": "Hot League",
                 "day": 56,
                 "season": 2,
-                "id": "ef0ef1bf-b1a0-42f7-a2df-283910eca606",
+                "gameid": "ef0ef1bf-b1a0-42f7-a2df-283910eca606",
                 "description": "Game 3, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1202,7 +1202,7 @@
                 "league": "Cold League",
                 "day": 57,
                 "season": 2,
-                "id": "885719c6-f35a-4052-9d22-cb22ae78f2e9",
+                "gameid": "885719c6-f35a-4052-9d22-cb22ae78f2e9",
                 "description": "Game 4, Cold League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1249,7 +1249,7 @@
                 "league": "Hot League",
                 "day": 57,
                 "season": 2,
-                "id": "05dd3e41-9934-4e66-95e7-5fc02c2a30e5",
+                "gameid": "05dd3e41-9934-4e66-95e7-5fc02c2a30e5",
                 "description": "Game 4, Hot League Championship Series",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1299,7 +1299,7 @@
                 "team2Color": "#a0e7e5",
                 "day": 58,
                 "season": 2,
-                "id": "275f2e3c-4387-4d35-bc5e-a10d80ed9702",
+                "gameid": "275f2e3c-4387-4d35-bc5e-a10d80ed9702",
                 "description": "Game 1, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1347,7 +1347,7 @@
                 "team2Color": "#a0e7e5",
                 "day": 59,
                 "season": 2,
-                "id": "6cf2f196-1715-4258-89ca-5bdcf70b0e03",
+                "gameid": "6cf2f196-1715-4258-89ca-5bdcf70b0e03",
                 "description": "Game 2, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1395,7 +1395,7 @@
                 "team2Color": "#e7d7c1",
                 "day": 60,
                 "season": 2,
-                "id": "45253139-49d6-472d-89c1-a30495c6ccb2",
+                "gameid": "45253139-49d6-472d-89c1-a30495c6ccb2",
                 "description": "Game 3, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1443,7 +1443,7 @@
                 "team2Color": "#e7d7c1",
                 "day": 61,
                 "season": 2,
-                "id": "eb46b7ab-9aa8-4a7a-8207-40cf812bb2d8",
+                "gameid": "eb46b7ab-9aa8-4a7a-8207-40cf812bb2d8",
                 "description": "Game 4, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1491,7 +1491,7 @@
                 "team2Color": "#e7d7c1",
                 "day": 62,
                 "season": 2,
-                "id": "2203d46f-c0d1-4382-b75e-882ee2dbd8fb",
+                "gameid": "2203d46f-c0d1-4382-b75e-882ee2dbd8fb",
                 "description": "Game 5, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1539,7 +1539,7 @@
                 "team2Color": "#a0e7e5",
                 "day": 63,
                 "season": 2,
-                "id": "b6fbbf8f-0596-4e43-bbee-c8490a195c68",
+                "gameid": "b6fbbf8f-0596-4e43-bbee-c8490a195c68",
                 "description": "Game 6, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1587,7 +1587,7 @@
                 "team2Color": "#a0e7e5",
                 "day": 64,
                 "season": 2,
-                "id": "e97016df-265a-4714-b6fc-54fd0d9493e2",
+                "gameid": "e97016df-265a-4714-b6fc-54fd0d9493e2",
                 "description": "Game 7, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
